@@ -1,0 +1,2 @@
+Il danno viene modificato del <value=enchant>%.
+Durata dell'incantesimo: <value=duration> turni.

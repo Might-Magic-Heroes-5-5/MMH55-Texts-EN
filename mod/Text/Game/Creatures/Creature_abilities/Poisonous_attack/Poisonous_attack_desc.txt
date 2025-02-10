@@ -1,0 +1,1 @@
+﻿In addition to normal damage the attacked enemy will also be poisoned. The poison damage is proportional to the number of creatures in the attacking stack (at the time of poisoning). Each Assassin and Stalker does 1 damage for the next 3 actions. Each Manticore does 8 damage for the next 3 actions.

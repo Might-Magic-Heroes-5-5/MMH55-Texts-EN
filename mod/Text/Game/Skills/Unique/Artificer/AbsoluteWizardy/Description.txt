@@ -1,0 +1,1 @@
+﻿All spells that are in existence will be written to the hero's spellbook, and the hero will be able to cast them on expert level.

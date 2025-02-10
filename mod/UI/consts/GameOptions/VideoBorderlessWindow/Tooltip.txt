@@ -1,0 +1,1 @@
+﻿Removes border from game window in window mode.

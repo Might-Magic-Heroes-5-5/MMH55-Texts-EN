@@ -1,0 +1,1 @@
+﻿The hero gains +2 Spellpower and increases it further by 1 for every 10 levels. The hero also learns a new random spell of level 1-3, for which he or she has the skill prerequisites.

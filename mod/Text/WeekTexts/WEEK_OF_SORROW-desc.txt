@@ -1,0 +1,1 @@
+﻿Morale and luck for all creatures from Haven, Sylvan and Academy factions is reduced by 1 during battles.

@@ -1,0 +1,1 @@
+﻿All the troops guarding this town get +1 bonus to their Luck.

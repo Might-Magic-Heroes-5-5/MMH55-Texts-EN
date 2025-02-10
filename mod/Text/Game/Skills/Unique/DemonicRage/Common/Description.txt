@@ -1,0 +1,1 @@
+﻿Allows Stronghold creatures in hero’s army to fly into a rage while fighting. The resulting Blood Rage grants them appropriate combat bonuses.

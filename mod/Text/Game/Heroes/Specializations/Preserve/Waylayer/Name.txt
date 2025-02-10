@@ -1,0 +1,1 @@
+﻿Class: Ranger<br>Specialization: Swift Striker<br><br><body_bright>Creature's in hero's army have a +0.5% per hero level bonus to their initiative on the start of combat.<br><color_default>Starts with Advanced Logistics.

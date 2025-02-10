@@ -1,0 +1,1 @@
+﻿The Hero acquires the Teleportation spell and the ability to cast it with assault effect, increasing the initiative of creature being teleported.<br><color_default>The target cannot be teleported behind castle walls, unless the hero has learned Expert Dark Magic. The ATB value of the teleported stack is increased by 0.5, capped to 1.

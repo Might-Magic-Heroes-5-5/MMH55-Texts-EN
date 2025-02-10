@@ -1,0 +1,1 @@
+﻿Class: Renegade<br>Specialization: Fanatic<br><br><body_bright>The Initiative of all creatures in the hero's army is increased by 2.5% + 0.25% per hero level.<br><color_default>Starts with Advanced Offense.

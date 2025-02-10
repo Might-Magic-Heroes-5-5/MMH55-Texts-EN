@@ -1,0 +1,1 @@
+﻿The hero gains +2 Attack and the Hellfire ability is more effective. Additional fire damage to enemy creatures will also be dealt on retaliation strikes.

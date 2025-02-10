@@ -1,0 +1,1 @@
+﻿The hero regains full mana at the cost of movement points. Depending on the mastery of Sorcery, the hero will lose 12, 10 or 8 movement points for every point of mana recovered. This ability can only be used when the hero hasn't lost any movement points.

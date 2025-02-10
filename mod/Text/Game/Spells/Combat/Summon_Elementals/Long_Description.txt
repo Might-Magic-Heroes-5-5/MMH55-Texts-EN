@@ -1,0 +1,1 @@
+﻿Summons a stack of Elementals to fight for the hero's cause. The type of summoned elementals depends on the perks the hero has learned in Summoning Magic and is by default Earth elementals if no perks are learned.

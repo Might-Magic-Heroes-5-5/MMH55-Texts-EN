@@ -1,0 +1,1 @@
+﻿This creature restores its health by an amount equal to the hitpoints of 15% of the size of the stack. The amount is per battle, not per turn. Once the total amount is used the creatures stops regenerating.

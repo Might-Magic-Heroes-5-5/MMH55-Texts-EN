@@ -1,0 +1,1 @@
+﻿This creature is absolutely immune to all spells except those that inflict damage. Any spell that deals magical damage, heals 25% of its damage in HP (with resurrection).

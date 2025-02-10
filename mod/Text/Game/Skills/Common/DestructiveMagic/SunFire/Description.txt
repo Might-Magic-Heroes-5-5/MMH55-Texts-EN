@@ -1,0 +1,1 @@
+﻿The hero learns the Earthquake spell and calls upon the forces of nature to punish enemy casters. Any time an enemy creature casts a spell it will receive damage 30 times the hero's level.<br><color_default>Chieftains do not learn Earthquake.

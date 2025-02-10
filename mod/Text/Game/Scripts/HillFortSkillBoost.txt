@@ -1,0 +1,4 @@
+﻿The training grounds for upgrading creatures have shut down permanently, but the Quartermaster is still willing to give you some advanced combat training.
+ 
+OK = +2 Attack
+Cancel = +2 Defense

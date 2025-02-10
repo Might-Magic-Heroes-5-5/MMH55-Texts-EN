@@ -1,0 +1,1 @@
+﻿Air spell damage increased by 10% during battles. Amount of summoned Air Elementals increases by 50%.

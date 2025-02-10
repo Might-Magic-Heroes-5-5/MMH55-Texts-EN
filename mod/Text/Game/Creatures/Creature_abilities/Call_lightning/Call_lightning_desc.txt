@@ -1,0 +1,1 @@
+﻿The creature fires a lightning bolt causing magical damage equal to 40 * the size of the stack. Can be used as a ranged attack even when the stack is engaged in melee.

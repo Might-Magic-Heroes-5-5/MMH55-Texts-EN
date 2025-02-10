@@ -1,0 +1,1 @@
+﻿So, you want to forget <value=skill_name>...<br>It will cost you <value=price> gold. Are you sure?<br><br>Warning: Unlearning skills marked as 'Adventure Skill: ' in the description will cause mental scars: the hero will loose 2 random primary skills, which can never be gained back unless the skill is relearned immediately when closing this screen.

@@ -1,0 +1,8 @@
+﻿-------------------------------------------------------------------------------
+TRADING POST
+-------------------------------------------------------------------------------
+
+Choose the desired type of Potion:
+
+OK = Buy Mana Potion (5000 gold)
+Cancel = Buy Movement Potion (10000 gold)

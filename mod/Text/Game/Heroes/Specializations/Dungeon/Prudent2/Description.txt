@@ -1,0 +1,1 @@
+﻿Intimidate: Enemy units have penalty to Initiative, depending on hero level. Enemy Initiative is reduced by 2% + 0.2% per hero's Level.

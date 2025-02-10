@@ -1,0 +1,2 @@
+Obrażenia są modyfikowane przez <value=enchant>%.
+Czas trwania zaklęcia: <value=duration> akcji.

@@ -1,0 +1,1 @@
+﻿Dean: The hero has +1 Morale permanently and at the start of each week additional Giants, Titans and Colossi will be available for recruitment in all owned Academy towns. The amount is equal to 0.04*hero level. There are no extra creatures available before level 13.

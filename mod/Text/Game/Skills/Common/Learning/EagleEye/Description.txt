@@ -1,0 +1,1 @@
+﻿Enables the hero to learn any unknown spells used by an enemy hero or creature in combat, provided that all prerequisites to learn the spell is met, and to see the contents of the enemy inventory.

@@ -1,0 +1,1 @@
+﻿The hero calls upon the forces of nature to affect enemy flying creatures. Initiative of all enemy flyers is decreased by 2 and their speed by 1.

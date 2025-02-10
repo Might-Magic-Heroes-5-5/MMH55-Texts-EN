@@ -1,0 +1,1 @@
+﻿Class: Warlock<br>Specialization: Mystic<br><br><body_bright>The hero starts with +1 Luck and loses less movement points when using the Arcane Ritual ability. The movement cost is reduced by 2 per mana point recovered.<br><color_default>Starts with Basic Destructive Magic.

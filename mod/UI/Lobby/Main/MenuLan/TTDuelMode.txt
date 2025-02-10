@@ -1,0 +1,1 @@
+﻿Play duels between two heroes under perfectly equal conditions.

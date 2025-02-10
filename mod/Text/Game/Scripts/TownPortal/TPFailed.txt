@@ -1,0 +1,1 @@
+﻿<color=red>Town Portal failed!, make sure there is room in the town garrison.

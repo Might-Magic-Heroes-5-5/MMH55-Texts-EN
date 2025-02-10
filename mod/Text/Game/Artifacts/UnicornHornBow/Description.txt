@@ -1,0 +1,5 @@
+﻿-1 Luck<br>
+Negates range penalties for all friendly shooting creatures<br><br><color=purple>
+Archer's Dream<color_default><br>
++1 Luck (2/2)<br>
+*Set bonus is applied after closing the Inventory screen.

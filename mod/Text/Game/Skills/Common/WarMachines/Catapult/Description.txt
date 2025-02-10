@@ -1,0 +1,2 @@
+﻿Allows manual control of the Catapult and the Catapult gains one extra shot. The hero also receives the Ammo Cart's Attack bonuses that are normally awarded only to the ranged units in the army.<br><color_default>
+Restores the ammo cart after the battle if it was destroyed. The Catapult's and Ammo Cart's Hit Points are multiplied by 3.

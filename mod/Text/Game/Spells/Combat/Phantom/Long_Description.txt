@@ -1,0 +1,1 @@
+﻿Copies the selected friendly unit (only one copy can be made). The copy can't cast any spells or use any abilities and disappears as soon as it recieves any damage (Incorporeal ability gives the copy 50% chance to avoid any damage). The maximum Tier that can be copied is 1,2,3 or 4 depending on mastery level and increases by 0.1 per Spellpower.

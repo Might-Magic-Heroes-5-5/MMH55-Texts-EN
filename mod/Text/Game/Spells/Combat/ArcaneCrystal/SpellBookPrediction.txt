@@ -1,0 +1,1 @@
+﻿Crystal health:<value=health><br>Damage when destroyed: <value=damage>

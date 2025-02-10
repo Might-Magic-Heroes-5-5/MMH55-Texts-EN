@@ -1,0 +1,4 @@
+﻿+3 Spellpower<br>
++20% Experience gain<br><br>
+<color=purple>Vestment of Enlightenment<color_default><br>
+The hero receives an amount of experience every day for wearing both the Turban and the Scale Mail. The amount is equal to the amount of days passed * 10.

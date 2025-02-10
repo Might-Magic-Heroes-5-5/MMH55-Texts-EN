@@ -1,0 +1,1 @@
+﻿Spell cost is halved during battles.

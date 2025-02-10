@@ -1,0 +1,1 @@
+﻿Fanatic: The hero starts with Gating (a skill Sorcerors normally cannot learn) and the initiative of all creatures in the hero's army is increased by 2.5% + 0.25% per hero level.

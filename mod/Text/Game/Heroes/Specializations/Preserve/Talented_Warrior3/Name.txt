@@ -1,0 +1,1 @@
+﻿Class: Warlock<br>Specialization: Magic of the Seven Cities<br><br><body_bright>The hero starts with Summoning Magic and his Knowledge increases by +1 for every 7 levels, also all experience gained after battles is increased by 2% per hero level.<br><color_default>Starts with Master of Conjuration perk. 

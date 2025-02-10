@@ -1,0 +1,7 @@
+﻿There are currently no native Tier1 creatures in your army to allow for scouting this object, would you like to attack the guards without scouting?
+-------------------------------------------------------------------------------
+
+OK = Attack
+Cancel = Leave
+
+-------------------------------------------------------------------------------

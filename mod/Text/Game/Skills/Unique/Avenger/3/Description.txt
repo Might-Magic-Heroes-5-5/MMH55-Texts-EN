@@ -1,0 +1,1 @@
+﻿Allows the hero to choose 3 favoured enemies from the Avenger's Guild in any Sylvan town (selecting an initial creature will cover it's upgrades as well). All hero's troops will receive a 70% chance to inflict a critical hit upon that creature, doing 50% more damage. The hero must kill "two weeks' base growth" of a creature before it can be selected.

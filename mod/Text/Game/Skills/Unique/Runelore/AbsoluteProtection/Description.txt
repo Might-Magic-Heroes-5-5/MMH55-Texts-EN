@@ -1,0 +1,1 @@
+﻿Normal attacks against hero's creatures are always unlucky. Lucky attacks are turned to normal. If enemy has the Absolute Luck perk, effects of both perks are nullified.

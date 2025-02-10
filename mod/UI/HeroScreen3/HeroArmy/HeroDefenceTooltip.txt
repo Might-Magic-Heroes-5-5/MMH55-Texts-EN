@@ -1,0 +1,1 @@
+﻿Decreases physical damage the hero's troops suffer in combat.

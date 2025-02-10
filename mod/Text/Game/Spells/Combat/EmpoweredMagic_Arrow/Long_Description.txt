@@ -1,0 +1,1 @@
+﻿Fires a magical arrow that deals non-elemental damage to the selected enemy creature.

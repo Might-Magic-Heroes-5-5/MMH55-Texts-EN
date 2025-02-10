@@ -1,0 +1,1 @@
+﻿<color=yellow>This town is protected from conversion.

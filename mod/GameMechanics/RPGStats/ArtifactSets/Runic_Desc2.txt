@@ -1,0 +1,1 @@
+﻿Adds +1 to all hero’s parameters. Overlords, Assassins and Warlocks also receive +1 Luck.

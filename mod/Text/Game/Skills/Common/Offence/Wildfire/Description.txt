@@ -1,0 +1,1 @@
+﻿The Ballista under hero's command ignores 50% of enemy defense and inflicts additional fire damage. The amount per shot is equal to the level of the hero. A destroyed Ballista will be restored in hero's army after combat.

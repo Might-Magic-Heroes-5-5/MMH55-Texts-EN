@@ -1,0 +1,1 @@
+﻿Defender of Faith: At the start of combat additional mana will become available to all friendly Priests (+6), Inquisitors (+14) and Zealots (+7). Furthermore, at the start of each week more of such creatures will be available for recruitment in all owned Haven towns. The amount is equal to 0.13*hero level. There are no extra creatures available before level 4.

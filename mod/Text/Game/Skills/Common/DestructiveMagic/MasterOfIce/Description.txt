@@ -1,0 +1,1 @@
+﻿The hero learns the Ice Bolt spell and is granted freezing effect to Ice Bolt, Circle of Winter and Deep Freeze spells.<br><color_default>The spells will freeze their targets for 0.4 turns, during which their ATB value does not increase (an effective reduction of 0.4*Initiative/10). For the Circle of Winter spell the effect will be divided as 0.4/amount of targets hit.

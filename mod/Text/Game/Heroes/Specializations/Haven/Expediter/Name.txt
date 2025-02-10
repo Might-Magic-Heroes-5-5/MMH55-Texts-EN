@@ -1,0 +1,1 @@
+﻿Class: Knight<br>Specialization: Paragon<br><br><body_bright>The hero starts with +2 Knowledge and the effect of the Haste spell is increased by 0.15% for every hero level.<br><color_default>Starts with Basic Light Magic.

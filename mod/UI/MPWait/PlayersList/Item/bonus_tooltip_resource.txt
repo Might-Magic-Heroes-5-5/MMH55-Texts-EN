@@ -1,0 +1,6 @@
+﻿<color=red>Nightmare Mode<color_default><br>
+* AI heroes cannot be looted.
+* All AI players will team up against the human player, AI calculation time is reduced on maps with multiple AI players.
+* If there are multiple human players they will team up against the AI players.
+* AI heroes never flee combat and fight to the death.
+* Battle Sites have +10% growth.

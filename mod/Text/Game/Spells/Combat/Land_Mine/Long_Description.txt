@@ -1,0 +1,1 @@
+﻿Puts randomly several magical explosive mines in a selected area of the battlefield. Mines are invisible to the enemy.

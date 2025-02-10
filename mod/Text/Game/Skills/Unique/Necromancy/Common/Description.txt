@@ -1,0 +1,1 @@
+﻿Allows the hero to raise part of fallen enemy living creatures.

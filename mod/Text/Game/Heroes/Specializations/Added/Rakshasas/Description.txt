@@ -1,0 +1,1 @@
+﻿Beastmaster: All Rakshasa Ranis, Rakshasa Rajas and Rakshasa Ksathras in the hero's army will get to act immediately when combat starts. Also, at the start of each week more of such creatures will be available for recruitment in all owned Academy towns. The amount is equal to 0.08 * hero level. There are no extra creatures available before level 7.

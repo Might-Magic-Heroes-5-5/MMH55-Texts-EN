@@ -1,0 +1,3 @@
+﻿<h4> Stronghold heroes can upgrade their talismans here to acquire new adventure spells.<br>
+
+<body_bright>The hero <value=hero_name> now have <value=talisman_level>.

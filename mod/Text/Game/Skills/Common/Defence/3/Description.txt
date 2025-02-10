@@ -1,0 +1,1 @@
+﻿Decreases damage dealt to your creatures in melee combat by 20%. The First Aid Tent increases its healing power by 40HP.

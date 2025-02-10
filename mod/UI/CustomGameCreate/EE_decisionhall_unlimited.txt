@@ -1,0 +1,1 @@
+﻿<value_name>Hall of Decision: <value_value>never

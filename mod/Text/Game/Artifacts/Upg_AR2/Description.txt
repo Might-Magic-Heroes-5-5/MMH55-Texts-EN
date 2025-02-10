@@ -1,0 +1,2 @@
+﻿+7 Defense<br>
+-2 Mana Cost to any equipped resurrecting artifacts

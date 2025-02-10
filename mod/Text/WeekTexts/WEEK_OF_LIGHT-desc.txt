@@ -1,0 +1,1 @@
+﻿Luck and morale for all creatures from Necropolis, Inferno and Dungeon factions is reduced by 1 during battles.

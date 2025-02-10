@@ -1,0 +1,1 @@
+﻿Hides artifacts on the map and neutral heroes use them if setting is above Normal. Artifacts are replaced with campfires. Campfires will boost your movement and mana. Mana regeneration is reduced by half. Mixed neutral stack generation will always be disabled when this feature is selected.

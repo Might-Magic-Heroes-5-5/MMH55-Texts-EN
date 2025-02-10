@@ -1,0 +1,1 @@
+﻿The troops led by the hero inflict additional melee and ranged damage if their Morale is above zero (+3% for each point of Morale). The bonus is limited to 15%. For Necropolis heroes, the skill increases Attack by 3. 

@@ -1,0 +1,1 @@
+﻿This creature can restore it's health and even their numbers by devouring the enemy corpses lying on the battlefield within its movement range (activated ability). The health gained is equal to 20% of the dead stack's Hit Points.

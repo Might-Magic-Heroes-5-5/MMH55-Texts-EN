@@ -1,0 +1,1 @@
+﻿Shooting towers of this town do more damage to an enemy. Defense towers have a 25% bonus to damage.

@@ -1,0 +1,1 @@
+﻿The hero gains +2 Knowledge and all casters in hero army will spend only half the required Mana to cast spells.

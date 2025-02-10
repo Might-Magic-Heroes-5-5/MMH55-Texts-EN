@@ -1,0 +1,1 @@
+﻿Transports the hero and his army to the nearest friendly town.<color_default><br>This spell requires level 10 to be learned. No magic skill is required.

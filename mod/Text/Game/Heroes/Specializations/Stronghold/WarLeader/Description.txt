@@ -1,0 +1,1 @@
+﻿The New Khan: All Warcries have their costs decreased by 1+Level/10 and grant an additional amount of rage points equal to the hero’s level.

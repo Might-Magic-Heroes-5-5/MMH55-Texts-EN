@@ -1,0 +1,1 @@
+﻿Class: Knight<br>Specialization: Archer Commander<br><br><body_bright>All Archers, Marksmen and Crossbowmen in hero's army gain +1 to their Attack and Defence for every two levels of the hero, starting on first level.<br><color_default>Starts with Basic Leadership.

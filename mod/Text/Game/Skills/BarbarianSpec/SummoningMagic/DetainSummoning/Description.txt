@@ -1,0 +1,1 @@
+﻿The hero's Knowledge is increased by 2 and if anyone casts a Summoning Magic spell, their next turn is delayed by 15% longer than normal.

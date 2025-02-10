@@ -1,0 +1,3 @@
+﻿+2 Spellpower<br>
+Grants the ability to cast spell <value=spell_name> from this wand at Advanced Mastery (unless the Hero’s Mastery level is higher). The wand has a limited number of uses and can be recharged at a Magic Guild (uses <value=charges_cur>/<value=charges_max>)
+<br><color_default>Chieftains cannot cast the spell but receive the Spellpower bonus.

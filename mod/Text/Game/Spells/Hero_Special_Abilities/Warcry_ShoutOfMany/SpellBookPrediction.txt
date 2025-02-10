@@ -1,0 +1,1 @@
+﻿Spell Damage: <value=damage>.<br>Increases hero's army rage by <value=army_rp>.

@@ -1,0 +1,1 @@
+﻿Grants all Inferno heroes +2500 experience (cumulative with multiple towns) and allows to sacrifice creatures at this building in exchange for extra experience.<br><br><color=0099FF>Governance<color_default><br>Grants the Governor of this town a +2 Attack Bonus.

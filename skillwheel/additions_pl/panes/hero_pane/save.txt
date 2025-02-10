@@ -1,0 +1,3 @@
+Zapisz
+Wprowadź nazwę zapisu
+Zduplikowana nazwa. Czy chcesz nadpisać?

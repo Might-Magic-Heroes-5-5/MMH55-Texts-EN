@@ -1,0 +1,1 @@
+﻿This creature can repair friendly mechanical creatures (Golems) and war machines once per combat (activated ability). The amount of repaired Hit Points is equal to 2 per Gremlin. This ability requires at least 20 Gremlins to be present in the stack at the start of combat.

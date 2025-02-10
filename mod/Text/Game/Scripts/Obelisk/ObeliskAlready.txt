@@ -1,0 +1,1 @@
+﻿<color=yellow>You have already deciphered this Obelisk, You found <value=amount> out of <value=total>!

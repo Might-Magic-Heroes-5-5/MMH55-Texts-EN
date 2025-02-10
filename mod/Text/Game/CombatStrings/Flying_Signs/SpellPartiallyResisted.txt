@@ -1,0 +1,1 @@
+﻿<combat_flying_signs><color_negative>Partially resisted!

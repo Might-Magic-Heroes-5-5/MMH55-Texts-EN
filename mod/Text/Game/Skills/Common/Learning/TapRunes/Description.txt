@@ -1,0 +1,1 @@
+﻿The hero learns the Rune of Etherealness and each time a rune is cast the hero will restore some Mana, equal to Knowledge/2 (rounded down).

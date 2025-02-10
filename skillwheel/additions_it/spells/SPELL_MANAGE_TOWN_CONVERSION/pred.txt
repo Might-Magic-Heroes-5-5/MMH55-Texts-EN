@@ -1,0 +1,3 @@
+Costo della città: (Livello_città+1)*(3000 oro + 3 legno + 3 minerali + 1 mercurio + 1 cristallo + 1 zolfo + 1 gemma)
+
+Costo dell'insediamento (oro,legno,minerale): T1 - 2000, 5, 5; T2 - 4000, 5, 5; T3 - 6000, 5, 5; T4-7 - 8000, 10, 10

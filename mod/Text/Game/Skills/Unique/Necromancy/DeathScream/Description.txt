@@ -1,0 +1,1 @@
+﻿A special combat ability to call upon death itself in combat. All enemy living creatures receive -1 to Morale and Luck, and -10% on Initiative. The duration of the effect is 2 + 0.05*(Hero Level) turns. The hero's ATB value resets to 0.1 after use.

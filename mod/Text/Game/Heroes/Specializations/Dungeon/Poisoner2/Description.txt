@@ -1,0 +1,1 @@
+﻿Poison Master: Enemy units may enter the combat already poisoned, chances depend on hero level. Chances are 10%+Level*1%, for each enemy unit. The hero’s Mana is not drained. Magic protection of the targets reduces the Decay effect, but Magic Mirror doesn't work.

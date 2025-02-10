@@ -1,0 +1,1 @@
+﻿Class: Sorcerer<br>Specialization: Flame Wielder<br><br><body_bright>Effective Spellpower of the hero is increased when casting Fireball or Empowered Fireball. The increase is equal to hero level/3.<br><color_default>Starts with Master of Fire perk.

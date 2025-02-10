@@ -1,0 +1,1 @@
+﻿The hero prefers his weapon instead of magic. There's a 70% chance that the hero performs a critical strike dealing double damage to the target.

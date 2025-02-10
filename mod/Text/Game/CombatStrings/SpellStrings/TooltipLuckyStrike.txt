@@ -1,0 +1,1 @@
+﻿<color_default>Abilities have second chance to trigger

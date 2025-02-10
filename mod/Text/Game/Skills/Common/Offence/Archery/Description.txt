@@ -1,0 +1,1 @@
+﻿Increases damage dealt by hero's creatures in ranged combat by 15%.

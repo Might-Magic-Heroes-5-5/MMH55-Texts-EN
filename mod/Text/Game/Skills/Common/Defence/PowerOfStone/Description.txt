@@ -1,0 +1,1 @@
+﻿The hero acquires the Mass Deflect Missile and Magical Immunity spells on Expert level<br><color_default>The hero’s ATB value is reset to 0.24 after casting any Mass Spell regardless of Sorcery level.

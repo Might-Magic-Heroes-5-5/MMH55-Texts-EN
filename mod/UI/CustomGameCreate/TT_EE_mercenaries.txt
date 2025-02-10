@@ -1,0 +1,9 @@
+﻿Allows you to adjust how often neutral heroes support neutral stacks. Neutral Heroes will be the same level as the hero. Not recommended for MMH5.5 maps, since neutral resistance is already scaled up.
+
+Normal: Off
+
+Hard: ~25% of stacks
+
+Heroic: ~50% of stacks
+
+Impossible: ~90% of stacks

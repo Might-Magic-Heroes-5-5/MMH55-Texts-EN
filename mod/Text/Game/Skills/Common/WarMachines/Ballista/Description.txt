@@ -1,0 +1,2 @@
+﻿Allows manual control of the Ballista and the Ballista gains one extra shot.<br><color_default>
+Restores the Ballista after the battle if it was destroyed. The Ballista's Hit Points are multiplied by 3.

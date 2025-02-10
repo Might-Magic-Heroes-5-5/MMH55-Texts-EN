@@ -1,0 +1,2 @@
+﻿+8 Knowledge<br>
+-1 Luck

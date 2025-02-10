@@ -1,0 +1,1 @@
+﻿The hero learns the Haste spell and is granted mass effects to Righteous Might and Haste spells. Adds +4 to effective Spellpower of the Word of Light spell.<br><color_default>Mass spells hit all enemy targets with a 33% weaker effect and cost four times as much mana, but are always cast as fast as if the hero has expert Sorcery.

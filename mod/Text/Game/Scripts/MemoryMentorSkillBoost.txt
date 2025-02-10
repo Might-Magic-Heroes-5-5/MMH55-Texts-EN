@@ -1,0 +1,4 @@
+﻿The practice of Memory Mentoring is currently banned in these lands but the Mage is still willing to give you some basic magic training.
+ 
+OK = +2 Spellpower
+Cancel = +2 Knowledge

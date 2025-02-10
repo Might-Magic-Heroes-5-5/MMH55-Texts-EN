@@ -1,0 +1,1 @@
+﻿Decreases damage dealt to your creatures by ranged attacks by 15%.

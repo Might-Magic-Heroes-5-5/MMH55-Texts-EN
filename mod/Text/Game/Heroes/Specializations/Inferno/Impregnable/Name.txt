@@ -1,0 +1,1 @@
+﻿Class: Demon Lord<br>Specialization: Spellbreaker<br><br><body_bright>All creatures in hero's army gain 5% Magic Resistance and + 1% per hero level.<br><color_default>Starts with Vitality perk.

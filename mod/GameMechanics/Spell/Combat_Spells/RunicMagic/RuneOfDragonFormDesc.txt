@@ -1,0 +1,1 @@
+﻿Doubles the Attack and Defense of the creature for one turn. Attack and Defense bonuses gained from the hero are not doubled and the spell doesn't work on dragons.

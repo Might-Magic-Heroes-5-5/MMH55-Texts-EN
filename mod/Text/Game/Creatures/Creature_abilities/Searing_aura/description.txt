@@ -1,0 +1,1 @@
+﻿Once an enemy creature that is within 1 tile range from this creature takes its turn, it suffers fire damage in proportion with the number of creatures in the stack. At the beginning of its turn, any enemy adjacent creature suffers stacksize * 6 fire damage.

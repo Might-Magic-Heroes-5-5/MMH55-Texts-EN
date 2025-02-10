@@ -1,0 +1,1 @@
+﻿<color=yellow>You have deciphered the Obelisk and it has revealed to you the location of a forgotten Crypt, Would you like to investigate it for treasures?<br><br>(Threat level: Challenging)<br><br>OK = Accept<br>CANCEL = Refuse<br><br>If refused this challenge can be accepted later.

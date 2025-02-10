@@ -1,0 +1,1 @@
+﻿Grants Druids +1 Spellpower (cumulative with multiple towns, doesn't require visiting the town) and provides +2 luck bonus for any army defending this town.

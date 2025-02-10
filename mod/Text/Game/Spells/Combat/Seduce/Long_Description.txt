@@ -1,0 +1,1 @@
+﻿Gives control over an enemy stacks that is not immune to Mind Control. The duration is 2 turns if the stack is equally valuable (in experience), but is reduced or increased to a maximum of 4 depending on the difference in value. The Succubus cannot act during the seduction.

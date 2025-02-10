@@ -1,0 +1,1 @@
+﻿<color=yellow>You have already setup a supply network for this building.

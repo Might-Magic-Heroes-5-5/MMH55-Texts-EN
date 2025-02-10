@@ -1,0 +1,1 @@
+﻿Makes creatures in targeted enemy stack forget what they are doing on a battlefield. Some of the affected creatures will forget to use shooting attacks and retaliation strikes. This spell also reduces Rage on Orcs by 20 per mastery level. (The spell does not work on undead, elemental and mechanical units.) 

@@ -1,0 +1,1 @@
+﻿A special combat ability to encourage friendly troops on the battlefield, making their turns come faster. The ATB value of the target is increased by 0.4, capped to 1. The hero's ATB value resets to 0.1 after use.

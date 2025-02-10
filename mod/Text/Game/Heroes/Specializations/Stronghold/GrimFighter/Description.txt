@@ -1,0 +1,1 @@
+﻿Fist of the Khan: A stack of Warriors joins the hero's army at the start of combat, the amount is equal to 25% of the Warriors, Maulers and Warmongers the hero already has in his army. Warriors and their upgrades in the hero's army also gain +1 to their Attack and Defense for every two levels of the hero, starting on first level.

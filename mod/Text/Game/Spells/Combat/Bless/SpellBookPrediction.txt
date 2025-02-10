@@ -1,0 +1,1 @@
+﻿Minimum damage is increased by <value=enchant>% towards the maximum for <value=duration> turns.

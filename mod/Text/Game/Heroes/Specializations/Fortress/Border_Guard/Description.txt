@@ -1,0 +1,1 @@
+﻿Border Guard: Hero has a bonus to his Defense (+1 Defense for each 2 hero levels) if fights are one day away from owned city.

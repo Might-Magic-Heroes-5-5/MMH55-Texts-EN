@@ -1,0 +1,1 @@
+﻿Show Combat Log <hotkey=input_switch_atb_log>.

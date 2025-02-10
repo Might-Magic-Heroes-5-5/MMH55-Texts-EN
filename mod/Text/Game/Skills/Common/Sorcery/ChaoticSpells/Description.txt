@@ -1,0 +1,1 @@
+﻿Every spell cast by the hero (including adventure spells) will have its cost reduced by a random amount between 10% and 30%.

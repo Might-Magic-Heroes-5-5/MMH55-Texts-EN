@@ -1,0 +1,1 @@
+﻿Class: Gatekeeper<br>Specialization: Master of Gating<br><br><body_bright>The number of creatures called through the Gating increases by 0.33% per hero level and all Horned Demons, Horned Overseers and Horned Grunts in the hero's army will get to act immediately when combat starts.<br><color_default>Starts with Advanced Gating.

@@ -1,0 +1,1 @@
+﻿Increases normal maximum mana by 40%. Mana regeneration rate is not increased.

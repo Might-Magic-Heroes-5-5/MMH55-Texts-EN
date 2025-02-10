@@ -1,0 +1,1 @@
+﻿Deals ice damage to selected enemy unit.

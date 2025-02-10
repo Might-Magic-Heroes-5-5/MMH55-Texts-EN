@@ -1,0 +1,1 @@
+﻿<color_default>+<value=attack> attack, +<value=defense> defense, +<value=health> health

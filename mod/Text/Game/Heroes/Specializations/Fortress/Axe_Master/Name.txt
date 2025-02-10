@@ -1,0 +1,1 @@
+﻿Class: Engineer<br>Specialization: Sharp Blade<br><br><body_bright>All Spearwielders, Skirmishers and Harpooners in hero's army gain +1 to their Attack and Defense for every two levels of the hero, starting on first level.<br><color_default>Starts with Soldier's Luck perk.

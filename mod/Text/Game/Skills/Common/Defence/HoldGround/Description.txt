@@ -1,0 +1,1 @@
+﻿Troops under hero's control get an additional +30% bonus to their defense carrying out the Defend command.<br><color_default>The Take Roots bonus on Defend is also doubled, and gives Ancient Treants a 100% increase to Defense.

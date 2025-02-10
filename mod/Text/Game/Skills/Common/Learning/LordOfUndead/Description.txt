@@ -1,0 +1,1 @@
+﻿The hero gains +2 Knowledge and earns 0.5 Gold per day for every skeleton in his army. Necropolis heroes also raise an additional amount of skeletons every week. The amount is equal to their Knowledge.

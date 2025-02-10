@@ -1,0 +1,1 @@
+﻿Deals fire damage to all units in the target area.

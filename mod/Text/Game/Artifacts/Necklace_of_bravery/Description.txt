@@ -1,0 +1,5 @@
+﻿+1 Attack<br>
++1 Morale<br><br><color=purple>
+The Lion Spirit<color_default><br>
++6 Attack (3/3)<br>
+*Set bonus is applied after closing the Inventory screen.

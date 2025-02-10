@@ -1,0 +1,4 @@
+﻿+12 Knowledge<br>
++L^4 Experience when first equipped<br>
+Grants friendly creatures Immunity to Hypnotize<br><br><color_default>
+(L=Hero level, for example 810000 experience at level 30)

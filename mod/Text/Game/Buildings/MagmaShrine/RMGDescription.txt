@@ -1,0 +1,3 @@
+﻿+1 Morale
++400 Movement
+Offer a Gem and the Dragon God may heed your call.<color_default><br>An Offering can only be done once and has diminished effect in Week 1.

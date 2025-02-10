@@ -1,0 +1,1 @@
+﻿Damage dealt by hero's troops on retaliation strikes is increased by 30%.

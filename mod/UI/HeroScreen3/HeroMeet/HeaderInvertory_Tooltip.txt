@@ -1,0 +1,1 @@
+﻿Your heroes' artifacts - both those worn and those in reserve. Artifacts increase heroes' attributes or give them special abilities. Here you can exchange artifacts between heroes.

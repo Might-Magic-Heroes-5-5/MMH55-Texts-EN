@@ -1,0 +1,1 @@
+﻿The speed of all units in the hero's army is increased by 1.

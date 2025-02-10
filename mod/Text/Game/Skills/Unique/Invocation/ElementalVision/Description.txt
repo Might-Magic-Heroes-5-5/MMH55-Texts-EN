@@ -1,0 +1,1 @@
+﻿The hero will be able to see the elements associated with enemy creatures so that Destructive Magic spells of the opposite element can inflict additional damage. The additional damage is +5% for every mastery level of Occultism and +5% for every Altar of the Elements build.

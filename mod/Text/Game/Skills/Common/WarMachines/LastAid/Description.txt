@@ -1,0 +1,1 @@
+﻿The First Aid Tent gains the ability to damage enemy creatures. The damage dealt is the same as the tent's healing power. Plague shots do not consume healing shots, but will be depleted when there are no healing shots left.

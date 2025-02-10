@@ -1,0 +1,1 @@
+﻿The hero obtains a special combat ability that negates all effects of the next spell cast by the enemy, but drains double the mana cost of that spell.

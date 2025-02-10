@@ -1,0 +1,1 @@
+﻿This creature can hasten the chosen friendly unit's turn by increasing their ATB with 0.01 * SZ (= This creature's Stack Size), but not by more than 0.6. Simultaneously damage will be dealt equal to SZ (activated ability).

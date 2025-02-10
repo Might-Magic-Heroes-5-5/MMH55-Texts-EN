@@ -1,0 +1,3 @@
+﻿+2 Spellpower<br>
++4 Spellpower when casting Summon Elementals<br><color_default>
+Grants the Summon Elementals Spell if it wasn't learned already.

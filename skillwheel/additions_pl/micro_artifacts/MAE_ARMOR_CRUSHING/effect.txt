@@ -1,0 +1,1 @@
+Każde trafienie zmniejsza obronę wrogiej istoty o <value>.

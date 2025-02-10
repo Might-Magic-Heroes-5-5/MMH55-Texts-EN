@@ -1,0 +1,1 @@
+﻿This creature is more effective in melee combat and only inflicts half of its damage in ranged attacks (Hold down Ctrl button to engage enemies in melee).

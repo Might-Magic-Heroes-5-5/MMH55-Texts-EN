@@ -1,0 +1,1 @@
+﻿During attack, this creature deals full damage not only to the target but also any other unit (friendly or foe) positioned directly behind it.

@@ -1,0 +1,1 @@
+﻿Increases the selected friendly unit's defense strength. Spellpower determines the duration of effect.

@@ -1,0 +1,1 @@
+﻿Class: Chieftain<br>Specialization: Pounder<br><br><body_bright>The hero randomly attacks an enemy creature right at the beginning of combat. Moreover, all hero’s attacks deal +1% damage for every level of the hero.<br><color_default>Starts with Martial Arts perk.

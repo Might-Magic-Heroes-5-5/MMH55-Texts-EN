@@ -1,0 +1,1 @@
+﻿<h4>Cost to raise this creature: <body_bright><value=needed_energy> points<h4> of Dark Energy.

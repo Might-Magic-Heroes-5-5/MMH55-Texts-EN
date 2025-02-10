@@ -1,0 +1,1 @@
+﻿Teleports targeted friendly creature to another location on a battlefield (Expert mastery is required to teleport creatures over town walls).

@@ -1,0 +1,1 @@
+﻿Barbarian hero moves backward along the ATB bar 30% less than usual while attacking.

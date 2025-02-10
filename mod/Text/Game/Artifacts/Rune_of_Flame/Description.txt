@@ -1,0 +1,3 @@
+﻿+2 Attack<br>
++2 Mana after every battle<br><br>
+Grants dwarven heroes <value=spell_name>.

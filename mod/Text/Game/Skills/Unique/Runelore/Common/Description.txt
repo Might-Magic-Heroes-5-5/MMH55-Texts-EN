@@ -1,0 +1,1 @@
+﻿Allows magical runes to be placed on own creatures in combat that temporarily give them new battle abilities and characteristics. The level of this skill determines the level of the runes that can be used. 

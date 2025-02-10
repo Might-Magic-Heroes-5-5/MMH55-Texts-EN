@@ -1,0 +1,1 @@
+﻿Increases minimum and maximum damage of each creature under hero's control by 1.

@@ -1,0 +1,1 @@
+﻿At the beginning of the combat one of the enemy War Machines comes under your control. One War Machine is randomly picked, excluding the Catapult.

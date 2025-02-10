@@ -1,0 +1,6 @@
+Evocazione
+Fai clic con il tasto sinistro/destro del mouse per aumentare di 1/10. Tasto centrale per ripristinare.
+Fai clic con il tasto sinistro/destro del mouse per aumentare di 1. Tasto centrale per ripristinare.
+Livello dell'eroe, fai clic con il tasto sinistro/destro del mouse per aumentare di 1/10. Tasto centrale per ripristinare.
+Quantità di cristalli di sangue del drago
+Livello della gilda magica

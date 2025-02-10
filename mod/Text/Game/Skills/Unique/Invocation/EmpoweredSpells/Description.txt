@@ -1,0 +1,1 @@
+﻿All direct damaging spells can be cast by the hero with more power. Additional damage is equal to 30% + 1% per hero level, but the mana cost is doubled.

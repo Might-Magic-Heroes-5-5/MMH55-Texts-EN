@@ -1,0 +1,1 @@
+﻿Class: Conjurer<br>Specialization: Professor<br><br><body_bright>The hero's Spellpower increases by +1 for every 6 levels.<br><color_default>Starts with Basic Enlightenment.

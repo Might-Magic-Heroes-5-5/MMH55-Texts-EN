@@ -1,0 +1,1 @@
+﻿<body_bright><center>SkillWheel<br><br><color_default>Displays a detailed schematic of skills&perks available for each hero class along with hero class attributes and explanations of all skills&perks in MMH5.5.

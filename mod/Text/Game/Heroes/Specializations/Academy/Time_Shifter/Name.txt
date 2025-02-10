@@ -1,0 +1,1 @@
+﻿Class: Wizard<br>Specialization: Time Shifter<br><br><body_bright>Caster transforms the local time continuum, changing the order of creatures' actions at the start of combat. The intensity of the transformation depends on the hero's level.

@@ -1,0 +1,1 @@
+﻿Doubles Mana and Spellpower of all casters in hero’s army. Hero moves backward along the ATB bar 10% less than usual while casting any spell. Seers, Wizards and Elementalists have their Spellpower increased by +4.

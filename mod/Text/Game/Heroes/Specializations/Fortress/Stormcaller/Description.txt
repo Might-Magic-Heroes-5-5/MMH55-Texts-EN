@@ -1,0 +1,1 @@
+﻿Arcane Archer: The hero learns the Empowered Lightning Bolt spell at level 10 and the Empowered Chain Lightning spell at level 30, despite not being able to learn the Empowered spells perk. Lightning spells imbued or cast by this hero ignore magic resistance, but immunities and magic-proof still apply.<br><color_default>Starts with Master of Lightning perk.

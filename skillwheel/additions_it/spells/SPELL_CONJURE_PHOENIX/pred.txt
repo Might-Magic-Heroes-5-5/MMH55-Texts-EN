@@ -1,0 +1,1 @@
+Il potere magico effettivo è 1/<value=damage> del potere magico dell'eroe.

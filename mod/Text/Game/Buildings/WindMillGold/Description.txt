@@ -1,0 +1,1 @@
+﻿Provides a small amount of gold once per week.

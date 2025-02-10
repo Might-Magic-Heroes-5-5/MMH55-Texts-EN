@@ -1,0 +1,2 @@
+﻿+3 Spellpower<br>
++8% Magic Resistance

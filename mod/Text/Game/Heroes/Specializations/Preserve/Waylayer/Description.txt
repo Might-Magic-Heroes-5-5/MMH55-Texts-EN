@@ -1,0 +1,1 @@
+﻿Swift Striker: Creature's in hero's army have a +0.5% per hero level bonus to their initiative on the start of combat.

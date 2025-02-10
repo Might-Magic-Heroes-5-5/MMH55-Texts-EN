@@ -1,0 +1,1 @@
+﻿Every time the enemy hero casts a spell, their ATB value is decreased by 0.15.

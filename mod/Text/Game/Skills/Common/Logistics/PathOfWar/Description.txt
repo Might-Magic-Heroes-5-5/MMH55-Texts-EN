@@ -1,0 +1,2 @@
+﻿Adventure Skill: The hero gains 50 movement points after every battle on land<br><color_default>
+The hero also doesn't lose any movement for engaging in combat. This part of the bonus doesn't stack with the Snatch skill or artifacts.

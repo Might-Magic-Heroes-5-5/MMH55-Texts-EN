@@ -1,0 +1,10 @@
+﻿Welcome to our Casino, would you like to make a bet in one of our Little Wheel games?
+
+-------------------------------------------------------------------------------
+
+OK = Bet <value=bet> gold on all even numbers (<value=chance>% chance for <value=reward> gold)
+Cancel = Leave
+
+-------------------------------------------------------------------------------
+
+You can place only one bet per Casino. For every next Casino you find on the adventure map you can place a bigger bet, regardless of whether you won or lost the previous bet.

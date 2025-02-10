@@ -1,0 +1,1 @@
+﻿Summons a ship. Hero must stand on a shore and there must be an unoccupied boat nearby for the spell to be successful.<color_default><br>This spell requires no magic skill to be learned.

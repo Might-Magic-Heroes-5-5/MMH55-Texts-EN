@@ -1,0 +1,1 @@
+﻿Allows hero to learn Destructive Magic spells of the third circle and makes Destructive Magic more effective overall.

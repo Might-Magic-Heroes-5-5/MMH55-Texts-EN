@@ -1,0 +1,1 @@
+﻿Inflicts heavy damage to town walls and towers during a siege and a small amount of physical damage to all creatures (friend and foe) even if cast outside a siege battle. Damage to creatures is equal to 20 + (2 * Spellpower), regardless of mastery level.

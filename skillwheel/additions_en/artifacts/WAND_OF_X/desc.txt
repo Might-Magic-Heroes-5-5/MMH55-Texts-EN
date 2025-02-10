@@ -1,0 +1,5 @@
++2 Spellpower
+
+Grants the ability to cast spell from this wand at Advanced Mastery (unless the Hero’s Mastery level is higher). The wand has a limited number of uses and can be recharged at a Magic Guild. The spell provided can be one of the following: "Wasp Swarm" (6), "Fireball" (4), "Ice Bolt" (6), "Confusion" (6), "Arcane Crystal" (5), "Teleport" (3), "Dispel" (3), "Earthquake" (5), "Defflect Missile" (6), "Sorrow" (5).
+
+Chieftains cannot cast the spell but receive the Spellpower bonus.

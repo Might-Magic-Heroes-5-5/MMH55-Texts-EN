@@ -1,0 +1,1 @@
+﻿Sorry, but I see that you don't have <value=price> gold to pay for erasing <value=skill_name> from your memory!

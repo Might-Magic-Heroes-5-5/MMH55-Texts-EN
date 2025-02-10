@@ -1,0 +1,1 @@
+﻿Bloodlord: At the start of combat the hero casts Vampirism on a friendly stack of Griffins, Royal Griffins or Battle Griffins (ignoring stacks of one unit). The spell costs no mana and the hero's ATB value is reset to a random value between 0.7 and 0.8 after casting the spell, but the Swift Mind perk has no effect on this hero.

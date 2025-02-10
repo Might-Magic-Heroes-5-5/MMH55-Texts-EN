@@ -1,0 +1,15 @@
+Proprietà
+Livello
+Nessuno
+Di base
+Avanzata
+Esperta
+Livello di padronanza
+Costo di mana
+Potere magico
+Fai clic con il tasto sinistro/destro del mouse per aumentare il potere magico di 1/10. Tasto centrale per ripristinare.
+Requisiti
+Versione di massa
+Versione potenziata
+Livello dell'eroe per il calcolo dei danni potenziati. Fai clic con il tasto sinistro/destro del mouse per aggiungere +1/+10. Tasto centrale per ripristinare.
+Scuole native

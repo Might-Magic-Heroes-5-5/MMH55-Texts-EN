@@ -1,0 +1,1 @@
+﻿Reanimator: The Reanimation spell has increased effect. The spellpower of this spell is increased by +1 for every 3 levels of hero, starting on first level.

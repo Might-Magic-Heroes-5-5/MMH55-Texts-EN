@@ -1,0 +1,1 @@
+﻿Target's initiative is modified by <value=enchant>%. Spell duration: <value=duration> turns. Does not work on tier 7 creatures.

@@ -1,0 +1,1 @@
+﻿Encloses the target stack with a magical energy shield that partly drains all damage dealt to the stack until it is destroyed. The effectiveness depends on Spellpower and complete invulnerability can be achieved if the caster has 60 of it.

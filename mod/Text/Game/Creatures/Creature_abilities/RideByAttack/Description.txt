@@ -1,0 +1,1 @@
+﻿On its way to the main target, this creature attacks all enemy stacks, delivering 50 percent of its normal damage to them without suffering retaliation.

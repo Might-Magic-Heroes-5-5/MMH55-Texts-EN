@@ -1,0 +1,1 @@
+﻿Play duels between two heroes under perfectly equal conditions. To play against AI activate auto-combat for one player.

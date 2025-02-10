@@ -1,0 +1,1 @@
+﻿Dark Conjurer: The hero starts with the 'Summon Spectral Dragon' ability. The summoned dragon becomes more powerful and costs more mana with every hero level. Spellpower will also improve its damage and durability. The Spectral Dragon gains the following abilities with levels: Weakening Strike (6), Life Drain (12), Incorporeal (18), Magical Immunity (24)

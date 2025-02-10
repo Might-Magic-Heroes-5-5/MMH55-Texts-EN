@@ -1,0 +1,1 @@
+﻿The Retaliation Strike ability inflicts 50% more base damage, stacking up to triple damage if Martial Arts is triggered.

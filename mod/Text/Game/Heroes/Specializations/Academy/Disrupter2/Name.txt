@@ -1,0 +1,1 @@
+﻿Class: Renegade<br>Specialization: Disruptor<br><br><body_bright>Specializes in Vulnerability so that the spell not only decreases the Defence of the target, but also inflicts damage. Damage inflicted depends on hero level. Damage is = 30+30*ceil(Level/2), where ceil() is the rounding up function.<br><color_default>Starts with Master of Pain perk.

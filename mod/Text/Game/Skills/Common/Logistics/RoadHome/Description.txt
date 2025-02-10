@@ -1,0 +1,1 @@
+﻿Adventure Skill: All creatures in hero's army receive +1 movement speed if the battle is taking place on dirt terrain and Necropolis heroes raise an additional amount of Ghosts every week. The amount is equal to their Knowledge and will be added to their army instead of the skeletons from the Lord of the Undead perk.

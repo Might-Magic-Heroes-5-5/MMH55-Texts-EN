@@ -1,0 +1,2 @@
+﻿+8 Attack<br>
+-1 Morale

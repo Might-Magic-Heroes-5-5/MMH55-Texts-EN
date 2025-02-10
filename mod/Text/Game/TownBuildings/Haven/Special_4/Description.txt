@@ -1,0 +1,1 @@
+﻿Grants the visiting hero +500 Movement points for one day and +250 Movement points until the end of the week.

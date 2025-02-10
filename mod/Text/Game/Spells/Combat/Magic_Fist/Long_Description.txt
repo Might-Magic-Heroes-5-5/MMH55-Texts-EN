@@ -1,0 +1,1 @@
+﻿Summons a magical fist that deals non-elemental physical damage to the targeted enemy creature. This spell ignores magic resistance, protection and immunity from magic.

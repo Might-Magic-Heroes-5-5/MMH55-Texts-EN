@@ -1,0 +1,1 @@
+﻿When this creature is subjected to melee attack, its Fire Shield reflects 40% of the received damage back to the attacker, regardless of whether it can retaliate.

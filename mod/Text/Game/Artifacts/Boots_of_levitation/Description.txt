@@ -1,0 +1,2 @@
+﻿Grants the Ability to walk on water and ignore terrain penalties completely. Movement cost per tile is reduced by 25 (except when travelling on roads)<br><br><color=red>
+Levitated<color_default><br>Logistics & Pathfinding skills have no effect.

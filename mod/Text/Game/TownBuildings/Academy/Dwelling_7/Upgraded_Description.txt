@@ -1,0 +1,2 @@
+﻿<color_default>An upgrade of the Cloud Coliseum.<br>
+<color_bright>The Thundercloud Coliseum allows you to recruit Titans and Colossi.

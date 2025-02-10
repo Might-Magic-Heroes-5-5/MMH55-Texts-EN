@@ -1,0 +1,1 @@
+﻿Allows hero to choose 1 to 4 favoured enemies (depending on skill level) from the Avenger's Guild in any Rampart town. All hero's troops will receive a 40% chance of inflicting a critical hit upon that creature, doing double damage to it. Before choosing a creature as a favoured enemy, the hero must kill two whole populations of that creature.

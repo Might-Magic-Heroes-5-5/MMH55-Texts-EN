@@ -1,0 +1,1 @@
+﻿Class: Knight<br>Specialization: Suzerain<br><br><body_bright>All Footman, Squires and Vindicators in the hero's army will get to act immediately when combat starts. The hero also contributes 250 gold pieces to the kingdom's treasury every day and training costs are reduced by 1% + 1% for every 2 hero levels.<br><color_default>Starts with Basic Combat.

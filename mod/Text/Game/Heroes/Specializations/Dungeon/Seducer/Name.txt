@@ -1,0 +1,1 @@
+﻿Class: Overlord<br>Specialization: Blood Mistress<br><br><body_bright>All Blood Maidens, Blood Furies and Blood Sisters in hero's army gain +1 to their Attack and Defence for every two levels of the hero, starting on first level.<br><color_default>Starts with Advanced Leadership.

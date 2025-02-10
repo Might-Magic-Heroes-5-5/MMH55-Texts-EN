@@ -1,0 +1,1 @@
+﻿Class: Runemage<br>Specialization: King of the Stone Halls<br><br><body_bright>All creatures in hero’s army have “Rune of Magic Control” effect permanently active (refreshes at the start of creature turn).

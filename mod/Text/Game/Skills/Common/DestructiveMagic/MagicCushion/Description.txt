@@ -1,0 +1,1 @@
+﻿Increases hero's Luck by 1 permanently and all damage dealt by enemy spells is reduced by 20%.

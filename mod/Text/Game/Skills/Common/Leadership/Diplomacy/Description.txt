@@ -1,0 +1,1 @@
+﻿Adventure Skill: Allows hero to effectively negotiate with hostile creatures. Increases chances and reduces costs of creatures that wish to join your army.

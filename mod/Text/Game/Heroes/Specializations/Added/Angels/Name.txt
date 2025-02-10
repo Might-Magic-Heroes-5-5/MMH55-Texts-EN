@@ -1,0 +1,1 @@
+﻿Class: Knight<br>Specialization: Chosen of Elrath<br><br><body_bright>The hero has +1 Morale permanently and at the start of each week additional Angels, Archangels and Seraphs will be available for recruitment in all owned Haven towns. The amount is equal 0.04*hero level. There are no extra creatures available before level 13.<br><color_default>Starts with Basic Combat.

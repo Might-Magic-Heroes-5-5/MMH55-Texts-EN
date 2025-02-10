@@ -1,0 +1,1 @@
+﻿The seer is interested in the <color=white><value=qty> <value=type><color_default> you have in possession. Would you like to hand them over?

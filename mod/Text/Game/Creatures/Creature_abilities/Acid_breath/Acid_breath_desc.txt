@@ -1,0 +1,1 @@
+﻿During attack, this creature damages not only the target but also any other unit positioned directly behind it. The secondary targets take 50% less damage.

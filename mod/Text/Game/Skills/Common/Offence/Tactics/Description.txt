@@ -1,0 +1,1 @@
+﻿Increases the area in which the hero can rearrange creatures before combat, making a third row available for deployment. If the opponent also has Tactics, both effects are cancelled.

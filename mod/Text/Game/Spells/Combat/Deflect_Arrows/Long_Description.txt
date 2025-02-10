@@ -1,0 +1,1 @@
+﻿Creates a magical shield around the target reducing incoming ranged damage.

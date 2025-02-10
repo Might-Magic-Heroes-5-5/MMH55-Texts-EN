@@ -1,0 +1,2 @@
+﻿Chieftains are granted 50 points of rage to the army at the start of every combat. Shamans & Witches gain +1 Knowledge permanently (cumulative with multiple towns).<br><br>
+<color=0099FF>Governance<color_default><br>Grants the Governor of this town a +2 Attack Bonus.

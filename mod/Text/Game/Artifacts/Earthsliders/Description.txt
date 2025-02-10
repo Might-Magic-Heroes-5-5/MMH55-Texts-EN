@@ -1,0 +1,3 @@
+﻿+15% Damage to Earth Spells<br>
++2 Mana per day if equipped uninterrupted<br><color_default>
+Damage boost affects Stone Spikes, Meteor Shower, Implosion and Decay

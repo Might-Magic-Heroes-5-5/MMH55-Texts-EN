@@ -1,0 +1,1 @@
+﻿The hero learns the Rune of Berserking and is allowed to refresh a previously placed Rune (randomly selected if many) on a selected creature. The hero spends only half a turn to refresh a Rune. Once refreshed on a creature, the Rune becomes available again at the normal cost.

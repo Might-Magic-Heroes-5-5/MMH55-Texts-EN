@@ -1,0 +1,2 @@
+﻿Damage: <color=green><value=damage><color=white><br>
+Kills: <color=red><value=kills><color=white>

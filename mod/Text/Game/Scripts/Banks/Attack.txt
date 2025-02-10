@@ -1,0 +1,1 @@
+﻿<color=yellow>Your Attack is increased by +<value=param> permanently.

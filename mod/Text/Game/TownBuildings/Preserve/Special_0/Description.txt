@@ -1,0 +1,2 @@
+﻿Allows Avengers to select their favored enemies and increases Knowledge of all Avengers by 1 (cumulative with mutliple towns and doesn't require visiting the town)<br><br>
+<color=0099FF>Governance<color_default><br>Grants the Governor of this town a +1 Knowledge Bonus.

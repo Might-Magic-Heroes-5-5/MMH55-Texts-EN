@@ -1,0 +1,1 @@
+﻿The hero gains +4 Defense and all creatures under the hero's control receive only 50% damage from all fire spells and are immune to armor damaging effects of Master of Fire ability.

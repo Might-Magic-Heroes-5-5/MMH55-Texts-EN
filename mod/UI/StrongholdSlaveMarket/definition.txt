@@ -1,0 +1,1 @@
+﻿<body>Slave Market allows you to sell creatures from your army to gain money. The selling price depends on number of marketplaces in your kingdom.

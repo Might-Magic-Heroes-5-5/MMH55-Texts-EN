@@ -1,0 +1,1 @@
+﻿Increases damage dealt by hero's troops on retaliation strikes. Allows Knight to upgrade human troops to next highest unit. Only works within Haven towns where Training Grounds facility has been built.

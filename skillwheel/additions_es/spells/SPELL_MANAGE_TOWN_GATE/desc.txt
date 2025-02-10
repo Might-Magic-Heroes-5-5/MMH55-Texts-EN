@@ -1,0 +1,1 @@
+Si "Administrar Ciudad" es usado en el mapa de aventura, el Héroe puede usar el hechizo "Portal a Ciudad". Este es una version avanzada de "Portico a la Ciudad"; Permite al Héroe viajar a cualquier ciudad con una Cofradia de Magos Nivel 5. El hechizo rota por las ciudades una a la vez.

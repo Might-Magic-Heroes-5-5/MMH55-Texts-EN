@@ -1,0 +1,1 @@
+﻿Hero's Spell Power improves the effectiveness (duration, damage, etc.) of the spells cast by the hero; exact relationship depends on the spell.

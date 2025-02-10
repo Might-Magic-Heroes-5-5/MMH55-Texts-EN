@@ -1,0 +1,11 @@
+Propiedades Hechizo
+Nivel Hechizo
+Ninguno
+Basico
+Avanzado
+Experto
+Nivel Maestria
+Costo mana
+Poder Mágico
+Clic Izquierdo/Derecho para aumentar el Poder Mágico 1/10. Clic central para reiniciar.
+Requerimientos

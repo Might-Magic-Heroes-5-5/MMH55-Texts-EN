@@ -1,0 +1,1 @@
+﻿Class: Chieftain<br>Specialization: Siege Engineer<br><br><body_bright>The Ballista receives +1 to their Attack for every level of the hero. The Catapult's chance to hit the wall is increased by 2% for every hero level.<br><color_default>Starts with Ballista perk.

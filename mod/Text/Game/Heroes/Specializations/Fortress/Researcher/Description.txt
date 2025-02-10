@@ -1,0 +1,1 @@
+﻿Master of Runes: With each level-up, the hero can spontaneously learn one more Runic Spell. The chance is 25%.

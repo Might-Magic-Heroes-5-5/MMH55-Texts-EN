@@ -1,0 +1,2 @@
+﻿Hero acquires Earthquake spell and the ability to cast it with shaking effect, damaging and stunning all creatures behind fortress wall. The damage dealt is 120+12*Power. The stunning effect is a 0.1 ATB value reduction. Friendly troops are hit as well.<br><br><color=orange>Sylanna's Disciple<color_default><br>
+The hero becomes a follower of the Dragon God of the Earth and discovers 10 Dragonblood crystals.

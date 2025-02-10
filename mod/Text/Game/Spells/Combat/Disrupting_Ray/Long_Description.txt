@@ -1,0 +1,1 @@
+﻿Destroys the armor of an enemy stack, reducing its defense and inflicting a small amount of magical non-elemental damage. The damage is equal 10 * Spellpower. Consecutive casts will lower defense further, but not below zero.

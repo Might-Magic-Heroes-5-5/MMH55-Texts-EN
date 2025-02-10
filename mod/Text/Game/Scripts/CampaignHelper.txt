@@ -1,0 +1,11 @@
+﻿Dear Player,
+
+Welcome to the new campaign revision for Might & Magic: Heroes 5.5. Please be aware of the following to make sure you don't run into any issues if you are planning to play through all campaigns:
+
+1. Always play the game loading MMH55.exe or MMH55_64.exe, do not use steam launcher, it will load the wrong exe and cause AI bugs.
+
+2. All your equipped artifacts will carryover between missions except movement artifacts, skillbooks, gold bags, wands, scrolls and the tear of asha. Unequipped artifacts will be lost.
+
+3. Hero level caps are higher. The default battlefield size is 14x12 instead of 12x10 and neutral stacks will be mixed in all missions. 
+
+4. Trading posts can sell you mana potions and movement potions. Advanced RMG features such as Town Conversion, Governance, Dimension Doors and Mine control are disabled, as they conflict with the original storytelling and objectives.

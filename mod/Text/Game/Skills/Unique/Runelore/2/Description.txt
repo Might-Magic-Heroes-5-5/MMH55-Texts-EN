@@ -1,0 +1,1 @@
+﻿Allows magical Runes of 3-4 circles to be placed on friendly creatures in combat, temporarily giving them new battle abilities and characteristics.

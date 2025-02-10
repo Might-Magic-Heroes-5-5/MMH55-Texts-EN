@@ -1,0 +1,4 @@
+﻿<color=yellow>Default Mode<color_default><br>
+* AI Players are not allies but their mutual aggression drops on higher difficulties.
+* AI heroes are allowed to flee combat.
+* Battle Sites have +10% growth in games without AI players.

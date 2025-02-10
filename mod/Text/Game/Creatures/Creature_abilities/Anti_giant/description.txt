@@ -1,0 +1,1 @@
+﻿This creature's Attack and Defense increase temporarily by +6, if the target is a Large Creature.

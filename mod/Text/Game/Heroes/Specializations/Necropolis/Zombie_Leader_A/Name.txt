@@ -1,0 +1,1 @@
+﻿Class: Death Knight<br>Specialization: Zombie Lord<br><br><body_bright>All Zombies, Plague Zombies and Rot Zombies in the hero's army will always act immediately after the hero takes his turn, effectively increasing their initiative to the same as the hero (10) and making them immune to Slow.<br><color_default>Starts with Basic Necromancy.

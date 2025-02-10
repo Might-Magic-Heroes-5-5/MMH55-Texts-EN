@@ -1,0 +1,1 @@
+﻿Allows hero to learn Light Magic spells of the fifth circle and gives maximum power to Light Magic. The First Aid tent gains the ability to cure poison and cleanse level 3 spells.

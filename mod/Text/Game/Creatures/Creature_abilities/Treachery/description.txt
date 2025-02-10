@@ -1,0 +1,1 @@
+﻿If the number of these creatures falls below 20 percent of their original numbers, they change sides.

@@ -1,0 +1,8 @@
+﻿<br><color=white>Important: <color_default>
+This is only a help text, don't start the map on this setting or the difficulty will be random!
+<br><color=white>Start Bonus: <color_default>
+Regardless of which mode you choose here, the starting heroes will always receive a random minor artifact and a personal creature bonus. Tavern heroes have weaker armies.
+<br><color=white>Scenarios: <color_default>
+Scenarios can only be played in Casual or Default mode, if you select Savage or Nightmare the game will revert to Default mode. Town Conversion, Governance and Mine Control are always disabled on these maps.
+<br><color=white>Multiplayer: <color_default>
+In games without AI players, the game will revert to Default mode. Newly generated ARMG maps don't work in Hotseat or LAN without script activation (for this, use provided mapmixer application, shortcut in start menu).

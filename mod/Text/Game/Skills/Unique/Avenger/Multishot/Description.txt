@@ -1,0 +1,1 @@
+﻿Grants the hero the ability to attack all enemy creatures that are present in his favorite enemy list at once. The damage dealt to each target is lower than the hero's normal direct damage, with a -3 penalty to their level for damage calculation.

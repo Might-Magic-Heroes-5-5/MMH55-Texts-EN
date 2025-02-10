@@ -1,0 +1,1 @@
+Prędkość stworzeń zwiększona o <value>.

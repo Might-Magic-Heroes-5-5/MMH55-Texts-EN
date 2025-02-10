@@ -1,0 +1,3 @@
+﻿<color_default>An upgrade of the City Hall.<br>
+<color_bright>The Capitol earns your kingdom 4000 gold per day.<br><br>
+<color=0099FF>Governance<color_default><br>The Governor of the Capitol gains an additional 100 experience per day.

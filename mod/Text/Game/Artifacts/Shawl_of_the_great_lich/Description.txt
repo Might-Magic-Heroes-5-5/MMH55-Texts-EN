@@ -1,0 +1,3 @@
+﻿+4 Knowledge<br>
+Negates enemy Mind Affect immunity.<br><br><color=orange>
+Black Knights<color_default><br>Burn this artifact at a Temple and it will summon a stack of Black Knights. The size of the stack is equal to 2*amount of weeks passed.

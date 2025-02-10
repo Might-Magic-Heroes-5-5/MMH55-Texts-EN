@@ -1,0 +1,1 @@
+﻿The hero learns the Divine Strength spell and is granted mass effects to Divine Strength and area effect to Cleansing spells.<br><color_default>Mass spells hit all enemy targets with a 33% weaker effect and cost four times as much mana, but are always cast as fast as if the hero has expert Sorcery.

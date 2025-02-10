@@ -1,0 +1,1 @@
+﻿The targeted enemy receives damage equal to the number of creatures in the hero's army * 0.8 and all Stronghold creatures in the hero's army gain additional rage points. The damage can be reduced by magic protection and can be resisted. It can not be reflected by Magic Mirror.

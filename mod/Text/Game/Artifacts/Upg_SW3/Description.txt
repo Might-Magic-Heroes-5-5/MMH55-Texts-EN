@@ -1,0 +1,2 @@
+﻿-1 Morale to enemy creatures<br>
+-1 Luck to enemy creatures

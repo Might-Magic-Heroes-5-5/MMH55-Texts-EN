@@ -1,0 +1,1 @@
+﻿The hero gains +8 tiles to his scouting range and the ability to see the precise number of creatures in neutral stacks, enemy heroes, towns and garrisons within his scouting range. The chance for a Tier1 creature to die during scouting a battle site is decreased by 50%.<br><color_default>The base scouting range of heroes is 16 tiles.

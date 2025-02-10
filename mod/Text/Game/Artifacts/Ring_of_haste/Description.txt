@@ -1,0 +1,2 @@
+﻿+12 Spellpower<br>
++20% Initiative to friendly creatures

@@ -1,0 +1,1 @@
+﻿Class: Engineer<br>Specialization: Maverick<br><br><body_bright>The hero starts with +1 Attack and -1 Defense and the Initiative of all creatures in the hero's army is increased by 2.5% + 0.25% per hero level.<br><color_default>Starts with Basic Leadership.

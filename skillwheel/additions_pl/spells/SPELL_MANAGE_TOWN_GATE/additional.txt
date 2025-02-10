@@ -1,0 +1,1 @@
+Usuń dowolnego bohatera lub armię z wewnętrznego garnizonu miasta docelowego, w przeciwnym razie teleportujący bohater nałoży się na stacjonujące wojska.

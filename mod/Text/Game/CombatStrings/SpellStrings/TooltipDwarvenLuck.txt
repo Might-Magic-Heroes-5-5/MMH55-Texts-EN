@@ -1,0 +1,1 @@
+﻿<color_default>Resistance has second<br>chance to trigger

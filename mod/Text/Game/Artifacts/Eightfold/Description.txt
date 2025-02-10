@@ -1,0 +1,2 @@
+﻿+12 Attack<br>
++12 Mana after every battle

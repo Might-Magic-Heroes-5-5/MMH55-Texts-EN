@@ -1,0 +1,1 @@
+﻿Teleports the hero and his entire army to another location on adventure map. The range is 8 tiles and also costs 20% of the hero's maximum Movement Points.<color_default><br>This spell requires level 20 to be learned. No magic skill is required.

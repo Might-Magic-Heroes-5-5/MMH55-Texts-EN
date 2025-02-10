@@ -1,0 +1,1 @@
+﻿Every time when a Morale effect is triggered with a creature in the hero’s army, it gains 80 Rage points.

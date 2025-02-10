@@ -1,0 +1,1 @@
+﻿When attacking enemy units, this creature can drain their health and use it to heal or resurrect itself. The amount of Hit Points drained is equal to 30% of the inflicted damage.

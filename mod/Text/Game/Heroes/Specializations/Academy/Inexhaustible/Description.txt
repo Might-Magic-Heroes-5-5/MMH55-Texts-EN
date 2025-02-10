@@ -1,0 +1,1 @@
+﻿Mystic: Hero is able to restore mana in combat gradually by himself. Restoration speed depends on hero level. The hero regains Level/4 (rounded up) mana before each action.

@@ -1,0 +1,2 @@
+﻿+1 Damage to friendly creatures<br><br><color=orange>
+Wolves<color_default><br>Sacrifice this artifact at a Temple and it will summon a stack of Wolves. The size of the stack is equal to 6*amount of weeks passed.

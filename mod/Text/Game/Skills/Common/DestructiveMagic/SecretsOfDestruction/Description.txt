@@ -1,0 +1,1 @@
+﻿The hero gains +2 Knowledge and increases it further by 1 for every 10 levels. The hero also acquires one random damaging spell of 1st to 3rd circle that is not yet in his or her spellbook.

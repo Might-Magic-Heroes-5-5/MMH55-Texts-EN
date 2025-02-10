@@ -1,0 +1,1 @@
+﻿This creature can use a set of magical spells similar to those cast by heroes. Mana reserve is limited but always set to maximum at the beginning of combat. Spellpower depends on the number of creatures (activated ability).<br><br><color_bright>~Spells~<br>﻿Slow (Advanced)<br>﻿Weakness (Expert)<br>﻿Righteous Might (Advanced)

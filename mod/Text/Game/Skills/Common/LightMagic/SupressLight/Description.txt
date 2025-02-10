@@ -1,0 +1,1 @@
+﻿Enemy hero is forced to spend twice more mana to cast Light Magic spells in combat.

@@ -1,0 +1,7 @@
+﻿+1 Attack<br>
++50% chance to plunder a random resource after every battle<br>
+<br><color=purple>
+Pirate's Apparel<color_default><br>
++6 Attack (3/6)<br>
++12 Attack (6/6)<br>
+*Set bonus is applied after closing the Inventory screen.

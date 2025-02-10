@@ -1,0 +1,1 @@
+﻿The hero's Spellpower is increased by 2 and if anyone casts a Light Magic spell, their Spellpower is considered 15% lower than normal.

@@ -1,0 +1,1 @@
+﻿This creature can increase the hero’s Spell Power by its own Spell Power value, but not greater than 2/3 of the hero’s Knowledge. Another creature with the Siphon Mana ability is needed on the battlefield to satisfy the large mana cost. The effect lasts until the end of the combat or until the creature dies, and is not cumulative (activated ability).

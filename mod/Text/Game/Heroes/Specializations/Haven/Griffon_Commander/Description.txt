@@ -1,0 +1,1 @@
+﻿Griffin Trainer: All Griffins, Imperial Griffins and Battle Griffins in hero's army gain +1 to their Attack and Defense for every two levels of the hero, starting on first level. Unupgraded Griffins get Battle Dive Ability.

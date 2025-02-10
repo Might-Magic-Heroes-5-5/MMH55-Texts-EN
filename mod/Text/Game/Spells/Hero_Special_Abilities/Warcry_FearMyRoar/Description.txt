@@ -1,0 +1,1 @@
+﻿A mighty roar of the hero will greatly increase the rage of all Orcs in his army and has a chance to make the targeted enemy run away in panic and reset its ATB value to zero. The chance to frighten the target is 50% + 5% * (Hero Level – Creature Tier). This warcry does not work on creatures immune to mind control effects.

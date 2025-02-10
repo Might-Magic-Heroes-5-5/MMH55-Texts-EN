@@ -1,0 +1,1 @@
+﻿Gives immunity to level 1-<value=enchant> spells for <value=duration> turns.

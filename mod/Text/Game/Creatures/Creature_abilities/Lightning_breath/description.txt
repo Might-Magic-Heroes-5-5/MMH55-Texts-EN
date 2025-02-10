@@ -1,0 +1,1 @@
+﻿This creature deals damage on all enemies that stand near its target, the damage dealt by such an attack is shared equally between the targets. The effect does not work on retaliation strikes.

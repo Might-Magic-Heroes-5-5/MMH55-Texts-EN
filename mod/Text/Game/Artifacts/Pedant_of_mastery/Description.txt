@@ -1,0 +1,2 @@
+﻿+4 Attack<br>
++4 Spellpower

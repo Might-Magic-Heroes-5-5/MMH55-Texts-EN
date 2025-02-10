@@ -1,0 +1,1 @@
+﻿This creature is not alive and cannot be affected by morale and Poison-, Blind- or Mind-related magic. Nor can it be resurrected or healed with First Aid Tent.

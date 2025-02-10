@@ -1,0 +1,1 @@
+﻿Doubles Mana and Spellpower of all casters in hero’s army.

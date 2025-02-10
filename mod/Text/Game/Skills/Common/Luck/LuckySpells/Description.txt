@@ -1,0 +1,1 @@
+﻿Luck rolls will now be applied to all direct damaging spells cast by the hero, resulting in a damage increase of 25% + 1% per hero level. The chance to do extra damage is the same as for creatures.<br><br><color=orange>Ascendant<br><color_default>The hero also gains +8 spellpower if level 36 is reached. Chieftains gain this bonus at any level.

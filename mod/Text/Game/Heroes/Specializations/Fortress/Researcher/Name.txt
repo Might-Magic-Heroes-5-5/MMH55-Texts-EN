@@ -1,0 +1,1 @@
+﻿Class: Runemage<br>Specialization: Master of Runes<br><br><body_bright>With each level-up, the hero can spontaneously learn one more Runic Spell. The chance is 25%.

@@ -1,0 +1,2 @@
+﻿Decreases speed of all enemy creatures by -1. Enemy creatures that fail the morale check get a -20% penalty to their Attack and Defense until the start of next turn. Death Knights, Reavers and Necromancers have their Spellpower increased by +4. 
+

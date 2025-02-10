@@ -1,0 +1,4 @@
+﻿+1 Morale
++400 Movement
+
+<color_default>Some artifacts can be sacrificed here.

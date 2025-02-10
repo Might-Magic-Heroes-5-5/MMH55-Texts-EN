@@ -1,0 +1,6 @@
+﻿+2 Spellpower<br>
+-2 Mana Cost to any equipped resurrecting artifacts<br><br><color=purple>
+Tunic of the Prophet<color_default><br>
++4 Spellpower (3/5)<br>
++8 Spellpower (5/5)<br>
+*Set bonus is applied after closing the Inventory screen.

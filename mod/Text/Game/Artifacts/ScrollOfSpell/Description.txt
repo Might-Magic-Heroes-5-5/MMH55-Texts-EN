@@ -1,0 +1,3 @@
+﻿+2 Knowledge<br>
+Grants the spell <value=spell_name>.
+<br><color_default>Chieftains cannot cast the spell but receive the Knowledge bonus.

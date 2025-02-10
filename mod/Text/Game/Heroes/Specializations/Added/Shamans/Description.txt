@@ -1,0 +1,1 @@
+﻿The New Khan: All Sun Daughters, Sky Daughters and Earth Daughters will get to act immediately when combat starts. Also, at the start of every week more such creatures will join the hero's army (provided that some of these creatures are present). The amount is equal to 0.2*Hero Level. No extra creatures will join before level 3.

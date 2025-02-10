@@ -1,0 +1,1 @@
+﻿Sells War Machines and grants the player a random amount (3-7) of wood every week. 

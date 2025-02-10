@@ -1,0 +1,1 @@
+﻿All Golems under hero's command have their Speed increased by 2. Iron & Steel Golems also have their initiative increased by 2. Furthermore, at level 10, one Iron Golem, Steel Golem or Magnetic Golem will join the hero's army every day, provided that the hero has some of these creatures in his army already.

@@ -1,0 +1,1 @@
+﻿The hero gains +2 Spellpower and all Frost spells will be more powerful. In addition to the normal spell damage, Frost spells will always deal the damage required to kill exactly one creature in the target stack.<br><color_default>If the target has some cold protection, the bonus damage is also scaled accordingly. Mechanical units are not affected by this ability.

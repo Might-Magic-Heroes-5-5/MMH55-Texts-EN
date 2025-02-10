@@ -1,0 +1,1 @@
+﻿Ressurects 30% of killed creatures in the stack.

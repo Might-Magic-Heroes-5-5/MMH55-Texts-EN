@@ -1,0 +1,4 @@
+﻿The owner of this building offers you a supply contract in return for <value=num> gold, if you accept your kingdom will receive any resource it produces automatically at the start of every week.
+
+OK = Sign the Contract (<value=num> gold)
+Cancel = Make one visit only.

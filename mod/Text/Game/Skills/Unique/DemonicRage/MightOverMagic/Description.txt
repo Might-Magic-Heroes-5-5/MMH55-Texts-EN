@@ -1,0 +1,1 @@
+﻿Decreases enemy Spellpower in combat by half the Chieftain's Spellpower.

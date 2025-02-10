@@ -1,0 +1,1 @@
+﻿Summons a Spectral Dragon on the battlefield to fight on the hero’s side. Only one dragon can be summoned at a time. Attack, Defense, HP, Initiative and Speed of the Dragon depend on the Spellpower and level of the caster. The hero's ATB value is reset to 0.33 after use.

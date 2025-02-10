@@ -1,0 +1,1 @@
+﻿All the enemies assaulting this town get -1 penalty to their Attack.

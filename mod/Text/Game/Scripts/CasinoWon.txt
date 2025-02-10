@@ -1,0 +1,1 @@
+﻿Congratulations you won <value=reward> gold!, we hope to see you back in one of our other Casinos!

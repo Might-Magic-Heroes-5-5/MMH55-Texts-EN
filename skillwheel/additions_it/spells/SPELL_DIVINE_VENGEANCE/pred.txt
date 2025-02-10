@@ -1,0 +1,2 @@
+La formula è <koef>*F*(Potere magico+<flat>)
+F è uguale alla radice quadrata delle unità uccise moltiplicato per il loro livello. Esempi: Paladino è 6 livello, Diavolo è 7, Folletto è 1, ecc.

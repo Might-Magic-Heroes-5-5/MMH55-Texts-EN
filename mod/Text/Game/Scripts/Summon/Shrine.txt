@@ -1,0 +1,1 @@
+﻿<color=green>As your Gem dissolves <value=num> <value=upgtype>s are summoned!

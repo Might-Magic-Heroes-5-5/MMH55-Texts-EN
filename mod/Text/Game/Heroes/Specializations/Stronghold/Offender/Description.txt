@@ -1,0 +1,1 @@
+﻿Pounder: The hero randomly attacks an enemy creature right at the beginning of combat. Moreover, all hero’s attacks deal +1% damage for every level of the hero.

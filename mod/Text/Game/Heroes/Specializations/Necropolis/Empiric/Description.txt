@@ -1,0 +1,1 @@
+﻿Embalmer: The First Aid Tent will heal 4 more hit points per hero's Defense stat, but the hero starts with -1 Defense.

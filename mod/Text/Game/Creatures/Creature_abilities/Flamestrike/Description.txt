@@ -1,0 +1,1 @@
+﻿Once per combat this creature can attack any selected enemy inflicting its regular damage without range penalty and subjecting it to "Mark of Fire" (activated ability).

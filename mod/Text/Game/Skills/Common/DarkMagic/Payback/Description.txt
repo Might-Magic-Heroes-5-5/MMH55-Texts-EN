@@ -1,0 +1,1 @@
+﻿The hero's mana regeneration is increased by 5 and the hero will never waste any mana in combat. The hero gains back all mana spent on completely resisted spells and their ATB value resets to 0.2/0.3/0.4/0.5 depending on Sorcery skill mastery after a failed cast. Doesn't work for partially resisted spells.

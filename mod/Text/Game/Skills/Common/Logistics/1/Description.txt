@@ -1,0 +1,1 @@
+﻿Adventure Skill: The hero's movement speed over land is increased by 5% and the hero receives additional native Tier1 reinforcements at the start of every week. The amount is equal to the total amount of battles fought by the hero during the week * (weekly growth/12).<br><color_default>The Tier1 upgrade type depends on the type the hero already has in his army.

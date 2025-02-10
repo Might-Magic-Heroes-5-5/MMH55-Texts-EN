@@ -1,0 +1,1 @@
+﻿The hero acquires the Combat Aid Kit artifact and the Hit Points of all creatures in the hero's army are increased by 2 permanently.<color_default><br>Necropolis heroes only gain the Hit Points bonus.

@@ -1,0 +1,2 @@
+Wzór to <koef>*F*(Siła Czarów+<płaska>)
+F równa się pierwiastkowi zabitych stworzeń pomnożonemu przez ich poziom. Przykłady: Paladyn to 6 fragów, Diabeł to 7, Gremlin to 1 frag itd.

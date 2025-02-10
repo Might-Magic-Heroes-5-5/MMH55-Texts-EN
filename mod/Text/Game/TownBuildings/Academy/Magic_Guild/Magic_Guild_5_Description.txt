@@ -1,0 +1,4 @@
+﻿<color_bright>Allows a visiting hero to learn the spells kept within. Adds 2 spells of the fifth circle.<br><br>
+<color=green>Town Gate<color_default><br>Allows all heroes to Teleport to this town from any location on the map.<br><br>
+<color=orange>Arcane Eagles<color_default><br>This building can summon Arcane Eagles and add them to the town garrison every week. The amount of Arcane Eagles depends on the amount of Dragonblood crystals heroes have collected (A) and the experience level of those heroes (B). Formula = sqrt(sum(A*B))/30 * (3+Guild level), in which sum(A*B) cannot exceed 600. The amount is zero if no crystals are collected.<br><br>
+<color=0099FF>Governance<color_default><br>Grants the Governor of this town a +5 Spellpower Bonus.

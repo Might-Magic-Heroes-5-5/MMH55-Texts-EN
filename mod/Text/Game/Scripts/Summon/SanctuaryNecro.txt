@@ -1,0 +1,1 @@
+﻿<color=yellow>You found some bodies in the crypt underneath the sanctuary! (+<value=num> <value=upgtype>s)

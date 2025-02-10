@@ -1,0 +1,3 @@
+﻿+6 Spellpower<br>
++15% Damage to Air Spells<br><color_default>
+Damage boost affects Lightning Bolt and Chain Lightning.

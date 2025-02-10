@@ -1,0 +1,1 @@
+﻿Golem Crafter: All Iron Golems, Steel Golems and Magnetic Golems in the hero's army will get to act immediately when combat starts. All Iron Golems and upgrades in the hero's army also gain +1 to their Attack and Defense for every two levels of the hero, starting on the first level.

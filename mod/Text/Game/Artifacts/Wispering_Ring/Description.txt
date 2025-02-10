@@ -1,0 +1,3 @@
+﻿+3 Attack<br>
++3 Defense<br>
+-1 Speed

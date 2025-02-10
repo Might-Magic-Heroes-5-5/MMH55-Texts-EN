@@ -1,0 +1,1 @@
+﻿All inferno creatures spend only 50% of their turn if they use the gating ability (instead of 75%).

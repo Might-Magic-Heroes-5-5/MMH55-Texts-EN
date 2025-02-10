@@ -1,0 +1,1 @@
+﻿Clears both positive and negative magic effects from the target stack and makes it immune to further magic spell effects. This spell can be cast on enemy and friendly stacks.

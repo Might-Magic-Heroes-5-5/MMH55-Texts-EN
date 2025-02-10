@@ -1,0 +1,1 @@
+﻿Reveals the surrounding lands and restores the hero's mana once per day.

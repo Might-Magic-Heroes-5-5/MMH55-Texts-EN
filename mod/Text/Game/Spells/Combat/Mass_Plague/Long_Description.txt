@@ -1,0 +1,1 @@
+﻿Inflicts a plague on target enemy stack so that each time that stack is about to perform an action, it receives some earth damage. This spell has an area effect.<br><color_default>The spell does not work on undead, elemental and mechanical units.

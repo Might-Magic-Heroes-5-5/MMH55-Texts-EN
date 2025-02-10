@@ -1,0 +1,4 @@
+﻿+1 Shot to Ballista<br>
++1 Shot to Catapult<br>
++50% Healing to First Aid Tent<br>
++4 Attack to all friendly shooting creatures if Ammo Cart is present

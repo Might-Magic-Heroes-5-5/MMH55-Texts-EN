@@ -1,0 +1,1 @@
+﻿Increases the Knowledge of all Dungeon heroes by 1 (cumulative with multiple towns, requires visiting the town).

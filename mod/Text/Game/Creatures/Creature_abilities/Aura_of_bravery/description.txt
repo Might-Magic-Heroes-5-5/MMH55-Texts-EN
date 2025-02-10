@@ -1,0 +1,1 @@
+﻿All friendly stacks that stand on tiles adjacent to this creature will never have negative morale.

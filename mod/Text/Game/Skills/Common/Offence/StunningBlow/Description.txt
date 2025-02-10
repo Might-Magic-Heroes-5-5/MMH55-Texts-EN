@@ -1,0 +1,1 @@
+﻿Every standard hero's attack moves the target back along the ATB bar for a little. The target's ATB value is decreased by 0.2.

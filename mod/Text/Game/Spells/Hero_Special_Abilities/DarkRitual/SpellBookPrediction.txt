@@ -1,0 +1,1 @@
+﻿Mystic specialisation allows you to gain <value=extra_mana> mana beyond the normal maximum mana cap.

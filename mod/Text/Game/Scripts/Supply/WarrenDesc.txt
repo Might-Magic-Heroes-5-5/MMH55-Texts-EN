@@ -1,0 +1,1 @@
+﻿Grants the player a random amount (3-7) of a random resource every week. The resource type is never wood or gold.

@@ -1,0 +1,1 @@
+Jeśli "Zarządzanie miastem" zostanie użyte w dowolnym miejscu na mapie przygody, bohater może skorzystać z zaklęcia "Brama Miasta". Jest to zaawansowana wersja zaklęcia "Portal Miasta", która pozwala bohaterowi teleportować się do dowolnego posiadanego miasta z gildią magów na poziomie 5. Zaklęcie pozwala wybrać po kolei miasta do którego bohater chce się przeteleportować.

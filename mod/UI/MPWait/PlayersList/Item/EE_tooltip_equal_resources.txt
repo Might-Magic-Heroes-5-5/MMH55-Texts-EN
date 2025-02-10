@@ -1,0 +1,8 @@
+﻿<color=green>Casual Mode<br><color_default>
+* The AI does not receive any extra creatures or gold to reduce losses in 'Quick Combat'.
+* AI Starting resources are reduced by 10000/5/10 on all difficulty levels.
+* AI Players are not allies but their mutual aggression drops on higher difficulties.
+* AI heroes are allowed to flee.
+* Battles sites have -10% growth.
+<br><color=white>Warning!<br><color_default>
+* Do not use 'restart mission' after the map is loaded or the AI will revert to NOT casual, sometimes even one of the very hard modes!

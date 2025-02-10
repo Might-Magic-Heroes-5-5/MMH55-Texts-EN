@@ -1,0 +1,1 @@
+﻿<color=red>You don't have enough gold to gamble!

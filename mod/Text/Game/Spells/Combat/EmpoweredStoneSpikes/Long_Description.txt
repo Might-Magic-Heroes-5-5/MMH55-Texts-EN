@@ -1,0 +1,1 @@
+﻿Deals earth damage to all creatures in target area (5-tile cross shape).

@@ -1,0 +1,1 @@
+﻿Dark Rider: All mage guilds in owned Necropolis towns will summon Black Knights instead of Mummies and the hero will already have 10 Dragonblood Crystals at level 1 for the purpose of summoning Black Knights. This specialization only works if the hero is present on the map on day one and doesn't work if the hero is hired from the tavern.

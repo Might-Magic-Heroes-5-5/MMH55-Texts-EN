@@ -1,0 +1,1 @@
+﻿Temporarily creates a barrier, three tiles long, on the selected part of the field. The barrier has 75% damage reduction from ranged and magical attacks and returns damage equal to the number of lost Hit Points to melee attackers. The barrier prevents adjacent shooters from firing.

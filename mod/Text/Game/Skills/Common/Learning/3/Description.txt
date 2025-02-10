@@ -1,0 +1,1 @@
+﻿The hero gains +3 Knowledge and increases a random primary skill by 1 for every 4 levels, including the levels already gained. The hero also gains experience 15% faster.

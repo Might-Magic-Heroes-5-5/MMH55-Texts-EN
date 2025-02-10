@@ -1,0 +1,1 @@
+﻿ Allows a previously placed Rune (randomly selected if many) to be refreshed on a selected creature. The hero spends only half a turn to refresh the Rune. Once refreshed on a creature, the Rune becomes available again at the normal cost.

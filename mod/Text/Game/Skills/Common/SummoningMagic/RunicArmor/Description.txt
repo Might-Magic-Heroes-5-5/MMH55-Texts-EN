@@ -1,0 +1,1 @@
+﻿The hero casts all Lightning spells with +4 effective Spellpower.

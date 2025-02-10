@@ -1,0 +1,1 @@
+﻿Combat abilities of creatures in the hero's army will be given a second chance to trigger each time.<br><color_default>This affects abilities such as Bash, Assault, Fear and Mark of fire.

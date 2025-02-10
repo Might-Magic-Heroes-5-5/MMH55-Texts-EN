@@ -1,0 +1,1 @@
+﻿Class: Chieftain<br>Specialization: Blooddrinker<br><br><body_bright>The hero gains a permanent +1 Attack bonus and each killed enemy troop (summoned troops considered, too) increase the Attack of all the creatures in his army by +1 for every 9 levels of the hero.<br><br><color=yellow>Khan<color=white><br><body_bright>The Hero starts with the Shouting Skill.

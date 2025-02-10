@@ -1,0 +1,1 @@
+﻿The creature casts the Fireball spell around itself, damaging all adjacent creatures but not itself. The damage done by the Fireball is equal to the stacks Spellpower*24.

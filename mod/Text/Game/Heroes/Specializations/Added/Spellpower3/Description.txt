@@ -1,0 +1,1 @@
+﻿Sage: The hero's Spellpower increases by +1 for every 6 levels.

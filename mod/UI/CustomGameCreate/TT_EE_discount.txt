@@ -1,0 +1,1 @@
+﻿Allows you to give the AI a discount on all purchases for a limited number of days. This is not disabled with the casual game setting.

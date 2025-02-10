@@ -1,0 +1,1 @@
+﻿Deals massive lightning damage to several adjacent creatures (up to 4), starting with the selected one. Every next creature in the chain gets the half of the damage inflicted to the previous one (The chain can hit friendly creatures).

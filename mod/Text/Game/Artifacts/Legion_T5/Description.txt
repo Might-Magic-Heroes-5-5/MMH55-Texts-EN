@@ -1,0 +1,6 @@
+﻿+3 Attack if equipped<br><br>
+Reinforces the hero's army with native Tier5 creatures at the start of every week, provided some are already present. The amount is equal to the hero's Knowledge/4 (or 1).
+<br><color=orange>Regalia of the Legion<br><color_default>
+Offer all 7 Regalia of the Legion at a Sacrificial Altar for a unique reward.
+<br><color=yellow>Backpack<color_default><br>
+Reinforcements are also gained when the artifact is unequipped, but not if a higher level Regalia is equipped or in the backpack.

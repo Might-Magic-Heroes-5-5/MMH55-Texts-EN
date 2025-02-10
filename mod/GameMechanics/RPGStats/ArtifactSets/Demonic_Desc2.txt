@@ -1,0 +1,1 @@
+﻿Increases hero’s Attack by +4. Heretics, Demonlords, Gatekeepers and Sorcerers also receive +1 Morale.

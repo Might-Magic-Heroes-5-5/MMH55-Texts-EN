@@ -1,0 +1,2 @@
+﻿+15% Movement Points over land<br><br>
+<color=red>Tight Fit<br><color_default>The hero loses 500 movement points when unequipping this artifact.

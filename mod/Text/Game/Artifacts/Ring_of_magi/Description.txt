@@ -1,0 +1,7 @@
+﻿-25% Mana cost to all Spells<br><br><color=purple>
+Sar-Issus Regalia<color_default><br>
++50% Spellpower & Mana to friendly creatures (2/4)<br>
++100% Spellpower & Mana to friendly creatures (4/4)<br>
+*Set bonus is applied after closing the Inventory screen.<br><br><color=orange>
+Quest<color_default><br>
+Bring all of the 4 Sar-Issus Regalia to an Astrologer and receive a unique reward.

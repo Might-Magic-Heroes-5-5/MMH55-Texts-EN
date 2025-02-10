@@ -1,0 +1,2 @@
+﻿The hero learns the Summon Elementals spell, and the Conjure Phoenix, Summon Elementals and Wasp Swarm spells will be cast with +4 effective Spellpower.<br><br><color=orange>Disciple of Sylanna<color_default><br>
+If the hero also learns the Master of Earthblood and Master of Ruin perks then his dedication in studying the powers of the Dragon God of the Earth will reward him with 8 Dragonblood Crystals (As long as the hero has these 3 perks all mage guilds will summon creatures automatically at the start of every week).

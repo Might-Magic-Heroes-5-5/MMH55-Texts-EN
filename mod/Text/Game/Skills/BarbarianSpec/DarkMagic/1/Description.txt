@@ -1,0 +1,1 @@
+﻿Mastery level of all enemy Dark Magic spells of 1st to 4th circle is lowered by 1 (Expert to Advanced, etc.). Spellpower is also decreased by 15% for every level a spell ends up below level none.

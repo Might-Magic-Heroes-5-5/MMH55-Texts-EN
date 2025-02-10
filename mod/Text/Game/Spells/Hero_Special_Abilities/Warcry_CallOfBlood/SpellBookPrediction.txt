@@ -1,0 +1,1 @@
+﻿Grants the target <value=target_rp> rage points.

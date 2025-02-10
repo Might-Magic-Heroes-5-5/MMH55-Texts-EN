@@ -1,0 +1,2 @@
+﻿+12 Defense<br>
++6 Maximum Hit Points to all friendly creatures

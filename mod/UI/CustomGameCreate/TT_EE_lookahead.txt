@@ -1,0 +1,1 @@
+﻿Allows you to adjust the lookahead depth of the AI. 'Impossible' is the 'smartest' setting but the gain is small and can severely slowdown large maps, tune it down if turns take too long. For XL maps it is not recommended to go beyond 'hard'.

@@ -1,0 +1,1 @@
+﻿All shooters move backward along the ATB bar 30% less than usual while shooting. Rangers, Wardens and Druids have their Luck increased by +1.

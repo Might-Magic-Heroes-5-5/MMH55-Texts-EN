@@ -1,0 +1,1 @@
+﻿The hero spends no movement points to pick up resources, to access buildings or boats, and for other similar actions. Snatch also works at sea; loading into a ship uses no movement points, but landing costs a standard movement.

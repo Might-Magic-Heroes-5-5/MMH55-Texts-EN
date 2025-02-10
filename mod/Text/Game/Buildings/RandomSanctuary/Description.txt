@@ -1,0 +1,8 @@
+﻿Day 1: +3 Attack
+Day 2: +1 Morale
+Day 3: +3 Defense
+Day 4: +1 Luck
+Day 5: +1 Initiative
+Day 6: +2 Att & Def
+Day 7: +1 Speed
+All Days: +400 Movement

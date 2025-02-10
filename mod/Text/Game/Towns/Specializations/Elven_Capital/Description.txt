@@ -1,0 +1,1 @@
+﻿This town provides the owner with  500 gold per day, and increases morale and luck of the guarding troops by +2. 

@@ -1,0 +1,7 @@
+﻿+5% to Necromancy Skill<br>
+-10% Dark Energy costs<br>
+Grants friendly creatures Immunity to Decay<br><br><color=purple>
+Death's Embrace<color_default><br>
++6 Spellpower (3/6)<br>
++12 Spellpower (6/6)<br>
+*Set bonus is applied after closing the Inventory screen.

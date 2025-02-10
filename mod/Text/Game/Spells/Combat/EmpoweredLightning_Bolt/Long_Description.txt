@@ -1,0 +1,1 @@
+﻿Deals lightning damage to selected enemy unit.

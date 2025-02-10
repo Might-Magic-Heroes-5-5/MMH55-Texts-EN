@@ -1,0 +1,1 @@
+﻿An old witch welcomes you and is interested in your quest, she thinks you already know quite a lot but in return for <value=gold> she is willing to teach you <value=mastery> <value=skill>. Do you accept?

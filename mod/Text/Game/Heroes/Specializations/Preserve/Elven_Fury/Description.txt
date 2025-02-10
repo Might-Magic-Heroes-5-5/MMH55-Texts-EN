@@ -1,0 +1,1 @@
+﻿Aggressor: The hero starts with +1 Attack skill and increases it further by +1 for every 7 levels.

@@ -1,0 +1,1 @@
+﻿The hero's initial skills and specialisations, determined by class.

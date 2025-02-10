@@ -1,0 +1,1 @@
+﻿<color_default>Attacks cause fireball for <value=damage> damage

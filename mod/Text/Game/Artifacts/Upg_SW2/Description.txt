@@ -1,0 +1,3 @@
+﻿+2 Morale<br>
++2 Luck<br>
++6% Magic Resistance

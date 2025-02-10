@@ -1,0 +1,1 @@
+﻿Creature gets a 3.33% bonus to damage it inflicts during attack for each tile it covered on the game field before the attack.

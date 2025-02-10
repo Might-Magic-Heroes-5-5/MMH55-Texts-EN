@@ -1,0 +1,2 @@
+﻿The Fort provides your town with defensive walls.<br><br>
+<color=0099FF>Governance<color_default><br>Grants the Governor of this town a +1 Defence Bonus.

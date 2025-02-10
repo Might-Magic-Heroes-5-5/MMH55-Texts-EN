@@ -1,0 +1,1 @@
+﻿Enemy Dark Magic spells will be cast with only 50% of effective Spellpower. A living Emissary of Darkness will not be disobeyed and gains a permanent +3 bonus to morale.

@@ -1,0 +1,1 @@
+﻿The hero earns 250 gold per day + an additional amount equal to their knowledge*25. The hero also gains a one-time bonus of Wood or Ore, depending on which stock is more depleted. The amount is equal to the level of the hero.<br><color_default>If Wood and Ore stocks are equal, then both will increase by half the amount.

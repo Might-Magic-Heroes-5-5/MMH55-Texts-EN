@@ -1,0 +1,1 @@
+Se viene utilizzato "Gestione della città" in qualsiasi punto della mappa dell'avventura, l'eroe può sfruttare l'incantesimo "Porta Cittadina". Questa è una versione avanzata dell'incantesimo "Portale della città" che consente all'eroe di teletrasportarsi in qualsiasi città posseduta con Gilda della magia di livello 5. L'incantesimo ruota tutte le città una ad una.

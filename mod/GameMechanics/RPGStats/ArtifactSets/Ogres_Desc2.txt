@@ -1,0 +1,1 @@
+﻿Increases Attack of all creatures in hero’s army by +3 and their Hit Points by +2.  

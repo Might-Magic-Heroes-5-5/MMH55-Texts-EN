@@ -1,0 +1,1 @@
+﻿Adds +1 to all hero's parameters and provides a bonus of +5 Attack and Defense to all tier 7 creatures in hero's army, also increasing their hit points by +20.

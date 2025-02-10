@@ -1,0 +1,1 @@
+﻿Creatures under Demon Lord's control are granted a 66% chance to deal additional fire damage on attack. Every time it triggers, Hellfire deals fire damage equal to 7 + 7 * Spellpower and drains 2 Mana.

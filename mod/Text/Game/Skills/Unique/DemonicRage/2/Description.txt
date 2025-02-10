@@ -1,0 +1,1 @@
+﻿Allows Stronghold creatures in the hero’s army to achieve the second level of rage while fighting, resulting in combat bonuses. Acquired bloodrage will absorb 20% of all damage suffered by creatures until all rage is depleted.

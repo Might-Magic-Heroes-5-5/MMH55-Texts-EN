@@ -1,0 +1,1 @@
+﻿The hero learns the Summon Elementals spell and each time the enemy summons elementals, the hero will immediately summon the same amount of opposite alignment. If a Phoenix is summoned, the hero summons a perfect clone.

@@ -1,0 +1,1 @@
+﻿<br><color_default>+<value=attack> Attack, +<value=init> Initiative

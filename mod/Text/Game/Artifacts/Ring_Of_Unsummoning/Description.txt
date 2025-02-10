@@ -1,0 +1,5 @@
+﻿+2 Spellpower<br>
++2 Knowledge<br>
+-50% to the amount of summoned elementals by enemy heroes<br>
+-50% to HP of enemy summoned Hive, Phoenix & Blade Barrier<br>
+Grants the Banish ability.

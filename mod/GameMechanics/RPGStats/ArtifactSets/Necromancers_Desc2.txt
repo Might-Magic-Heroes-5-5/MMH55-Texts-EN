@@ -1,0 +1,1 @@
+﻿Decreases speed of all enemy creatures by -1. 

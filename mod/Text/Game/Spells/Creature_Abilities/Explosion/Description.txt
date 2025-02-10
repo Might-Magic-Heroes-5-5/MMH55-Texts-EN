@@ -1,0 +1,1 @@
+﻿Once per battle, this creature can explode in a ball of fire, inflicting fire damage to all creatures on adjacent tiles without injuring himself.

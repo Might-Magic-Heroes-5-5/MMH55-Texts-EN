@@ -1,0 +1,1 @@
+﻿A special combat ability affecting all friendly creatures, that increases Attack, Defense and Morale by 2, and Initiative by 10%. The duration of the effect is 2+0.05*(Hero Level) turns (doesn't work on undead or mechanical creatures). The hero's ATB value resets to 0.1 after use.<br><color_default>Necropolis heroes also gain the Mass Divine Strength Spell.

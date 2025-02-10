@@ -1,0 +1,1 @@
+﻿Flame Wielder: Effective Spellpower of the hero is increased when casting Fireball or Empowered Fireball. The increase is equal to hero level/3. The Mage Guild also summons Fire Elementals instead of Air Elementals, but not if the hero wasn't present on the map on day one or hired from a tavern.

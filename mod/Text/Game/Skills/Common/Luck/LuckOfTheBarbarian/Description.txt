@@ -1,0 +1,1 @@
+﻿All creatures in the hero's army get an additional 40% magic proof but only as long as the luck of the hero is positive.

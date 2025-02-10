@@ -1,0 +1,1 @@
+﻿Finding itself under an area spell of Destruction Magic together with any friendly stacks, this creature receives some of the damage that would normally go to the friendly units. The damage absorbed is 2% per weekly population and 25% of it is converted to healing by Enchanted Armor. This ability does not work for Armageddon spell.

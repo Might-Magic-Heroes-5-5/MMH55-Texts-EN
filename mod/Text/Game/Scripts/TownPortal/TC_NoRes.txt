@@ -1,0 +1,1 @@
+﻿<color=yellow>Your hero does not have enough resources.

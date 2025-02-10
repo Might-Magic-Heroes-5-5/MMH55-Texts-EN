@@ -1,0 +1,1 @@
+﻿Phoenix's health: <value=health><br>Damage: <value=min_damage> - <value=max_damage>.

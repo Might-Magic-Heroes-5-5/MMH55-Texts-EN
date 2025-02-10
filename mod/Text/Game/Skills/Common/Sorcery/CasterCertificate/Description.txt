@@ -1,0 +1,1 @@
+﻿The hero gains +2 Spellpower and increases it further by 1 for every 5 levels. The hero also gains +4 Mana regeneration and a one-time bonus of +100 Mana.

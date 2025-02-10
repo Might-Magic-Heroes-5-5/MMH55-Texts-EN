@@ -1,0 +1,1 @@
+﻿Show Chess mode games that are full, but can be observed.

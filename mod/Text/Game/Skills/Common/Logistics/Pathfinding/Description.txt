@@ -1,0 +1,1 @@
+﻿The hero is no longer burdened by terrain penalties while exploring.

@@ -1,0 +1,1 @@
+﻿The hero gains +2 Knowledge and a Heart of Darkness, an artifact the hero can use to perform resurrections on deceased living creatures after battles.<br><color_default>Necropolis and Academy heroes only gain the Knowledge bonus.

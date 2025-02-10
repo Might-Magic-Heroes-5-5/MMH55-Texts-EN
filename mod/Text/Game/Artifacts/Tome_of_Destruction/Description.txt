@@ -1,0 +1,3 @@
+﻿Grants the hero all Destructive Magic spells regardless of having any skill in this school.<br><br><color=orange>
+Quest<color_default><br>
+Bring all 4 Spell Tomes to a Memory Mentor and receive a unique reward.

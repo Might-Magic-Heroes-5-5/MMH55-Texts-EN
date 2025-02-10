@@ -1,0 +1,1 @@
+Ogni colpo diminuisce la difesa dell'unità nemica di <value>.

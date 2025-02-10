@@ -1,0 +1,1 @@
+﻿Reveals areas of the map within a certain radius of Eyes of the Magi

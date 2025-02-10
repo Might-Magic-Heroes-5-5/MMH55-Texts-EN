@@ -1,0 +1,1 @@
+﻿The creature can resurrect a killed allied stack once during combat, provided the location where the stack was killed is not occupied by another creature (activated ability). The power of the resurrection is equal to stacksize*80.

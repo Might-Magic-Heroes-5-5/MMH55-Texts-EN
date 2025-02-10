@@ -1,0 +1,5 @@
+﻿+5 Attack to 'Light' races<br>
+-1 Defense to 'Light' races<br>
++5 Defense to 'Dark' races<br>
+-1 Attack to 'Dark' races<br><color_default>
+The Mage Guild reveals alignment, Stronghold is considered 'Dark'.

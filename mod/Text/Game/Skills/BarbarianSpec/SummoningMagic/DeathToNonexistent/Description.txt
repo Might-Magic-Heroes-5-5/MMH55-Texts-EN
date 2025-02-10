@@ -1,0 +1,1 @@
+﻿Increases the hero's Attack by +4 and all creatures led by the hero inflict double damage to summoned enemies.

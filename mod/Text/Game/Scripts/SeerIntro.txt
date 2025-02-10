@@ -1,0 +1,5 @@
+﻿The Seer is an avid collector of ancient artifacts but suspects some of the objects circulating in these lands may have been enchanted forgeries. Therefore he asks you to bring him a quantity of similar items for his research. 
+
+Currently he is looking for <color=white><value=qty> <value=type><color_default> 
+
+The seer will have various rewards to offer on your return.

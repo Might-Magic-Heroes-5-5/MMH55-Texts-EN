@@ -1,0 +1,1 @@
+﻿Improves the offense of the targeted friendly creature by an amount depending on Spellpower. If the target is under influence of the Suffering spell, both effects will remain active and the difference in strength of the casters will determine the result.

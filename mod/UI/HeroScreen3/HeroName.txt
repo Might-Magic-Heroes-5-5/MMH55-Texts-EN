@@ -1,0 +1,3 @@
+﻿<h3><value=HeroName><br>
+<key_value_value><value=HeroClass><br>
+<value_name>Level: <value_value><value=HeroLevel>

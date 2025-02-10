@@ -1,0 +1,3 @@
+﻿You have not guarded this mine with troops yet, would you like to guard it in exchange for a one-time sum of <value=num> gold?
+
+(Troops stationed at this mine will automatically grow in numbers, but interacting with the mine garrison is impossible. If the mine is attacked the guards will be controlled by the owner on the combat map.)

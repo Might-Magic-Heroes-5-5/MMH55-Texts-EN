@@ -1,0 +1,3 @@
+Koszt Miasta: (Poziom_miasta+1)*(3000 złoto + 3 drewno + 3 ruda + 1 rtęć + 1 kryształ + 1 siarka + 1 klejnot)
+
+Koszt Posterunku: (złoto,drewno,ruda): T1 - 2000, 5, 5; T2 - 4000, 5, 5; T3 - 6000, 5, 5; T4-7 - 8000, 10, 10

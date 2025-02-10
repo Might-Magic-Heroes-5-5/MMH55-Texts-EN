@@ -1,0 +1,1 @@
+﻿The town's shipyard builds ships for half the standard cost (500 Gold + 5 Wood).

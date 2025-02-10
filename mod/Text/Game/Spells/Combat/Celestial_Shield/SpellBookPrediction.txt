@@ -1,0 +1,1 @@
+﻿Damage decreased by <value=damage>%.<br>Shield capacity: <value=enchant> hit points.

@@ -1,0 +1,1 @@
+﻿Disappointed, the witch hesitates for a while but finally decides to make you another offer. This time however she wants <value=gold> gold in return for her services. Would you like to learn <value=mastery> <value=skill>?

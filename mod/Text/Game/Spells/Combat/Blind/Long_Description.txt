@@ -1,0 +1,1 @@
+﻿Blinds the selected enemy creature so that it cannot move, attack or use any abilities. Blindness disappears if blinded creature is attacked. Spellpower determines the duration of effect.<br><color_default>The spell does not work on undead, elemental and mechanical units.

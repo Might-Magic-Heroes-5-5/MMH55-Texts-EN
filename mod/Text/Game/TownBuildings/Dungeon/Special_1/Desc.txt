@@ -1,0 +1,1 @@
+﻿Supports the Elemental Vision skill. Displays elements on your own creatures, which allows to plan attacks inflicting more damage. Creatures with opposite elements deal more damage to the enemy.<br><br><color=0099FF>Governance<color_default><br>Grants the Governor of this town a +1 Attack Bonus.

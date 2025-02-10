@@ -1,0 +1,1 @@
+﻿Spell duration: <value=duration> actions. Damage is modified by <value=enchant>%.

@@ -1,0 +1,1 @@
+﻿Allows hero to learn a new skill or improve a known one.

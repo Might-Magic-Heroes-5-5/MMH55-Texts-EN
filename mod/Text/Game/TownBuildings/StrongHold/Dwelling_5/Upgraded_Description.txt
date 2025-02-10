@@ -1,0 +1,2 @@
+﻿<color_default>An upgrade of the Chamber of Wrath.<br>
+<color_bright>The Chamber of Rage allows you to recruit Executioners and Warlords.

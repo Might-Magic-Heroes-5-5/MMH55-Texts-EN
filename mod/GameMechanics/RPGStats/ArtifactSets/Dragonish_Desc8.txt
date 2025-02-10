@@ -1,0 +1,2 @@
+﻿Adds +4 to all hero’s parameters and +5 to Attack and Defense to all tier 7 creatures in hero's army, also increasing their hit points by +20.
+Reinforces hero’s army with one tier 5 creature every day. 

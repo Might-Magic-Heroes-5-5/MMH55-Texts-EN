@@ -1,0 +1,1 @@
+﻿Adds +1 to all hero’s parameters. 

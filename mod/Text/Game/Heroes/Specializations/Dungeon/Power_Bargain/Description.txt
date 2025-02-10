@@ -1,0 +1,1 @@
+﻿Catalyst: Empowered spells mana cost is reduced by 20% + 0.25% per hero level.

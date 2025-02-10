@@ -1,0 +1,1 @@
+Rimuovi qualsiasi eroe o esercito dall'interno della città selezionata, altrimenti l'eroe che si teletrasporterà si sovrapporrà ad essi.

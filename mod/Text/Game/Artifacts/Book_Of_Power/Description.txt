@@ -1,0 +1,7 @@
+﻿+1 Spellpower<br>
++1 Knowledge<br>
+Grants the Ability to learn any 4th level spells if the hero has the Arcane Omniscience perk.<color_default><br>
++2 Spellpower if the hero has Advanced Enlightenment<br>
++2 Knowledge if the hero has Advanced Enlightenment<br>
++3 Spellpower if the hero has Expert Enlightenment<br>
++3 Knowledge if the hero has Expert Enlightenment

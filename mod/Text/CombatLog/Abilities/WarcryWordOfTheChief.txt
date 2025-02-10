@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> deals <value=damage> damage to <value=target> and slows it's turn.

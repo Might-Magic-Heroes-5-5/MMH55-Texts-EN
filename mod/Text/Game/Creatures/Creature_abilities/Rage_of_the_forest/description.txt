@@ -1,0 +1,1 @@
+﻿This creature can increase its Attack at the expense of its Defense, taking half the points of the latter and adding them to the former, which lasts until the end of the combat, and gains an extra bonus to its Initiative.

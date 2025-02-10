@@ -1,0 +1,1 @@
+﻿If an island map is created, a larger map size is used than the template indication, otherwise the islands can become too small. 

@@ -1,0 +1,1 @@
+﻿Each time a positive Morale effect is triggered with any of the creatures in the hero’s army, the hero moves 5 percent forward along the ATB bar. (If the Morale effect is negative, the hero is moved backwards). Knight’s attacks (including Retaliation Strike) decrease enemy morale by -2. Paladins have their Defense increased by +4.

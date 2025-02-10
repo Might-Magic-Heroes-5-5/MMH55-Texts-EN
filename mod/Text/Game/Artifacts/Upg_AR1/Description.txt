@@ -1,0 +1,3 @@
+﻿-1 Morale to enemy creatures<br>
+-1 Luck to enemy creatures<br><br>
+Artifacts cannot be stolen from the wearer of this cloak, even after a defeat.

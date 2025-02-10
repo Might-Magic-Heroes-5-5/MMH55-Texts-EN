@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> summons a Spectral Dragon.

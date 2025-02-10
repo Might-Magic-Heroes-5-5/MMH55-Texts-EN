@@ -1,0 +1,1 @@
+﻿When this creature attacks an enemy, the spell Sorrow (level None) is automatically cast on the target.

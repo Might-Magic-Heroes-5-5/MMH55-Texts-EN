@@ -1,0 +1,2 @@
+﻿<color_default>An upgrade of the Marketplace.<br>
+<color_bright>The Resource Silo provides you with an additional +1 Gems each day.

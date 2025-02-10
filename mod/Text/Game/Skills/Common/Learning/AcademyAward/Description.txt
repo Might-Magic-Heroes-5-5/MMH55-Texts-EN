@@ -1,0 +1,1 @@
+﻿The hero gains +2 Spellpower and a one-time bonus equal to 1000 Gold + 1 Gem for every 2 hero levels.

@@ -1,0 +1,1 @@
+﻿Chess mode in 3x3 format, where each player has three armies and can switch between them during combat. 

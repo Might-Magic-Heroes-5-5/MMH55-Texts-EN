@@ -1,0 +1,15 @@
+Właściwości
+Poziom
+Brak
+Podstawowy
+Zaawansowany
+Ekspert
+Poziom mistrzowski
+Koszt many
+Siła Czarów
+Kliknięcie lewym/prawym przyciskiem myszy zwiększa moc zaklęć o 1/10. Reset środkowym przyciskiem myszy.
+Wymagania
+Wersja masowa
+Wersja wzmocniona
+Poziom bohatera do obliczania wzmocnionych obrażeń. Kliknięcie lewym/prawym przyciskiem myszy dodaje +1/+10. Reset środkowym przyciskiem myszy
+Rodzime szkoły

@@ -1,0 +1,1 @@
+﻿Explorer: The hero's movement points are increased by 1% for every two hero levels. The hero also gains +250 experience after every battle.

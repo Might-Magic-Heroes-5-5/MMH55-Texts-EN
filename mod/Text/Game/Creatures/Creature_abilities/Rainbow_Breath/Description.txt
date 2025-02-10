@@ -1,0 +1,1 @@
+﻿This creature can randomly attack all the targets in the selected direction within a range of 3 tiles. The actual number of tiles hit depends on the creature's Luck: 1+(random(1-10)+Luck)/2, rounded down and limited to a maximum of 5.  

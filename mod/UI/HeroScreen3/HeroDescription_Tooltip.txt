@@ -1,0 +1,1 @@
+﻿The hero's class determines their skills and starting attributes. The hero's level influnces their attributes. Attaining a new level allows gaining new skills and abilities and improving hero's attributes

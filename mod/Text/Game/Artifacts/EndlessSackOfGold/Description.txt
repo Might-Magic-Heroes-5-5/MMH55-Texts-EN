@@ -1,0 +1,5 @@
+﻿+K*50 gold per day<br><color_default>
+(K=Knowledge of the hero, for example 1000 gold per day for 20 Knowledge)<br><br><color=orange>
+Golden Goose<color_default><br>
+Bring all three artifacts providing endless gold to an Arcane Library for a unique reward<br><br><color=yellow>
+Backpack<color_default><br>This artifact works from the backpack, but functionality is limited to one artifact per hero.

@@ -1,0 +1,1 @@
+﻿This regulates the amount of free resource piles in player starting areas.

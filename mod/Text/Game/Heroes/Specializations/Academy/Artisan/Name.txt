@@ -1,0 +1,1 @@
+﻿Class: Enchanter<br>Specialization: Gremlin Master<br><br><body_bright>All Gremlins, Master Gremlins and Gremlin Saboteurs in hero's army gain +1 to their Attack and Defence for every two levels of the hero, starting on first level.<br><color_default>Starts with Basic Offense.

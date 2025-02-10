@@ -1,0 +1,1 @@
+﻿Transforms owned towns to the faction of the hero (costs resources based on town level). Hero must be standing in front of town. Towns with capitols cannot be converted. All Town buildings will be converted except special buildings.

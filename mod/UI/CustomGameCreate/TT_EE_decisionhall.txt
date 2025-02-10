@@ -1,0 +1,1 @@
+﻿Allows you to adjust how long it takes until the Hall of Decision appears.

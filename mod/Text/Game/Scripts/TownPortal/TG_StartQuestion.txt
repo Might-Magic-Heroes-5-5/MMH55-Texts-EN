@@ -1,0 +1,22 @@
+﻿-------------------------------------------------------------------------------
+GOVERNANCE CONTRACT
+-------------------------------------------------------------------------------
+
+Benefits: 
+
+-The hero gains an amount of experience daily depending on town level and hero level.
+-The town dwellings will receive a % of extra recruits every week, the % is equal to the hero's level, if the hero's level is too low no extra creatures will be received.
+-The hero will gain various exclusive bonuses from the town buildings.
+-If the town has a mage guild level 5 the hero can use the town gate ability and teleport back to this town, the hero is not allowed leave his post and teleport to other towns.
+-If the hero has any Regalia of the Legion artifact, the troops will be added to the town dwellings instead and the amount will be calculated as if the hero has 5 more knowledge.
+
+Obligations:
+
+-The hero must remain within a 50 tile radius around this Town. Outside this radius the hero will lose more and more movement points the further he goes, also any bonuses granted by the town will be removed. Governors lower than lvl 5 also lose some movement points when close to the town.
+-The hero cannot make use of more than 10 Dragonblood Crystals, excess Crystals will become functional after resignation.
+-The hero can only resign the contract when standing in the gate of this town. The hero is obligated to govern this town for at least one month, if the hero decides to resign earlier he must pay a fine to the towns inhabitants equal to the amount of days not in office*his level*100.
+
+-------------------------------------------------------------------------------
+
+OK = Sign the Contract
+Cancel = Refuse

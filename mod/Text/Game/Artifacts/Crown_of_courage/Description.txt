@@ -1,0 +1,7 @@
+﻿+2 Morale<br>
++10 Knowledge calculated to all active artifacts<br>
++10 Defense calculated to all active artifacts<br><color_default>
+(Affects all artifacts active on this hero giving resources, troops or resurrecting creatures)<br><br><color=purple>
+The Lion Spirit<color_default><br>
++6 Attack (3/3)<br>
+*Set bonus is applied after closing the Inventory screen.

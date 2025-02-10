@@ -1,0 +1,1 @@
+﻿This regulates how many upgrade buildings are placed into treasure zones and indirectly regulates artifact value. Rebalanced since RC15, set it lower to make it harder to find rare artifacts or higher for the opposite.

@@ -1,0 +1,2 @@
+﻿+4 to all Primary Skills<br>
+All Town Gate costs are ignored when equipped

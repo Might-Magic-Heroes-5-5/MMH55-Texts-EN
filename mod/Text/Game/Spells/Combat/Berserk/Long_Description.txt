@@ -1,0 +1,1 @@
+﻿Drives the selected stack of creatures into frenzy. Frenzied stacks considers all other creatures and war machines its personal enemies and attacks the nearest one with redoubled rage. Targets are gripped in fear and will not retaliate.<br><color_default>The spell does not work on undead, elemental and mechanical units.

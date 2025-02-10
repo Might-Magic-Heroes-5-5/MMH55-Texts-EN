@@ -1,0 +1,1 @@
+Cada golpde reduce la defensa del objetivo en <value>.

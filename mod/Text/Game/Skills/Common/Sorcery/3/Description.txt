@@ -1,0 +1,1 @@
+﻿The interval between two consecutive spell casts is reduced by 24%. Mass Spells are not affected.<br><color_default>The hero's base initiative is 11 and increased to the equivalent of 14.5 as long as spells are being cast.

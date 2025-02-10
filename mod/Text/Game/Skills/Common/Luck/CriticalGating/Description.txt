@@ -1,0 +1,1 @@
+﻿The hero can now gate Devils, Archdevils and Archdemons and there is a chance that any gated stack summons 10% more reinforcements. The chance is equal to the hero's Luck * 20% and zero if Luck isn't positive.

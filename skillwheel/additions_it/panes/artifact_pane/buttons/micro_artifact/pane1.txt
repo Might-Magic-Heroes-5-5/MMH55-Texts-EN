@@ -1,0 +1,11 @@
+Descrizione
+Conoscenza
+Fai clic con il tasto sinistro/destro del mouse per aumentare la Conoscenza di 1/10. Tasto centrale per ripristinare.
+Oggetto
+Effetti
+Moltiplicatore dei costi
+Fucina
+Nessun oggetto o effetto selezionato
+Inventario
+Pulisci Inventario
+Costo

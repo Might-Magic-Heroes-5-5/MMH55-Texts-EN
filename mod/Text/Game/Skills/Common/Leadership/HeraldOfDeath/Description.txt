@@ -1,0 +1,1 @@
+﻿Adventure Skill: The hero gains +100 Movement points after every battle and all neutral creatures which join the hero's army will be automatically transformed into undead creatures of their respective level and upgrade type.<br><color_default>The hero also doesn't lose any movement for engaging in combat. This part of the bonus doesn't stack with the Snatch skill or artifacts.

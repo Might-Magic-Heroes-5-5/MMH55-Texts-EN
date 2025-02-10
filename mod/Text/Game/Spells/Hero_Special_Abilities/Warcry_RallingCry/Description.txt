@@ -1,0 +1,1 @@
+﻿Grants a huge amount of rage to all Orcs in the hero's army, likely boosting most of them to the next rage level. Also increases for two turns the morale of all creatures in his army by 1 + 1 more for every 20 levels (The morale bonus does not work on undead, elemental and mechanical units).

@@ -1,0 +1,1 @@
+﻿Summons a swarm of insects that inflict magical damage on the selected enemy creature. The creature will be distracted and its ATB value reduced by 0.2,0.25,0.3 or 0.4, depending on mastery level<br><color_default>The spell does not work on undead, elemental and mechanical units.

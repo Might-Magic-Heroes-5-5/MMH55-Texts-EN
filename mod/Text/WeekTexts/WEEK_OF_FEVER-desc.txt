@@ -1,0 +1,1 @@
+﻿Half of creatures in all dwellings die (minimum remaining is one). Only half of growth for all creatures.

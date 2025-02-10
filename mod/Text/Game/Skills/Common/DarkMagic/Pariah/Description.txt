@@ -1,0 +1,1 @@
+﻿A living hero will gain the Vampirism spell and a Necropolis hero will gain the Reanimation spell. The hero also gains +5 Spellpower when casting Dark Magic spells, but this dedication makes him a pariah among his own kind resulting in a -1 Morale penalty.<color_default><br>The morale penalty is permanent, even a memory mentor will not be able to remove it.

@@ -1,0 +1,1 @@
+﻿Spirit links with the target creature, if linked creatures receive any damage the hero will gain some mana, feeding upon those creatures' suffering.

@@ -1,0 +1,2 @@
+﻿+2 Defense<br>
+-40% Damage taken from enemy Air Spells

@@ -1,0 +1,1 @@
+﻿Selecting this option will enable permanent endless simultaneous turns, simultaneous turns will not be interrupted when heroes are in proximity of each other. Attacking other players while they are using the town screen will result in loss of movement points.

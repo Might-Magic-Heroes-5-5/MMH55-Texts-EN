@@ -1,0 +1,1 @@
+﻿You have deciphered all <value=total> Obelisks! You are now able to open a portal to a place outside the material world, where the dragon god Asha will test your strength and if you survive you will be greatly rewarded!<br><br>(Threat level: High)<br><br>OK = Accept<br>CANCEL = Refuse<br><br>If refused this challenge can be accepted later by visiting any obelisk on the map.

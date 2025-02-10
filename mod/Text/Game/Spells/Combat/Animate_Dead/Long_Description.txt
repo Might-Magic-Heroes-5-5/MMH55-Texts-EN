@@ -1,0 +1,1 @@
+﻿Permanently resurrects undead and elemental creatures, while other creatures can be resurrected for the duration of the battle only. Doesn't work on mechanical creatures.

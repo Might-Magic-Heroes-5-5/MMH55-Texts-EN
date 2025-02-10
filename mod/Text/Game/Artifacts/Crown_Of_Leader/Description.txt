@@ -1,0 +1,4 @@
+﻿+3 Morale<br>
++250 Gold per day to Estates perk<br>
++100% Effectiveness to Diplomacy perk<br>
++100% Reinforcements to Recruitment perk

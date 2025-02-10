@@ -1,0 +1,1 @@
+﻿Adventure Skill: The hero receives native Tier4 reinforcements instead of Tier3 according to the same formula as Expert Logistics. The hero's movement speed at sea is also increased by 25%.

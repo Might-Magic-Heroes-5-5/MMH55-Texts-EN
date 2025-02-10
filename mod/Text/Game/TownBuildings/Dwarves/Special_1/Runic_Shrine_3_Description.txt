@@ -1,0 +1,3 @@
+﻿<color_default>An upgrade of the Runic Shrine level two.<br>
+<color_bright>Teaches a magic Rune from the fifth Circle and boosts Spellpower of all dwarven heroes with the Runelore skill by 3 (not cumulative with multiple towns and requires visiting the town)<br><br>
+<color=0099FF>Governance<color_default><br>Grants the Governor of this town a +3 Knowledge Bonus.

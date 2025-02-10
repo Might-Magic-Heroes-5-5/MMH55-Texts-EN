@@ -1,0 +1,1 @@
+﻿Teleports creatures from the nearest town to the hero for the price of 1 mana per creature.<color_default><br>This spell requires level 5 to be learned. No magic skill is required.

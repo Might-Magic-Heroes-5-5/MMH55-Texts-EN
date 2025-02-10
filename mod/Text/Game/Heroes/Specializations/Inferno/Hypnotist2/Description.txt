@@ -1,0 +1,1 @@
+﻿Mindreaver: The hero gains +1 Spellpower for every 7 levels and the Confusion spell has an additional effect of decreasing target's mana on one point per every hero level.

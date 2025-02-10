@@ -1,0 +1,1 @@
+﻿Increases hero's army rage by <value=army_rp>.

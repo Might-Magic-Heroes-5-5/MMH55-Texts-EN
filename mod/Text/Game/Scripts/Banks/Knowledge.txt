@@ -1,0 +1,1 @@
+﻿<color=yellow>Your Knowledge is increased by +<value=param> permanently.

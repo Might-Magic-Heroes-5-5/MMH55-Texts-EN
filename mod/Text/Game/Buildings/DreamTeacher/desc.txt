@@ -1,0 +1,1 @@
+﻿Grants the hero 5000 experience multiplied by the amount of Dream Teachers the hero visited.

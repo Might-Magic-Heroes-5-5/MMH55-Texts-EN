@@ -1,0 +1,1 @@
+﻿Class: Ranger<br>Specialization: Master of the Hunt<br><br><body_bright>All Hunters, Master Hunters and Sharpshooters in hero's army gain +1 to their Attack and Defence for every two levels of the hero, starting on first level.<br><color_default>Starts with Soldier's Luck perk.

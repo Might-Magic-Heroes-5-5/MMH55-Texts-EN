@@ -1,0 +1,1 @@
+﻿Deals massive fire damage to all creatures and war machines on a battlefield and local physical damage in the point of impact.<br><color_default>The damage formula for the additional physical damage is the same as for an Empowered Lightning Bolt.

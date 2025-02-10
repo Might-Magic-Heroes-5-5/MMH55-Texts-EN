@@ -1,0 +1,1 @@
+﻿The hero becomes able to enhance his or her arrows with spells. The imbued arrows will drain the hero's Mana.<br><color_default>Imbue Arrow lasts till the end of the combat or until all Mana is drained. Only one spell can be imbued at a time. The hero spends no ATB value to choose the imbuing spell, and can act again right away.

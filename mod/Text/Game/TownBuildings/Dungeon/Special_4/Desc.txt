@@ -1,0 +1,1 @@
+﻿Sells artifacts and slightly increases daily gold income for every artifact bought, the increase is equal to 25,50 or 100 for minor, major and relic artifacts respectively.

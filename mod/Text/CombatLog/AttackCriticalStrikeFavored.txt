@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> hits favoured enemy <value=target> with a Critical Strike:<value=font> <value=damage> damage dealt (<value=dead> died).

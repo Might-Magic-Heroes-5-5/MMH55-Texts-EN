@@ -1,0 +1,1 @@
+﻿Friendly creatures gain a second chance to resist an enemy spell. Warrior’s Luck works like Soldier's Luck, by giving the stack's magic resistance 2 chances to trigger.

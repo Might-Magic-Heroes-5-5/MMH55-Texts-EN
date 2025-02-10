@@ -1,0 +1,2 @@
+﻿Teaches magic Runes from the first and second Circle and boosts Spellpower of all dwarven heroes with the Runelore skill by 1 (not cumulative with multiple towns and requires visiting the town)<br><br>
+<color=0099FF>Governance<color_default><br>Grants the Governor of this town a +1 Knowledge Bonus.

@@ -1,0 +1,2 @@
+﻿+5 Defense<br>
++5 Mana per day if equipped uninterrupted

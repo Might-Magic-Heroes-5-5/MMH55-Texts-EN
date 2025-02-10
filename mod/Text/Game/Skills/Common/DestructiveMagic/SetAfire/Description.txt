@@ -1,0 +1,1 @@
+﻿Fire spells cast by the hero will ignite enemies, inflicting an extra 66% of current spell damage to the target over the next 2 turns.

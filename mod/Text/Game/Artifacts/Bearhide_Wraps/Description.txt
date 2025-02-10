@@ -1,0 +1,2 @@
+﻿+2 Defense<br>
+-20% Damage taken from enemy Frost Spells

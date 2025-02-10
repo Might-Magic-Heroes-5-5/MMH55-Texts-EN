@@ -1,0 +1,1 @@
+﻿Provides +300 movement points to all sailing heroes of the player who controls it.

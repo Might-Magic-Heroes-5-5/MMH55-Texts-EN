@@ -1,0 +1,1 @@
+﻿The hero's skills - the ones made available from the start and those learned during the game. Affect available abilities.

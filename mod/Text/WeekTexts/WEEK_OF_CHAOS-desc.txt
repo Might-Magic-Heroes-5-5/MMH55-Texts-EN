@@ -1,0 +1,1 @@
+﻿Spell damage increased by 10% during battles.

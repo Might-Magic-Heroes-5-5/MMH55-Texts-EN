@@ -1,0 +1,15 @@
+Properties
+Level
+None
+Basic
+Advanced
+Expert
+Mastery Level
+Mana cost
+Spellpower
+Left/right click to increase spellpower by 1/10. Middle click to reset.
+Requirements
+Mass version
+Empowered version
+Hero level for Empowered damage calculation. Left/right click add +1/+10. Middle click to reset.
+Native Schools

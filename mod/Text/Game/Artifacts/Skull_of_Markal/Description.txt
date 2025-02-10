@@ -1,0 +1,7 @@
+﻿+4 Spellpower<br>
++4 Knowledge<br>
+-1 Morale<br><br><color=purple>
+Death's Embrace<color_default><br>
++6 Spellpower (3/6)<br>
++12 Spellpower (6/6)<br>
+*Set bonus is applied after closing the Inventory screen.

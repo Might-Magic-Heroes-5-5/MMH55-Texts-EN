@@ -1,0 +1,1 @@
+﻿Allows hero to learn Destructive Magic spells of the fourth circle and makes Destructive Magic even more effective.

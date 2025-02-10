@@ -1,0 +1,1 @@
+﻿Dispel chance against caster of similar level is <value=enchant>%.

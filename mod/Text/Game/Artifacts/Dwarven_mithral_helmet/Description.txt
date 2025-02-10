@@ -1,0 +1,8 @@
+﻿+3 Defense<br>
++3 Knowledge<br>
+Grants friendly creatures Immunity to Blind<br>
+<br><color=purple>
+Armor of Dwarven Kings<color_default><br>
++4 Defense (2/4)<br>
++8 Defense (4/4)<br>
+*Set bonus is applied after closing the Inventory screen.

@@ -1,0 +1,1 @@
+﻿Castle walls of this towm are harder to destroy. Each defense structure (walls, towers and gate) has 50 more Hit Points.

@@ -1,0 +1,1 @@
+﻿Rusher: The hero's movement points are increased by 5% instantly and by 1% for every four levels. The cost of the Teleport spell is reduced by half.

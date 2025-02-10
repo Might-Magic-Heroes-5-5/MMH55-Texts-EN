@@ -1,0 +1,1 @@
+﻿Increases Ballista's damage to 3*(A+K) – 4*(A+K). Increases Catapult's damage to 250-300 and grants it a 40% chance to hit. First Aid Tent healing increases to 20+(6*D). The Ammo Cart increases the Attack of ranged units in the hero's army by 2.<br><color_default>Each level adds (5*hero level) HP and additional Attack and Defense to all War Machines.

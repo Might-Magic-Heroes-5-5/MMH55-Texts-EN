@@ -1,0 +1,1 @@
+﻿This creature has a +5 bonus to its Defense while it remains standing in its starting position during the combat.

@@ -1,0 +1,1 @@
+﻿Chosen of Sylanna: The hero starts with +1 Morale permanently and at the start of each week additional Green Dragons, Emerald Dragons and Crystal Dragons will be available for recruitment in all owned Sylvan towns. The amount is equal to 0.04*hero level. There are no extra creatures available before level 13.

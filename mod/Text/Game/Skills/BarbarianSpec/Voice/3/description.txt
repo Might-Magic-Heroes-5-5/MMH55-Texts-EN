@@ -1,0 +1,1 @@
+﻿The use of an activated ability from the Warcry category delays the hero’s next turn by 33% less, but morale is reduced by -3 if the hero has the Empathy perk.<br><color_default>The hero's base initiative is 10 and increased to the equivalent of exactly 15 as long as Warcries are being used.

@@ -1,0 +1,2 @@
+﻿+2 Defense<br>
+Grants the hero the ability to traverse through rough terrain without any penalties.

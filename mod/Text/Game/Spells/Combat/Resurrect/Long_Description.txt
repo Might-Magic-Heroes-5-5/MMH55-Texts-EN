@@ -1,0 +1,1 @@
+﻿Permanently resurrects creatures in target friendly stack. Every use of this spell will decrease the hit points of the target stack, unless the caster has a large amount of Spellpower.

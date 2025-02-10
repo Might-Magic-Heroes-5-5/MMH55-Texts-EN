@@ -1,0 +1,13 @@
+Statystyki
+Atak
+Obrona
+Obrażenia
+Inicjatywa
+Szybkość
+Punkty Życia
+Pula many
+Strzały
+Cotygodniowy Przyrost
+Koszt
+Poziom
+Zdolności:

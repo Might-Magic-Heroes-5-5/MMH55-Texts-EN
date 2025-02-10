@@ -1,0 +1,1 @@
+﻿A hero with the Artificer skill can create artifacts to enchant allied creatures. These artifacts are kept in a special bag. Only Academy creatures can be enchanted this way.

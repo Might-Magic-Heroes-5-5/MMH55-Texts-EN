@@ -1,0 +1,1 @@
+﻿Allows hero to build and blow up for additional damage Elemental Chains based on creature associated elements.

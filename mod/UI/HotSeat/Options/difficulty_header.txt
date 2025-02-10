@@ -1,0 +1,21 @@
+﻿The behaviour of the Enhanced AI is modified. In the faction selection screen you can force the AI into a difficulty mode by selecting the same mode for all human players.
+<br><color=white>Normal<color_default><br>
+Human Resources:25000/12/25
+AI Resources:20000/10/20
+Neutrals: 1 + (*1.11 per week)
+Experience: x/1
+<br><color=white>Hard<color_default><br>
+Human Resources:20000/10/20
+AI Resources:20000/10/20
+Neutrals: 1.1 + (*1.13 per week)
+Experience: x/1.1
+<br><color=white>Heroic<color_default><br>
+Human Resources:15000/7/15
+AI Resources:30000/15/30
+Neutrals: 1.2 + (*1.14 per week)
+Experience: x/1.2
+<br><color=white>Impossible<color_default><br>
+Human Resources:10000/5/10
+AI Resources:30000/15/30
+Neutrals: 1.3 + (*1.15 per week)
+Experience: x/1.3

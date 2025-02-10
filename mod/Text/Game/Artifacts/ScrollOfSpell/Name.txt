@@ -1,0 +1,1 @@
+﻿Magic Scroll of <value=spell_name>

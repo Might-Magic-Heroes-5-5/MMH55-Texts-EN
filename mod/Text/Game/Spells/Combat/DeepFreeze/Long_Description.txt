@@ -1,0 +1,1 @@
+﻿Freezes the target, immediately inflicting ice damage and causing it to become significantly more vulnerable to physical damage for a certain amount of time due to frostbites.<br><color_default>Luck cannot roll on this spell.

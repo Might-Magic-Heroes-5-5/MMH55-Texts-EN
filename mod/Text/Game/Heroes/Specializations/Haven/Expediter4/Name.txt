@@ -1,0 +1,1 @@
+﻿Class: Gatekeeper<br>Specialization: Schismatic<br><br><body_bright>The hero's Spellpower increases by +1 for every 7 levels and the effect of the Haste spell is increased by 0.15% for every hero level.<br><color_default>Starts with Basic Light Magic.

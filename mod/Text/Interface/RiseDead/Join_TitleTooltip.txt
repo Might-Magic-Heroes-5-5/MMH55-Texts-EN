@@ -1,0 +1,1 @@
+﻿Necromancers can raise dead enemy creatures as own soldiers, using a special resource called Dark Energy. This energy is shared by all Necromancers and gets filled up at the beginning of the week. The amount of energy depends on the total number of Necromancers and their level.

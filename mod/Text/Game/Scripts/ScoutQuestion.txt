@@ -1,0 +1,7 @@
+﻿Would you like to send some scouts (native Tier 1 creatures) into the building to investigate the strength of the creatures guarding the treasures. The chance for a scout to not survive this mission is <value=chance>%
+-------------------------------------------------------------------------------
+
+OK = Scout
+Cancel = Attack
+
+-------------------------------------------------------------------------------

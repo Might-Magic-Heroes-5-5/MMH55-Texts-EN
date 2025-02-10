@@ -1,0 +1,1 @@
+﻿Each time when the Morale effect is triggered with any of the creatures in the hero's army, the hero moves 5% forward along the ATB bar. Accordingly, when a negative Morale effect is triggered, the hero moves 5% back.

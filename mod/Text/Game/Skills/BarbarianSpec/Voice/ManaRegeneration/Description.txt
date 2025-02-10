@@ -1,0 +1,1 @@
+﻿Doubles the hero's knowledge based mana regeneration.<br><color_default>Mana regeneration from artifacts, skills or specializations is not doubled.

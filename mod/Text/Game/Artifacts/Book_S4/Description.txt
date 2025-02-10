@@ -1,0 +1,4 @@
+﻿+1 Spellpower<br>
++1 Knowledge<br>
++1500 Experience<br><br>
+<color=7F38EC>Skill book<color_default><br>The hero needs some time to study this item and permanently gain the knowledge it contains. At the start of next week the item disappears from the backpack and the bonus is applied permanently.

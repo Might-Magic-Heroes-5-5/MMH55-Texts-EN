@@ -1,0 +1,1 @@
+﻿The hero calls upon forces of nature to affect the soil on which enemy creatures walk. Any time a non-flying enemy creature moves, it will receive damage equal to Hero Level * 8.<br><color_default>The damage is not per tile and doesn't work if the creature only rotates. 

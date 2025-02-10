@@ -1,0 +1,1 @@
+﻿Creates a crystal on the selected tile on the battlefield, prevents adjacent shooters from firing or hinders movement until the end of combat or until the crystal is attacked and destroyed.

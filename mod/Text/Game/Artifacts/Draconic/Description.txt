@@ -1,0 +1,3 @@
+﻿+6 Attack<br>
++6 Defense<br>
+Grants friendly creatures Immunity to Armageddon

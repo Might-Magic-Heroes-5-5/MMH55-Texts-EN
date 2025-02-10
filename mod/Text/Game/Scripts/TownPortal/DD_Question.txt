@@ -1,0 +1,8 @@
+﻿The Dimension Door will allow you to visit any of your towns without changing the location of the hero. If the town has a Mage Guild mana will be restored immediately.
+-------------------------------------------------------------------------------
+
+OK = Visit Town and restore mana
+Cancel = Only restore mana
+
+-------------------------------------------------------------------------------
+To end the visit walk one tile away from the Door or revisit the object. The visit will be ended if the hero tries to move into the garrison of the town or an enemy hero comes as close as within a 8 tile radius around the hero or the town that is being visited.

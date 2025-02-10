@@ -1,0 +1,1 @@
+Aumenta Daño de la Criatura en <value>.

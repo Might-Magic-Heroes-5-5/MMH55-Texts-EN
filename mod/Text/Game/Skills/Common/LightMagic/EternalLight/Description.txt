@@ -1,0 +1,1 @@
+﻿The hero learns the Blindness spell and Divine Strength will now make creatures immune to weakness. The hero's mana regeneration is also increased by 6.

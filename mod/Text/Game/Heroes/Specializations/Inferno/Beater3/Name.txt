@@ -1,0 +1,1 @@
+﻿Class: Necromancer<br>Specialization: Rusher<br><br><body_bright>The hero's movement points are increased by 5% instantly and by 1% for every four levels. The cost of the Teleport spell is reduced by half.<br><color_default>Starts with Master of Mind perk.

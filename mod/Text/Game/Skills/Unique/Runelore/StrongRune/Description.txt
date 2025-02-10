@@ -1,0 +1,1 @@
+﻿Adventure Skill: Delving even deeper in the dark arts, the avenger gains +3 Spellpower and a group of Druids will join the hero's army immediately.<br><color_default>The number of Druids gained depends on the week in which this perk is acquired; it starts at 4 for the first week of the game and increases by 4 every two weeks thereafter, capped at 20.

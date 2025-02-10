@@ -1,0 +1,1 @@
+﻿Allows hero to learn Light Magic spells of the fourth circle and makes Light Magic even more effective. The First Aid tent gains the ability to cure poison and cleanse level 2 spells.

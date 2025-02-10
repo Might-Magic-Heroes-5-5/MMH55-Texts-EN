@@ -1,0 +1,2 @@
+﻿Wyvern Tamer: All Wyverns, Foul Wyverns and Paokai's in the hero's army will get to act immediately when combat starts. All
+Wyverns and their upgrades in the hero's army also gain +2 to their Hit Points for every level of the hero, starting on first level.

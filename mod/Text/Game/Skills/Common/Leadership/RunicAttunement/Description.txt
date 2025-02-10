@@ -1,0 +1,1 @@
+﻿The hero learns the Rune of Dragonform and will increase a creature's Morale by 2 for two turns after casting a Rune on it.

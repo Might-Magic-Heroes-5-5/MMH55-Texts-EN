@@ -1,0 +1,3 @@
+﻿Would you like to generate mixed neutral stacks before the game starts?
+
+(WARNING: Generation will continue regardless of the size of this map and could freeze the game for minutes)

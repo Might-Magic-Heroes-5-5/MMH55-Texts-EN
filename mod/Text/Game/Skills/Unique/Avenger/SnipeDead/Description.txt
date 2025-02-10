@@ -1,0 +1,1 @@
+﻿Increases the damage the hero will inflict attacking enemy creatures on the battlefield, with a +3 bonus to their level for the damage calculation. If the attacked creature is on the hero's favoured enemies list, then a critical strike will be delivered, inflicting double damage and killing at least one creature.

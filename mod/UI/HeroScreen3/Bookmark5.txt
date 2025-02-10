@@ -1,0 +1,1 @@
+﻿Profile<hotkey=hero_biography>

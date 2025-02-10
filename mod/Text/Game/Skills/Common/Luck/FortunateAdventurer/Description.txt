@@ -1,0 +1,1 @@
+﻿Adventure Skill: The hero tends to find 5%-25% more resources and gold on the adventure map. Treasure chests contain 25%-50% more gold. Income from supply networks is increased on average by +1 resources or +500 gold per weekly supplier.

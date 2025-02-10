@@ -1,0 +1,1 @@
+﻿Adds a stack of additional Defender units directly to the battlefield when defending the town from a siege and increases Defense of all Dwarven heroes by 1 (cumulative with multiple towns and doesn't require visiting the town).<br><color_default>The amount of added Defenders is equal to (4 * town level) * month.

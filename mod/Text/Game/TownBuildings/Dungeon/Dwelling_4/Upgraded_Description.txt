@@ -1,0 +1,2 @@
+﻿<color_default>An upgrade of the Dark Enclosure.<br>
+<color_bright>The Grim Enclosure allows you to recruit Grim Raiders and Brisk Raiders.

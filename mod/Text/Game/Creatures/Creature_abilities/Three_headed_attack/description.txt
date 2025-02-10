@@ -1,0 +1,1 @@
+﻿Creature bites its main target inflicting full damage and sends a three-way wave of fire that deals 75% damage to other opponents in a 2-tile radius.

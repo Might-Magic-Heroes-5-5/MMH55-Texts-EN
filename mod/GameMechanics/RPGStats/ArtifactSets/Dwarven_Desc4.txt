@@ -1,0 +1,1 @@
+﻿Grants an additional +40% Magic Proof capacity to all the creatures in the Hero's army. Casts "Endurance" and "Deflect Missile" spells at the expert level to all friendly creatures at the start of combat. Engineers, Runemages and Flamekeepers have their Knowledge increased by +4.

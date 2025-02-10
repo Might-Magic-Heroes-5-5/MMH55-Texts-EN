@@ -1,0 +1,1 @@
+﻿<color=yellow>You sacrificed some refugees and demons joined in delight! (+<value=num> <value=upgtype>s)

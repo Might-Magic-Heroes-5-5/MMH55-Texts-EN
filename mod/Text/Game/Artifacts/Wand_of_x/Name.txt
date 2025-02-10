@@ -1,0 +1,1 @@
+﻿Wand of <value=spell_name>

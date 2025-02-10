@@ -1,0 +1,1 @@
+﻿Golden Tongue: Neutral creatures are more likely to join this hero. The hero has a +5% per level bonus to his Army Power evaluation for diplomatic calculations. Moreover victories provide this hero with gold and resources.

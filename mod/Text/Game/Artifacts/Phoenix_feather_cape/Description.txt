@@ -1,0 +1,3 @@
+﻿+15% Damage to Fire Spells<br>
++2 Mana per day if equipped uninterrupted<br><color_default>
+Damage boost affects Fireball, Armageddon, Firewall and Fire Trap.

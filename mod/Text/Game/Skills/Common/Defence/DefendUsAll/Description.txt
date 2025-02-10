@@ -1,0 +1,1 @@
+﻿Increases the hero's Defense by +2 and at level 10, one Warrior, Mauler or Warmonger will join the hero's army every day, provided that the hero has some of these creatures in his army already.

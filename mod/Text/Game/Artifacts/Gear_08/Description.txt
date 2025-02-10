@@ -1,0 +1,5 @@
+﻿+3 Luck if equipped<br>
++K*200 gold per day<br><color_default>
+(K=Knowledge of the hero, for example 4000 gold per day for 20 Knowledge)<br><br><color=yellow>
+Backpack<color_default><br>
+Resources are also gained when the artifact is in the backpack, but functionality is limited to one artifact per hero.

@@ -1,0 +1,1 @@
+﻿The hero gains +2 Spellpower and will deal double damage with spells against summoned elementals, phoenixes and gated demons.

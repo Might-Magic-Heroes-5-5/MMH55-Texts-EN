@@ -1,0 +1,1 @@
+﻿Causes the selected friendly unit to act more frequently in combat. If the target is under influence of the Slow spell, both effects will remain active and the difference in strength of the casters will determine the result.

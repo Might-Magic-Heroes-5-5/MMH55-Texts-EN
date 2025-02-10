@@ -1,0 +1,1 @@
+﻿Spilling the blood of his enemies the hero greatly increases the rage of his Orc troops, the enemy target is stunned (ATB value is reduced by 0.01 * the hero level and an additional 0.2 if the hero has the Stunning Strike perk). This warcry doesn't work on enemies that cannot bleed (undead, elemental and mechanical).

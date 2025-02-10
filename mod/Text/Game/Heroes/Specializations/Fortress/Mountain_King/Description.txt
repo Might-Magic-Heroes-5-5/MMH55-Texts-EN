@@ -1,0 +1,1 @@
+﻿King of the Stone Halls: All creatures in hero’s army have “Rune of Magic Control” effect permanently active (refreshes at the start of creature turn).

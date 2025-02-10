@@ -1,0 +1,1 @@
+﻿Inflicts magical damage to selected creature that depends on the number of enemies the selected creature killed from the beginning of combat.

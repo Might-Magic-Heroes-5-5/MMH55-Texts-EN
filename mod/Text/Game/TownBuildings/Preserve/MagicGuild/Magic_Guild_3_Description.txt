@@ -1,0 +1,3 @@
+﻿<color_bright>Allows a visiting hero to learn the spells kept within. Adds 3 spells of the third circle.<br><br>
+<color=orange>Water Elementals<color_default><br>This building can summon Water Elementals and add them to the town garrison every week. The amount of Water Elementals depends on the amount of Dragonblood crystals heroes have collected (A) and the experience level of those heroes (B). Formula = sqrt(sum(A*B))/8 * (3+Guild level), in which sum(A*B) cannot exceed 600. The amount is zero if no crystals are collected.<br><br>
+<color=0099FF>Governance<color_default><br>Grants the Governor of this town a +3 Spellpower Bonus.

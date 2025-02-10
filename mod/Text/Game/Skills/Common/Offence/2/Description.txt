@@ -1,0 +1,1 @@
+﻿Increases damage dealt by your creatures in melee combat by 15%.

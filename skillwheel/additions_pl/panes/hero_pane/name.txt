@@ -1,0 +1,12 @@
+Klasy frakcji
+Kliknij lewym/prawym przyciskiem myszy, aby zwiększyć o 1/10. Reset środkowym przyciskiem myszy.
+Kliknij lewym/prawym przyciskiem myszy, aby zwiększyć poziom o 1/10. Reset środkowym przyciskiem myszy.
+2.5%*(Atak-Obrona)+Ofensywna_zdolność[10%/15%/20%] Wzrost obrażeń
+2.5%*(Obrona-Atak)+Defensywna_zdolność[5%/10%/15%] Redukcja Obrażeń
+Pula many bohatera
+Zaklęcia:
+Wczytaj Bohatera
+Wybierz ustawienie wstępne
+Cofnij
+Usuń
+Czy na pewno?

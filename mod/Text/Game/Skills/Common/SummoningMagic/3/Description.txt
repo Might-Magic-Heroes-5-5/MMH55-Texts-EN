@@ -1,0 +1,1 @@
+﻿Allows hero to learn Summoning Magic spells of the fifth circle and gives maximum power to Summoning Magic.

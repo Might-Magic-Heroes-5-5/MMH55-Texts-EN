@@ -1,0 +1,1 @@
+﻿This creature is alive so it can be resurrected

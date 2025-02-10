@@ -1,0 +1,1 @@
+﻿When the effect from a Warcry is calculated, the hero is considered as being 10 levels higher.

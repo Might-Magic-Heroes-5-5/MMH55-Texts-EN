@@ -1,0 +1,1 @@
+﻿You are the only human player on the map, would you like a challenge and have all AI Players team up against you? (Always press Cancel if you are playing a Scenario, Campaign or a map with its own team settings!)

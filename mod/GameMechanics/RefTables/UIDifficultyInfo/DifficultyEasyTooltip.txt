@@ -1,0 +1,4 @@
+﻿Human Resources:25000/12/25
+AI Resources:20000/10/20
+Neutrals: 1 + (*1.11 per week)
+Experience: x/1

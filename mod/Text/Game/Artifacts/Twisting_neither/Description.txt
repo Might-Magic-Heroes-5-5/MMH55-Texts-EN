@@ -1,0 +1,2 @@
+﻿+5 Spellpower<br>
++1 mana point for every 2 mana points spent by enemy hero.

@@ -1,0 +1,7 @@
+﻿+2 to all Primary Skills<br><br><color=purple>
+Armor of the Forgotten Hero<color_default><br>
++1 to all Primary Skills (2/4)<br>
++2 to all Primary Skills (4/4)<br>
+*Set bonus is applied after closing the Inventory screen.<br><br><color=orange>
+Quest<color_default><br>
+Bring all 4 pieces of the Armor of the Forgotten Hero to an Artifact Merchant and receive a unique reward.

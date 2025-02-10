@@ -1,0 +1,1 @@
+﻿The Hero calls upon the forces of nature to affect enemy ranged-attacking creatures. Initiative of all enemy shooters is decreased by 10% and their damage is decreased by 25%.

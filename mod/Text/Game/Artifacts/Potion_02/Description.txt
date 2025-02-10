@@ -1,0 +1,1 @@
+﻿Grants the hero 2500 additional movement points the next day (after the hero has depleted them, they will restore to 2500).<br><br><color=blue>Consumable<color_default><br>The potion will disappear after use, keep it in the backpack until needed.

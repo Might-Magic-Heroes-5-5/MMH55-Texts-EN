@@ -1,0 +1,3 @@
+﻿<color_default>An upgrade of the Avenger's Guild.<br>
+<color_bright>Rangers and Druids gain +1 Attack and the chance for Avengers to inflict a critical hit to favored enemies is increased by +10% (cumulative with multiple towns, doesn't require visiting the town).<br><br>
+<color=0099FF>Governance<color_default><br>Grants the Governor of this town a +2 Knowledge Bonus.

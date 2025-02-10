@@ -1,0 +1,1 @@
+﻿Defender of Faith: At the start of combat additional mana will become available to all friendly Priests (+6), Inquisitors (+14) and Zealots (+7). All such creatures will also get to act immediately when combat starts.

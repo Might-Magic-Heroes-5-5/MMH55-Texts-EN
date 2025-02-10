@@ -1,0 +1,1 @@
+﻿When shooting at close range (5 tiles from the target or less), the crossbowman inflicts heavier damage because the target's defense is not effective.

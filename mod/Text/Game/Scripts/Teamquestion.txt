@@ -1,0 +1,1 @@
+﻿There are more human players on the map. Would you like to team up with them against the AI players? (Always press Cancel if this map has its own team settings!)

@@ -1,0 +1,1 @@
+﻿Class: Necromancer<br>Specialization: Swarm Queen<br><br><body_bright>The Wasp Swarm spell is more effective and the hero will learn the Summon Hive spell at level 15. The damage is increased by 5% per hero Level. Base reduction of ATB value is multiplied by (1+0.02*Level/3).<br><color_default>Starts with Basic Summoning Magic.

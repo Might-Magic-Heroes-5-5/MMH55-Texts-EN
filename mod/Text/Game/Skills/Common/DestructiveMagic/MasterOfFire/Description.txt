@@ -1,0 +1,1 @@
+﻿The hero learns the Fireball spell, and is granted armor-damaging effect to Fireball, Firewall and Armageddon spells.<br><color_default>Creatures affected by these spells suffer additional -50% defense penalty. The defense penalty lasts 1 turn, and is not cumulative.

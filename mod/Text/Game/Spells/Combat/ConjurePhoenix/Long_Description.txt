@@ -1,0 +1,1 @@
+﻿Summons a phoenix on the battlefield to fight on the hero’s side. Only one phoenix can be summoned at a time. Attack, Defense, HP, Initiative and Speed of the Phoenix depend on the Spellpower of the caster. The Phoenix is Immune to Magic.

@@ -1,0 +1,1 @@
+﻿This window displays information about the hero's class-based skills and all secondary skills learned during the game.

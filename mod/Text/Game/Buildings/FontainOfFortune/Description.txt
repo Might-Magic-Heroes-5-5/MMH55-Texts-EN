@@ -1,0 +1,6 @@
+﻿+33% chance for +3 Luck
++33% chance for +2 Luck
++33% chance for -1 Luck
++100% chance for 33 Mana
+
+<color_default>Some artifacts can be dissolved here.

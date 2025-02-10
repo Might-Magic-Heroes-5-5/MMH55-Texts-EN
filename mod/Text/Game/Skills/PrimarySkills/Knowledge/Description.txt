@@ -1,0 +1,1 @@
+﻿Hero's Knowledge attribute increases the maximum Mana level for the hero: maximum Mana = 10 * Knowledge. It also improves the effectiveness of many artifacts, some secondary skills and the Ballista.

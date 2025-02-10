@@ -1,0 +1,4 @@
+﻿-1 Luck<br>
+-2 Luck if not equipped<br><br><color=red>
+Cursed Artifact<br><color_default>
+This artifact has a firm grip on the hero.

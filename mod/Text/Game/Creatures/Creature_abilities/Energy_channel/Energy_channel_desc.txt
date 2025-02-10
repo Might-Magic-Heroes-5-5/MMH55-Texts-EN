@@ -1,0 +1,1 @@
+﻿If there is a creature with this ability in the hero's army, then the hero will need 5% less mana to cast spells. The cost reduction is rounded up resulting in always reducing by at least 1 mana.

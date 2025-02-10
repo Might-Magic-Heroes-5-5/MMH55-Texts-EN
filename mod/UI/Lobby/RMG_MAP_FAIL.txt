@@ -1,0 +1,1 @@
+﻿RMG Map failed to load, this error occured because 'RMGmap' is set to true under 'sRMGProps' in the map properties list while the map is not completely unmodified, to fix this issue set it to false in the map editor and provide other players with a copy.

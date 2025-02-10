@@ -1,0 +1,7 @@
+﻿+6 Knowledge if equipped<br>
++K/2 Random resources per day<br><color_default>
+(K=Knowledge of the hero, if the random resource is gold the amount is multiplied by 1000)<br><br><color=orange>
+Phoenixes<color_default><br>
+Throw this artifact in a Fountain of Fortune and it will summon a stack of Phoenixes. The size of the stack is equal to 2*amount of weeks passed.<br><br><color=yellow>
+Backpack<color_default><br>
+Resources are also gained when the artifact is in the backpack, but functionality is limited to one artifact per hero. 

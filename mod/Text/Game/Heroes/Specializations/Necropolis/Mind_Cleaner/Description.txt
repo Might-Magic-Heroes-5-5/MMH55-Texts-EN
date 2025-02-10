@@ -1,0 +1,1 @@
+﻿Spellwringer: The hero has +1 Luck permanently and if an enemy hero casts any spell, it can be blocked in his or her spellbook making it impossible to cast that spell again in this combat. The probability of blocking increases with hero level.

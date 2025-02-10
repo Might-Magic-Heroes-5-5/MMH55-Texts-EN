@@ -1,0 +1,1 @@
+﻿<value=target_color>Spirit Link:<body_bright> <value=source>'s pain adds <value=damage> mana to <value=target>

@@ -1,0 +1,1 @@
+﻿Patriarch: At the start of combat additional mana will become available to all friendly Rune Priests (+7), Rune Patriarchs (+23) and Rune Keepers (+11). All Rune Priests and upgrades in hero's army also gain +1 to their Attack and Defense for every two levels of the hero, starting on first level.

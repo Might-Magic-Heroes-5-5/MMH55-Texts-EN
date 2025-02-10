@@ -1,0 +1,2 @@
+﻿+5 Attack<br>
++5 Mana after every battle

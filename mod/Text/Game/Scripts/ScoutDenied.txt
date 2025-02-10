@@ -1,0 +1,7 @@
+﻿It is not possible to send scouts into this object, would you like to attack the guards?
+-------------------------------------------------------------------------------
+
+OK = Attack
+Cancel = Leave
+
+-------------------------------------------------------------------------------

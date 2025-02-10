@@ -1,0 +1,1 @@
+﻿The Slave Market allows you to sell creatures from your army to gain money. The selling price depends on number of marketplaces in your kingdom. All Stronghold heroes with the Logistics skill also gain 50% more reinforcements every week (not cumulative with multiple towns).

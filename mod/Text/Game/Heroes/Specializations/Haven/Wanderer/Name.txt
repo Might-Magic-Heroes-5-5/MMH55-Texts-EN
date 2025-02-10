@@ -1,0 +1,1 @@
+﻿Class: Knight<br>Specialization: Explorer<br><br><body_bright>The hero's movement points are increased by 1% for every two hero levels. The hero also gains +250 experience after every battle.<br><color_default>Starts with Advanced Defense.

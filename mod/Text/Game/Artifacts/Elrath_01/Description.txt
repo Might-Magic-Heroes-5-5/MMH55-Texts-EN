@@ -1,0 +1,3 @@
+﻿+1 Spellpower<br>
++1 Knowledge<br>
+Grants friendly creatures Immunity to Curse of the Netherworld

@@ -1,0 +1,2 @@
+﻿+8 Spellpower<br>
+-1 Luck

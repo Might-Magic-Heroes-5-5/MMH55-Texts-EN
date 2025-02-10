@@ -1,0 +1,1 @@
+﻿All hero's troops gain +3 speed during the siege of an enemy castle and the catapult gains a total of 4 shots per turn.

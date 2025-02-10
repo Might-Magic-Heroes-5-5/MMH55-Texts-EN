@@ -1,0 +1,2 @@
+﻿+1 Morale
++500 Movement

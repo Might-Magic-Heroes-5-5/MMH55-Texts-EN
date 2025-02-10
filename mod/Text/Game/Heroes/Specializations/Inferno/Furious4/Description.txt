@@ -1,0 +1,1 @@
+﻿Aura of Swiftness: The Initiative of all creatures in the hero's army is increased by 2.5% + 0.25% per hero level.

@@ -1,0 +1,1 @@
+﻿The hero gains +2 Spellpower and a special combat ability that deals heavy damage to all summoned and gated stacks, the damage is equal to 120 + (40 * Hero Level). The ability costs 20 mana and resets the hero's ATB value to 0.24 after use.

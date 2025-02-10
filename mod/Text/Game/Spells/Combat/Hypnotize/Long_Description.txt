@@ -1,0 +1,1 @@
+﻿Gives the hero temporary control over selected enemy unit. Unit under this spell can't counter-attack (Expert level is required to gain control over 7 level creatures).<br><color_default>The spell does not work on undead, elemental and mechanical units.

@@ -1,0 +1,1 @@
+﻿Builds boats to traverse the sea. Movement over water costs only 75 points per tile.

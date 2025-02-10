@@ -1,0 +1,11 @@
+﻿-----------------------------------------------------------------------------
+GOVERNOR RESIGNATION
+-----------------------------------------------------------------------------
+
+The hero will lay down his work as governor of this town, forfeit all related bonuses and gain back all his movement points outside the towns radius.
+
+Fine for early resignation: <value=fine>
+
+OK = Resign Governor
+Cancel = Stay Governor
+

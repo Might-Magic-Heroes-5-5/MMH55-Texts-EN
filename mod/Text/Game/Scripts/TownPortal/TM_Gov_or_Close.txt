@@ -1,0 +1,29 @@
+﻿-------------------------------------------------------------------------------
+NEXT ACTION
+-------------------------------------------------------------------------------
+
+OK = Inaugurate this Hero as Governor of this Town.
+Cancel = Close this Window.
+
+-------------------------------------------------------------------------------
+HERO INFO
+-------------------------------------------------------------------------------
+
+Hero Role: <value=occupation>
+Movement Points: <value=movement>
+Daily Mana Regeneration: <value=mana>
+Daily Extra Gold Income: <value=estates>
+Dragonblood Crystals: <value=dragonblood>
+Weekly Reinforcements from Artifacts: T<value=artifactsummons_tier>:<value=artifactsummons> 
+Weekly Summoned Creatures: <value=summons>
+Weekly Recruits (Governance): T1:<value=tier1> T2:<value=tier2> T3:<value=tier3> T4:<value=tier4> T5:<value=tier5> T6:<value=tier6> T7:<value=tier7>
+
+-------------------------------------------------------------------------------
+MAP SETTINGS
+-------------------------------------------------------------------------------
+
+Governance: <value=governance>
+Town Conversion: <value=conversion>
+Max Towns per Faction: <value=maxtowns>
+Max Dwellings per Faction: T1:<value=t1d> T2:<value=t2d> T3:<value=t3d> 
+Max Military Posts per Faction: <value=t4d>

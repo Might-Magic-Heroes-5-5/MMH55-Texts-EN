@@ -1,0 +1,1 @@
+﻿Class: Demon Lord<br>Specialization: Destroyer<br><br><body_bright>The hero's turns will come faster in combat depending on his level. The hero's initiative will become 11.5 + 0.025 * hero level (instead of 11).<br><color_default>Starts with Advanced Combat.

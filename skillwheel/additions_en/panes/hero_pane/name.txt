@@ -1,0 +1,12 @@
+Faction Classes
+Left/right click to increase by 1/10. Middle click to reset.
+Left/right click to increase level by 1/10. Middle click to reset.
+2.5%*(Attack-Defense)+Offense_skill[10%/15%/20%] damage boost
+2.5%*(Defense-Attack)+Defense_skill[5%/10%/15%] damage reduction
+Hero Mana pool
+Spells:
+Load Hero
+Choose a preset
+Back
+Delete
+Are you sure?

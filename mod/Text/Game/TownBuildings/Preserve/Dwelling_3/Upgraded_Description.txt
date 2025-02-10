@@ -1,0 +1,2 @@
+﻿<color_default>An upgrade of the Hunters Cabins.<br>
+<color_bright>The Hunters Lodge allows you to recruit Master Hunters and Sharpshooters.

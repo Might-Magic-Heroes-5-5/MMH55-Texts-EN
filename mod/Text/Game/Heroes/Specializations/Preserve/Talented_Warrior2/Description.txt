@@ -1,0 +1,1 @@
+﻿Researcher: The hero's Knowledge increases by +1 for every 7 levels and all experience gained after battles is increased by 2% per hero level.

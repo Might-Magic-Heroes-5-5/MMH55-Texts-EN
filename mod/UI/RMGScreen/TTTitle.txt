@@ -1,0 +1,1 @@
+﻿WARNING! You need to use MMH55_Utility.exe or MMH55_Editor.exe for generating random maps, but use MMH55.exe or MMH55_64.exe for playing the map. If you cannot use the resources/experience settings, then this is the wrong .exe file for generating maps! (but the right one for playing them)

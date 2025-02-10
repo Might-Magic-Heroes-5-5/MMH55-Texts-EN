@@ -1,0 +1,1 @@
+﻿Whenever a luck bonus is triggered, the creature does x1.66 damage instead of x1.5.

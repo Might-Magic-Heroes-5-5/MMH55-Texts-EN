@@ -1,0 +1,1 @@
+﻿Imp Breeder: Imps, Familiars and Vermin will plunder between 100 and 200 extra gold after every battle and at the start of each week more of such creatures will join the hero's army (this all provided that some of these creatures are present). The amount is equal to 0.9*hero level. The amount is boosted by 75% for every additional town captured of the same faction as the hero.

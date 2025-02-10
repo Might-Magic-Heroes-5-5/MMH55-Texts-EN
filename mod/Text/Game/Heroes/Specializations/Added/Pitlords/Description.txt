@@ -1,0 +1,1 @@
+﻿Master of the Pit: At the start of combat additional mana will become available to all friendly Pit Lords (+14) and all Pit Spawns will get to act immediately. Furthermore, at the start of each week more of such creatures will be available for recruitment in all owned Inferno towns. The amount is equal to 0.08*hero level. There are no extra creatures available before level 7.

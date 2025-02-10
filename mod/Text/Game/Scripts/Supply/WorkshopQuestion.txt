@@ -1,0 +1,4 @@
+﻿The owner of the War Machine Factory offers you a supply contract, in return for <value=num> gold he will provide you with a random amount of (3-7) wood every week. 
+
+OK = Sign the Contract (<value=num> gold)
+Cancel = Check his Inventory

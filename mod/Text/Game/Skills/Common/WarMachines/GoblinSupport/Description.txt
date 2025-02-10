@@ -1,0 +1,1 @@
+﻿Adventure Skill: If there is an Ammo Cart in the hero's army, there will be 1 Goblins joining his army every day and the hero gains 0.5 gold per day for every goblin in his army.<br><color_default>Upgraded Goblins will join only if they are present in the army; Goblin Trappers, if both upgrades are present.

@@ -1,0 +1,13 @@
+Statistiche
+Attacco
+Difesa
+Danno
+Iniziativa
+Velocità
+Punti ferita
+Mana
+Colpi
+Crescita settimanale
+Costo
+Livello
+Abilità:

@@ -1,0 +1,1 @@
+﻿Class: Sorcerer<br>Specialization: Chosen of Chaos<br><br><body_bright>Luck of all the hero's troops is increased by 1 at the start of every battle and at level 20 the hero receives an additional +1 Luck permanently. Also, enemy heroes cannot use the Tactics ability in combat.<br><color_default>Starts with Basic Destructive Magic.

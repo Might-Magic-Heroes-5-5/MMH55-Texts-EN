@@ -1,0 +1,1 @@
+﻿Class: Runemage<br>Specialization: Protector<br><br><body_bright>All Defenders, Shieldguards and Mountain Guards in hero's army gain +1 to their Attack and Defense for every two levels and +1 to their Hit Points for every 10 levels of the hero.<br><color_default>Starts with Basic War Machines.

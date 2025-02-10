@@ -1,0 +1,1 @@
+﻿<color=yellow>Your mana has been restored!

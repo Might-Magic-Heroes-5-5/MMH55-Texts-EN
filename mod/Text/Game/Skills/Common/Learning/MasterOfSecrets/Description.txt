@@ -1,0 +1,1 @@
+﻿The hero gains +2 Spellpower and at the start of every week additional Djinns, Djinn Sultans or Djinn Viziers will join the hero's army, the amount is equal to 0.2 * hero level.

@@ -1,0 +1,3 @@
+﻿+5 Spellpower<br>
+-1 Morale<br><br><color=orange>
+Mummies<color_default><br>Burn this artifact at a Temple and it will summon a stack of Mummies. The size of the stack is equal to 3*amount of weeks passed.

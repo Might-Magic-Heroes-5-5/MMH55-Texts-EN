@@ -1,0 +1,1 @@
+﻿Class: Death Knight<br>Specialization: Vampire Princess<br><br><body_bright>All Vampires, Vampire Lords and Vampire Princes in hero's army gain +1 to their Attack and Defence for every two levels of the hero, starting on first level.<br><color_default>Starts with Advanced Offense.

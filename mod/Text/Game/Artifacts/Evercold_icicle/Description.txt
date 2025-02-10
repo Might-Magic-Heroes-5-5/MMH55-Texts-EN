@@ -1,0 +1,3 @@
+﻿+15% Damage to Frost Spells<br>
++2 Mana per day if equipped uninterrupted<br><color_default>
+Damage boost affects Ice Bolt, Circle of Winter and Deep Freeze.

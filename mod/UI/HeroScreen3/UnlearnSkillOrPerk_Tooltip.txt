@@ -1,0 +1,1 @@
+﻿Forget selected skill or ability<hotkey=hero_unlearn_skill>

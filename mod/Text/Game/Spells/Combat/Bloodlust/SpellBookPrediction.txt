@@ -1,0 +1,1 @@
+﻿Raises Attack by <value=enchant> for <value=duration> turns.

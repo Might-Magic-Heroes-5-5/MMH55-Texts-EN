@@ -1,0 +1,1 @@
+﻿Allows manual control of the First Aid Tent and allows it to resurrect dead creatures.<color_default><br>Restores the First Aid Tent after the battle if it was destroyed, The First Aid Tent's Hit Points are multiplied by 3.

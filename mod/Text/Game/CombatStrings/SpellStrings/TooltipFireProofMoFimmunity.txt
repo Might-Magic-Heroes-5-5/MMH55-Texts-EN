@@ -1,0 +1,1 @@
+﻿<color_default>+<value=proof>% fire proof<br>immunity to Master of Fire

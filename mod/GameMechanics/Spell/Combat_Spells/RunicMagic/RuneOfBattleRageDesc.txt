@@ -1,0 +1,1 @@
+﻿Creature will have a chance to perform a Melee Attack dealing 50% of its damage against all nearby enemies once (no retaliation).

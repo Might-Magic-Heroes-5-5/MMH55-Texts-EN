@@ -1,0 +1,5 @@
++2 Siła Czarów
+
+Daje możliwość rzucania zaklęć z tej różdżki na poziomie zaawansowanym (chyba że poziom mistrzostwa bohatera jest wyższy). Różdżka ma ograniczoną liczbę użyć i może zostać naładowana w Gildii Magów. Użyte zaklęcie może być jednym z następujących: "Rój Os" (6), "Kula Ognia" (4), "Lodowy Promień" (6), "Dezorientacja" (6), "Magiczny Kryształ" (5), "Teleportacja" (3), "Oczyszczenie" (3), "Trzęsienie Ziemi" (5), "Odbicie Pocisku" (6), "Smutek" (5).
+
+Wodzowie nie mogą rzucać zaklęć, ale otrzymują premię do Siły Czarów.

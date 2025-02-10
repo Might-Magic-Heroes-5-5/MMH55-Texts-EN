@@ -1,0 +1,1 @@
+﻿Allows hero to learn Summoning Magic spells of the third circle and makes Summoning Magic more effective overall.

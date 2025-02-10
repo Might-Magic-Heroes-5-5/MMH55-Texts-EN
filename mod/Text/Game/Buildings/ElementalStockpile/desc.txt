@@ -1,0 +1,1 @@
+﻿You stand before an Elemental Stockpile, where sturdy sentinels guard the treasures within.  Do you wish to fight them to see what lies inside?<br><br>Threat level: High

@@ -1,0 +1,1 @@
+Aumenta Vida de la Criatura en <value>.

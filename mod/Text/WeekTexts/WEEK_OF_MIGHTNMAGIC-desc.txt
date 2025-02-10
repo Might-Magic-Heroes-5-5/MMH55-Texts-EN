@@ -1,0 +1,1 @@
+﻿Physical damage is increased by 10% and spell cost is halved during battles.

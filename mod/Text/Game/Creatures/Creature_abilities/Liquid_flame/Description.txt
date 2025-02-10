@@ -1,0 +1,1 @@
+﻿During an attack, this creature deals full damage not only to the target but also any other enemy unit positioned directly behind it and leaves a fire wall on the two tiles in the direction of attack. The fire wall deals an amount of fire damage equal to the stacksize*10 to all units (friend or foe) for 2 turns.

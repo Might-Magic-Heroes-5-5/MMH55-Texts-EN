@@ -1,0 +1,3 @@
+﻿<color_default>An upgrade of the Altar of Elements.<br><br>
+<color_bright>Increases Attack of all Dungeon heroes by 1 and increases damage of elemental chains by +5% (cumulative with multiple altars and doesn't require visiting the town.)<br><br>
+<color=0099FF>Governance<color_default><br>Grants the Governor of this town a +2 Attack Bonus.

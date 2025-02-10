@@ -1,0 +1,29 @@
+﻿-------------------------------------------------------------------------------
+ADVANCED RMG DUEL MAP
+-------------------------------------------------------------------------------
+
+1.Visit one Abandoned Mine to receive a random stash of Artifacts.
+2.Visit one Witch Hut to receive a huge boost in experience.
+3.Walk back to your town to make sure you learned all spells, buy all troops and don't forget the war machines!
+4.Proceed to the middle zone to beat your opponent, your opponent should agree to fight on the random generated terrain type.
+
+-------------------------------------------------------------------------------
+RULES
+-------------------------------------------------------------------------------
+
+-If your hero dies you lose the game, you cannot hire another one.
+-To prevent players stalling the game, towns will be destroyed on day 8, after that you have a maximum of 7 days left to kill your enemy.
+-Redwood Observatories on this map can restore your mana, other temporary boosters are not usable.
+-The battle sites on this map are too dangerous on default setting and visiting them will cause you to lose.
+
+-------------------------------------------------------------------------------
+BALANCE INFO
+-------------------------------------------------------------------------------
+
+-Town dwellings have some extra growth if a special faction building exists and dungeon tier1-3 has more growth to replace recruitment/ritual pit.
+-Heroes with creature growth or dragonblood specializations will receive an extra stack of these creatures.
+-Heroes with logistics specializations receive an extra stack of elementals.
+-Necropolis heroes get an extra stack of skeletons, ghosts or wights depending on class.
+-Wizards receive +4 Attack and +4 Defense, but cannot use the Arcane Forge.
+-Avengers and Rangers receive an extra stack of Blade Dancers, but the Avengers Guild cannot be used.
+-The army size, artifacts and experience are user-configurable settings in data/MMH55-settings.pak, if desired the game can be changed in a run for the battle sites, reducing the artifact stash and the neutral guards.

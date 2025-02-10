@@ -1,0 +1,1 @@
+﻿Class: Heretic<br>Specialization: Mindreaver<br><br><body_bright>The hero gains +1 Spellpower for every 7 levels and the Confusion spell has an additional effect of decreasing the target's mana by one for every hero level.<br><color_default>Starts with Advanced Dark Magic.

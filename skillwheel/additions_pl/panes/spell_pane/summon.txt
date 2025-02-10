@@ -1,0 +1,6 @@
+Przywołanie
+Kliknij lewym/prawym przyciskiem myszy, aby zwiększyć o 1/10. Reset środkowym przyciskiem myszy.
+Kliknięcie lewym/prawym przyciskiem myszy zwiększa poziom o 1. Reset środkowym przyciskiem myszy.
+Poziom bohatera, kliknij lewym/prawym przyciskiem myszy, aby zwiększyć o 1/10. Reset środkowym przyciskiem myszy.
+Ilość kryształów smoczej krwi
+Poziom gildii magów

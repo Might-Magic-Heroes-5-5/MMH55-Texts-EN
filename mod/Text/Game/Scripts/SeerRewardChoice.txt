@@ -1,0 +1,4 @@
+﻿Choose your Reward
+
+OK = <value=qty_a> <value=type_a>
+Cancel = <value=qty_b> <value=type_b>

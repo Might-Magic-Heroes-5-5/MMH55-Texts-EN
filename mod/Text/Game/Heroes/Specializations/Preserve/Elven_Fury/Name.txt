@@ -1,0 +1,1 @@
+﻿Class: Avenger<br>Specialization: Aggressor<br><br><body_bright>The hero starts with +1 Attack skill and increases it further by +1 for every 7 levels.<br><color_default>Starts with Basic Dark Magic.

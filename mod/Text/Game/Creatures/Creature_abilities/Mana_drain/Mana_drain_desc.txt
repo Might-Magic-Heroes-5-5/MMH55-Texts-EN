@@ -1,0 +1,1 @@
+﻿When attacking enemy units, this creature can drain their mana and use it to resurrect itself. The mana drained is equal to the number of creatures in the stack, capped to the actual mana amount of the target. The amount of resurrected creatures is equal to the amount of mana drained.

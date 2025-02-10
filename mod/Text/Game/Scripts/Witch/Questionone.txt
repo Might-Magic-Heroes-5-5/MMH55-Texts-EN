@@ -1,0 +1,1 @@
+﻿An old witch living in a strange hut welcomes you and is interested in your quest, for her own inscrutable purposes she proposes to teach you <value=mastery> <value=skill>. Do you accept?

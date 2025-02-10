@@ -1,0 +1,1 @@
+﻿Centaur Commander: Centaurs, Centaur Nomads and Centaur Marauders in hero's army gain +1 to their Attack and Defense for every two levels of the hero, starting on first level. Moreover they get +0.25% to their starting initiative for every level of the hero.

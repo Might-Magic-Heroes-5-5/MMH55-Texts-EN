@@ -1,0 +1,1 @@
+﻿The hero gains +2 Defense and all undead troops under the hero’s control are enhanced with ice enchantments returning 10% of all melee damage taken back to the attacker.

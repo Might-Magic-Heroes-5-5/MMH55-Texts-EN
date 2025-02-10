@@ -1,0 +1,1 @@
+﻿The hero learns the Slow spell and is granted mass effect to the Slow and Confusion spells.<br><color_default>Mass spells hit all enemy targets with a 33% weaker effect and cost four times as much mana, but are always cast as fast as if the hero has expert Sorcery.

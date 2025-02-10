@@ -1,0 +1,1 @@
+﻿This creature decreases all its neighbors' Attack by -4 and Defense by -4 and their Morale by -2, regardless of who owns them. Undead creatures are immune to this effect.

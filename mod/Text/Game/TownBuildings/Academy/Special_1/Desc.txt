@@ -1,0 +1,2 @@
+﻿Reveals 1 extra spell in each circle of Magic Guild.<br><br>
+<color=0099FF>Governance<color_default><br>Grants the Governor of this town a +2 Knowledge Bonus.

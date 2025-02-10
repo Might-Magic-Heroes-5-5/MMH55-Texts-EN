@@ -1,0 +1,1 @@
+﻿Class: Runemage<br>Specialization: Sacred Hammer<br><br><body_bright>Each time the hero casts a light magic spell on a friendly creature, there is a chance that the Righteous Might spell will be cast freely upon the affected unit. The chance is 40%+Level*1%.<br><color_default>Starts with Basic Light Magic.

@@ -1,0 +1,1 @@
+﻿The hero learns the Eldritch Arrow and the Empowered Eldritsch Arrow spells, even if they haven't learned occultism, effective Spellpower is increased by 3 when casting spells of Dark and Light Magic schools.

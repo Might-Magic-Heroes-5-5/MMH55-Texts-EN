@@ -1,0 +1,1 @@
+﻿Increases magic resistance of all creatures in hero's army by 12%. Magic resistance provides a chance to completely evade any spell that inflicts damage, not including magic fist, decay and rupture.

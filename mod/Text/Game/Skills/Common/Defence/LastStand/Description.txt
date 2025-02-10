@@ -1,0 +1,1 @@
+﻿The hero gains +2 Defense, learns the Regeneration spell and the hero's army will fight to the ultimate end. If the enemy kills a full stack, the last creature will survive the attack with 1 hit point. The stack must have contained at least 5 creatures when the last blow was dealt for this ability to trigger.

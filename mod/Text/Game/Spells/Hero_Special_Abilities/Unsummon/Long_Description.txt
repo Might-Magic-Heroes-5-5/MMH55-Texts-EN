@@ -1,0 +1,1 @@
+﻿A special combat ability that deals heavy damage to all summoned or gated stacks, the damage is equal to 120 + (40 * Hero Level). The hero's ATB value resets to 0.33 after use.

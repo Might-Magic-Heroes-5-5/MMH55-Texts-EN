@@ -1,0 +1,1 @@
+﻿Class: Warlock<br>Specialization: Intimidate<br><br><body_bright>Enemy units have penalty to Initiative, depending on hero level. Enemy Initiative is reduced by 2% + 0.2% per hero's Level.<br><color_default>Starts with Basic Destructive Magic.

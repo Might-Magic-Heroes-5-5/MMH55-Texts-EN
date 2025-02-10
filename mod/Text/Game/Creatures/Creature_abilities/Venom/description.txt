@@ -1,0 +1,1 @@
+﻿Attacking the enemy, this creature poisons it. The venom's effect lasts for three more turns, dealing damage on the target on each of its turns. The damage per turn is equal to stacksize*8. The poison effect can be removed by Lay Hands and the First Aid Tent, but not by Cleansing or Purge.

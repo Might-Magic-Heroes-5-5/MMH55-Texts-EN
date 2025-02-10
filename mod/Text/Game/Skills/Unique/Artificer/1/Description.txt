@@ -1,0 +1,1 @@
+﻿Adventure Skill: Allows hero to create Mini-artifacts of the first level.

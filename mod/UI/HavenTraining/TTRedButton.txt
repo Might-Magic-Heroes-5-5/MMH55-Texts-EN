@@ -1,0 +1,1 @@
+﻿Training is impossible (the limit is reached or there are not enough resources).

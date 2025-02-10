@@ -1,0 +1,1 @@
+﻿Fully restores the hero's mana the next day if equipped.<br><br><color=blue>Consumable<color_default><br>The potion will disappear after use, keep it in the backpack until needed.

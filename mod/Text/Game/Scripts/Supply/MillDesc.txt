@@ -1,0 +1,1 @@
+﻿Grants the player 1000 gold every week.

@@ -1,0 +1,1 @@
+﻿Special combat ability. Each subsequent spell striking the Marked stack has its effect doubled. Also, every spell striking another creature will affect Marked stack as well if there is enough mana for a recast.

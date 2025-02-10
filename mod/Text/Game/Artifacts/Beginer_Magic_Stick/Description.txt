@@ -1,0 +1,2 @@
+﻿+3 Spellpower<br>
++3 Mana after every battle

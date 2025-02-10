@@ -1,0 +1,1 @@
+﻿Each section's health:<value=health><br>Life time: <value=duration> turns.

@@ -1,0 +1,1 @@
+﻿Sells Mana and Movement Potions and allows to exchange resources at a reduced rate.

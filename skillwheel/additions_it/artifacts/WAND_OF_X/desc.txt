@@ -1,0 +1,5 @@
++2 Potere magico
+
+Concede l'abilità di lanciare incantesimi da questa bacchetta a Maestria Avanzata (a meno che il livello di Maestria dell'eroe non sia più alto). La bacchetta ha un numero limitato di usi e può essere ricaricata presso una Gilda magica. L'incantesimo fornito può essere uno dei seguenti: "Sciame di vespe" (6), "Palla di fuoco" (4), "Dardo di ghiaccio" (6), "Confusione" (6), "Cristallo arcano" (5), "Teletrasporto " (3), "Purificazione" (3), "Terremoto" (5), "Respingi dardo" (6), "Tristezza" (5).
+
+I Capoguerra non possono lanciare gli incantesimi ma ricevono il bonus di Potere magico.

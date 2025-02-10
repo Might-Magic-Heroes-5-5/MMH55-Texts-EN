@@ -1,0 +1,1 @@
+﻿Creates a wasp hive on the selected place of the field. The hive will attack enemy creatures with advanced level wasp swarms until the end of combat or until the hive is attacked and destroyed (The hive will not attack undead, elemental and mechanical units). The Hive prevents adjacent enemy shooters from firing.

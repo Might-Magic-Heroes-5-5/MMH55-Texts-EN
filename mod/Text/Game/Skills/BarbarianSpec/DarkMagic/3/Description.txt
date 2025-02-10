@@ -1,0 +1,1 @@
+﻿Mastery level of all enemy Dark Magic spells is lowered by 2. Spellpower is also decreased by 15% for every level a spell ends up below level none.

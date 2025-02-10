@@ -1,0 +1,1 @@
+﻿Increases the minimum damage of the target towards its maximum damage. If the target is under influence of the Weakness spell, it will be cleansed. The effect cannot exceed 100%.

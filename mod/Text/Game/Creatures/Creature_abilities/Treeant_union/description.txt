@@ -1,0 +1,1 @@
+﻿Once per combat, this creature can heal and resurrect itself and a target Treant stack (activated ability). The target stack receives 5 Hit Points per Sprite, and the Sprite stack is healed by 30 Hit Points per Treant in return.

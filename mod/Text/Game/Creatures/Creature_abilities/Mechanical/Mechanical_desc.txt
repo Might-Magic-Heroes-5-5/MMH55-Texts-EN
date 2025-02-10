@@ -1,0 +1,1 @@
+﻿This creature is not alive and its morale is always neutral. It cannot be affected by Cold Death and Poison-, Blind- or Mind-related magic. These creatures cannot be resurrected or healed by the First Aid Tent.

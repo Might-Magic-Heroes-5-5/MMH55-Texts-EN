@@ -1,0 +1,3 @@
+﻿<color_default>An upgrade of the Citadel.<br>
+<color_bright>The Castle adds two arrow towers, fortifies your town's defenses, and doubles base creature growth.<br><br>
+<color=0099FF>Governance<color_default><br>Grants the Governor of this town a +3 Defence Bonus. 

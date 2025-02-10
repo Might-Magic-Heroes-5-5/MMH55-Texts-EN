@@ -1,0 +1,1 @@
+﻿Class: Avenger<br>Specialization: Sword of Sylanna<br><br><body_bright>The hero starts with Summoning Magic (a skill Avengers normally cannot learn) and all Sylvan creatures under hero's command inflict +0.5% more damage to favoured enemies for every experience level.<br><color_default>Starts with Basic Summoning Magic.

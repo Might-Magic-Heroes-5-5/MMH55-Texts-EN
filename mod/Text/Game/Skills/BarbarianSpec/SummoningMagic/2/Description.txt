@@ -1,0 +1,1 @@
+﻿Mastery level of all enemy Summoning Magic spells of 1st to 3rd circle is lowered by 2; that of 4th and 5th circles is lowered by 1. Spellpower is also decreased by 15% for every level a spell ends up below level none.

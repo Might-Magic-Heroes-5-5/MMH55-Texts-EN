@@ -1,0 +1,1 @@
+﻿Class: Heretic<br>Specialization: Soulhunter<br><br><body_bright>Every time a group of enemy creatures dies, it is replaced by a group of friendly Ghosts for the duration of combat. The number of the Ghosts is equal to hero level.<br><color_default>Starts with Drain Soul perk.

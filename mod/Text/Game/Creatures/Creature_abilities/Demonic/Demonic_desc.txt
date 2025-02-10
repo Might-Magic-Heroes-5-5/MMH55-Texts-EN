@@ -1,0 +1,1 @@
+﻿This creature is not affected by the Chain shot ability and vulnerable to the Word of Light Spell.

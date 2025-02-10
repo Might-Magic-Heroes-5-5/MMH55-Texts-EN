@@ -1,0 +1,1 @@
+﻿Put <value=duration> mines with <value=damage> damage.

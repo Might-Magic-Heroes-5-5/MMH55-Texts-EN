@@ -1,0 +1,13 @@
+Estadisticas
+Ataque
+Defensa
+Daño
+Iniciativa
+Velocidad
+Puntos de Vida
+Maná
+Disparos
+Crecimiento Semanal
+Coste
+Nivel Criatura
+Abilidades:

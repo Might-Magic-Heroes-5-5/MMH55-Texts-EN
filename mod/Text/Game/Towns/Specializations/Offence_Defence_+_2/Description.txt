@@ -1,0 +1,1 @@
+﻿All the troops guarding this town get +2 bonus to their Attack and Defense.

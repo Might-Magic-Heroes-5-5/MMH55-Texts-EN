@@ -1,0 +1,6 @@
+﻿+50 Movement points after every battle on land<br><color_default>
+The hero also doesn't lose any movement for engaging in combat. This part of the bonus doesn't stack with the Snatch or Pillager skills.<br><br><color=purple>
+Pirate's Apparel<color_default><br>
++6 Attack (3/6)<br>
++12 Attack (6/6)<br>
+*Set bonus is applied after closing the Inventory screen.

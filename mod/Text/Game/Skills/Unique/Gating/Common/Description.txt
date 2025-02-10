@@ -1,0 +1,1 @@
+﻿Infernal troops are granted the ability to 'gate' into the infernal plane and bring reinforcements back to the battlefield. Each unit can only gate once per combat. Newly arrived creatures constitute a part of the gated ones, and will disappear after the end of combat

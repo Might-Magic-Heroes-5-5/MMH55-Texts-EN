@@ -1,0 +1,1 @@
+﻿The hero gains +2 Knowledge, an extra levelup and from now on at the start of every week, a quantity of Slayers, Executioners or Warlords will join the hero's army provided he already has some of these troops in his army. The amount is 1 + 0.33 * Knowledge.<br><color_default>No extra creatures are gained if there is a 'competing' Witch with Cult Master perk. 

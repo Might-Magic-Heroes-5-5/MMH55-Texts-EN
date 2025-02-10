@@ -1,0 +1,1 @@
+﻿The Hero receives a +0.2 bonus to starting ATB value at the start of each combat, enabling him/her to act earlier.

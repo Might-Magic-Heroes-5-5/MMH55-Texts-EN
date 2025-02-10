@@ -1,0 +1,8 @@
+﻿Day 1: +1 Luck
+Day 2: +1 Morale
+Day 3: +1 Luck
+Day 4: +1 Morale
+Day 5: +1 Luck
+Day 6: +1 Morale
+Day 7: +1 Luck & Morale
+All Days: +30 Mana

@@ -1,0 +1,1 @@
+﻿This Shantiri Disc is heavily damaged by a group of bandits and cannot provide any valuable info! The bandits are still in the neighbourhood, would you like to attack them?<br><br>(Threat level: Challenging)<br><br>OK = Accept<br>CANCEL = Refuse<br><br>If refused this challenge can be accepted later.

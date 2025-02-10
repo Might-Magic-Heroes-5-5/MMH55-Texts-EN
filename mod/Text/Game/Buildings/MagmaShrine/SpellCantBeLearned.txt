@@ -1,0 +1,1 @@
+﻿Runic spell <value=spell> cannot be learned. Requires <value=skill>.

@@ -1,0 +1,1 @@
+﻿Adventure Skill: The hero becomes a mentor. When a mentor meets another friendly hero, the latter gains as much additional experience as needed to have his or her total experience become equal to 10% of that of the mentor's.

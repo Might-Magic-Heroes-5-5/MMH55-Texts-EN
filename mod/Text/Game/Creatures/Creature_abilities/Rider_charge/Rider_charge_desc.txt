@@ -1,0 +1,1 @@
+﻿For each game field tile covered by this creature during attack, the target's Defence is reduced by 7.5% (all the way down to zero).

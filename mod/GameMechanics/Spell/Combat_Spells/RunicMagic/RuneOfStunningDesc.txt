@@ -1,0 +1,1 @@
+﻿The selected creature will have a chance to stun the enemy once using its normal attack. If the stun fails the rune will remain active until it succeeds. The effect is the same as the Bash ability but also works from range and is affected by the Soldier's Luck perk.

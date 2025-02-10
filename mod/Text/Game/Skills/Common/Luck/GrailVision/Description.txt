@@ -1,0 +1,1 @@
+﻿As an expert in mining, the hero is able to dig for resources everywhere and produces a single random resource every day. The resource can be of any type except gold. If the hero has 20 Knowledge or more he digs up 2 resources per day. Additionally, digging for a Tear of Asha somewhere around its actual location is much more likely to be a success.

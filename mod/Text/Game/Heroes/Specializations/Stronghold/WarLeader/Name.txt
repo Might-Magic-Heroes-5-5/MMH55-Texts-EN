@@ -1,0 +1,1 @@
+﻿Class: Chieftain<br>Specialization: The New Khan<br><br><body_bright>All Warcries have their costs decreased by 1+Level/10 and grant an additional amount of rage points equal to the hero’s level.<br><br><color=yellow>Khan<color_default><br>Starts with the Shouting Skill.

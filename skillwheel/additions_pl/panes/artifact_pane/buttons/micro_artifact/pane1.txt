@@ -1,0 +1,11 @@
+Opis
+Wiedza
+Kliknięcie lewym/prawym przyciskiem myszy zwiększa wiedzę o 1/10. Reset środkowy przycisk myszy.
+Przedmiot
+Efekty
+Mnożnik kosztu
+Kuźnia
+Nie wybrano żadnego przedmiotu ani efektu
+Ekwipunek
+Czysty Ekwipunek
+Koszt

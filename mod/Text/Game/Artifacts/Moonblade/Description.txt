@@ -1,0 +1,2 @@
+﻿+5 Attack<br><br><color=orange>
+Manticores<color_default><br>Sacrifice this artifact at a Temple and it will summon a stack of Manticores. The size of the stack is equal to 2*amount of weeks passed.

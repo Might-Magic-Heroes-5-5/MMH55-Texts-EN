@@ -1,0 +1,1 @@
+﻿Flame Dancer: The hero's army suffers less damage from distant attacks, range damage reduction is 15% + 0.5% per hero Level.

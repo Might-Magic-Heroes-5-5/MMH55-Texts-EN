@@ -1,0 +1,1 @@
+﻿The hero inspires one friendly stack of Orcs to charge forward. For one turn the targeted stack will have +3 Speed and increased Attack (equal to 1 + Level/4). Also grants a small amount of rage to all Stronghold creatures in the army.

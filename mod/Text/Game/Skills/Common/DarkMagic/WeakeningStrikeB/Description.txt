@@ -1,0 +1,1 @@
+﻿The hero strikes the target creatures with a curse that decreases their attack.<br><color_default>The effect is the same as the Suffering spell on level none and therefore lowers attack by -4 + -0.15 per Spell Power.

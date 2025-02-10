@@ -1,0 +1,1 @@
+﻿<color=yellow>You have already visited this Shantiri Disc, You found <value=amount> out of <value=total>!

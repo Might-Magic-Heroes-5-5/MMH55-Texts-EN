@@ -1,0 +1,1 @@
+﻿The hero gains +2 Attack and all creatures led by the hero will inflict additional Fire damage equal to 10% of the damage inflicted by their attacks. Enemies who are Immune to Fire suffer no additional damage.

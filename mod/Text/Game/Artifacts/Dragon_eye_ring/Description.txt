@@ -1,0 +1,8 @@
+﻿+1 to all Primary Skills<br>
++10% Initiative to friendly shooting creatures<br><br><color=purple>
+Power of Dragons<color_default><br>
++2 to all Primary Skills (4/8)<br>
++4 to all Primary Skills (8/8)<br>
+*Set bonus is applied after closing the Inventory screen.<br><br><color=orange>
+Quest<color_default><br>
+Offer all 8 pieces of the Power of Dragons at a Sacrificial Altar for a unique reward.

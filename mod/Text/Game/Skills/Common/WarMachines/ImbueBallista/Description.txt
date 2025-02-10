@@ -1,0 +1,1 @@
+﻿The Imbue Arrow ability will now affect the Ballista as well. All Ballista shots will carry the hero's enchantments, and therefore drain his or her Mana.

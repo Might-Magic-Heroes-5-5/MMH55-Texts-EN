@@ -1,0 +1,5 @@
+﻿You can raise <body_bright><value=count> <value=name><body><br>
+
+It will cost <body_bright><value=energy_needed> points<body> of Dark Energy.
+
+<body_bright>Raise them?

@@ -1,0 +1,9 @@
+﻿Quick Tips:
+
+-Only use MMH55_Utility.exe and MMH55_Editor.exe for generating maps.
+-Stick to the indicated map size and player count of the template.
+-MMH55_utility.exe will force larger size for water maps, this works well.
+-ARMG maps will not work in LAN or Hotseat if scripts are not activated.
+-Use Mapmixer utility to activate scripts.
+-Process water maps with mapmixer otherwise the waters are very boring.
+-Visualizations for all templates can be found in the .pdf manual.

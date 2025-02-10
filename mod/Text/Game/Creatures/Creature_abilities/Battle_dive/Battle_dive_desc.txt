@@ -1,0 +1,1 @@
+﻿The Creature performs a delayed air attack on a selected tile on the battlefield inflicting 50% more damage than usual, even if the tile is occupied by a friendly unit. Following the attack, the creature returns to a randomly selected location on the field (activated ability).

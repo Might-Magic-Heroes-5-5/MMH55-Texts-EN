@@ -1,0 +1,1 @@
+﻿All Stronghold creatures in the Barbarian's army get randomly between 50 and 100 rage points at the beginning of combat.

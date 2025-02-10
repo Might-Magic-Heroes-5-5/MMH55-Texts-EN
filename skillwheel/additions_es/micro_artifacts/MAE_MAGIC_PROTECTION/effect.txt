@@ -1,0 +1,1 @@
+Daño magico recibido es reducido un <value>%.

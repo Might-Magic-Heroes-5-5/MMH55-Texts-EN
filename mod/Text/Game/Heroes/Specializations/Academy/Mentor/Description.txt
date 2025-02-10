@@ -1,0 +1,1 @@
+﻿Mentor: At the start of combat additional mana will become available to all friendly Mages (+1), Archmages (+12) and Battlemages (+7). All Mages and upgrades in the hero's army also gain +1 to their Attack and Defence for every two levels of the hero, starting on first level.

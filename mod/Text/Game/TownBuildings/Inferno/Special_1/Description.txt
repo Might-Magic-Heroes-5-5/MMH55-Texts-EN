@@ -1,0 +1,1 @@
+﻿For gatekeepers, the number of gated creatures is increased by 5%. (cumulative with multiple towns)<br><br>Demon Lords gain +1 Defense and Sorcerers +1 Knowledge (cumulative with multiple towns and doesn't require visiting the town).<br><br>Enemy heroes sieging this town get -2 to luck.

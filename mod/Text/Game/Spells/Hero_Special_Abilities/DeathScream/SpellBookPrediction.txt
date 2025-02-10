@@ -1,0 +1,1 @@
+﻿Lowers initiative by <value=initiative_bonus>%, morale and luck by <value=enchant> for <value=duration> turns.

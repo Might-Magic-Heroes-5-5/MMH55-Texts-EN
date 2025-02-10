@@ -1,0 +1,1 @@
+﻿Wait - Delays this creatures turn by 50%. <hotkey=input_Combat_Wait>

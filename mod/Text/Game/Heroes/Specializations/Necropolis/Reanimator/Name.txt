@@ -1,0 +1,1 @@
+﻿Class: Necromancer<br>Specialization: Reanimator<br><br><body_bright>The Reanimation spell has increased effect. The spellpower of this spell is increased by +1 for every 3 levels of hero, starting on first level.<br><color_default>Starts with Basic Dark Magic.

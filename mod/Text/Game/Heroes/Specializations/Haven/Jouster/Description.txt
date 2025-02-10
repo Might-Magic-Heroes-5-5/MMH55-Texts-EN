@@ -1,0 +1,1 @@
+﻿Cavalry Commander: Cavaliers, Paladins and Champions in hero's army get an additional jousting damage bonus equal to +1% for every hero level. The Hero's Retaliation Strike ability also does +1% more damage for every hero level.

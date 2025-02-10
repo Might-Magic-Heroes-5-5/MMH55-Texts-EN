@@ -1,0 +1,1 @@
+Miasta z Kapitolem nie mogą zostać przekształcone. Wszystkie budynki zostaną odbudowane z wyjątkiem budynków specjalnych, przyrost zostanie zredukowany do jednego tygodnia. Maksymalna liczba budynków produkcyjnych T1, T2 i T3 wynosi 2 dla każdego typu. Maksymalna liczba posterunków wojskowych T4-7 wynosi 4.

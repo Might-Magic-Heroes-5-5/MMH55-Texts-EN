@@ -1,0 +1,1 @@
+﻿This creature is incorporeal so any non-magical attack against it has only a 50% chance of inflicting damage. The ability is not fully random, after being missed two times the next physical strike will always land, while after being hit two times the next physical strike will always miss.

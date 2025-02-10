@@ -1,0 +1,1 @@
+﻿The Arch Demon can target any creature stack in a 7-tile radius, regardless of who owns it, and teleport them to the unoccupied tile that is the closest possible to himself (activated ability).

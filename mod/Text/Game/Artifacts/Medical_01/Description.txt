@@ -1,0 +1,4 @@
+﻿+2 Defense<br><br>
+Resurrects a quantity of native Tier6 creatures after combat. The amount is equal to 30% + 1%*K of all casualties or alternatively 300 + 10*K of all Hit Points lost (whichever results in more resurrected creatures). The resurrection requires 14 mana.<color_default> K = Knowledge of the hero and the amount is rounded down. Undead, mechanical and elemental creatures cannot be resurrected.
+<br><color=purple>Garments of the Saint<color_default><br>
+-2 Mana Cost of resurrection per artifact (3/7)

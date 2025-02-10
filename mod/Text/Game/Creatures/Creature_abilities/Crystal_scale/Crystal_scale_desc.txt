@@ -1,0 +1,1 @@
+﻿The creature is immune to Chain Shot and instantly killing abilities such as Cold Death, Harm Touch and Vorpal Blade.

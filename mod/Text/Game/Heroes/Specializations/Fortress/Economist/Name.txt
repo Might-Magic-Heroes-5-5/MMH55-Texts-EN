@@ -1,0 +1,1 @@
+﻿Class: Runemage<br>Specialization: Savant<br><br><body_bright>The hero starts with +1 Knowledge and learns a random primary skill every 6 levels.<br><color_default>Starts with Basic Summoning Magic.
