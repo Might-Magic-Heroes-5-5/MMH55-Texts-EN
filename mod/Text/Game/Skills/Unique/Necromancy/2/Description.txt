@@ -1,1 +1,1 @@
-﻿Adventure Skill: The hero can raise 15% of fallen enemy living creatures as undead, limited by the available amount of dark energy per week.<br><color_default>The base amount of dark energy is 450. The amount of dark energy added by this skill is equal to 2*(hero level-5)^1.4.
+﻿Adventure Skill: The hero can raise 10% of fallen enemy living creatures as undead, limited by the available amount of dark energy per week.<br><color_default>The base amount of dark energy is 450. The amount of dark energy added by this skill is equal to 2*(hero level-5)^1.4.

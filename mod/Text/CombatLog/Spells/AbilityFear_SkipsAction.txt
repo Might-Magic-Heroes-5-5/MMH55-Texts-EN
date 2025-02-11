@@ -1,0 +1,1 @@
+﻿<value=target_color>Fear effect:<body_bright> <value=target> turn delayed by <value=damage>% ATB.

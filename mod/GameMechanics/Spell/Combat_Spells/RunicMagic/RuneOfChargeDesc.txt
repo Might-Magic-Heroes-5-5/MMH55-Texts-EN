@@ -1,0 +1,1 @@
+﻿Creature speed increases by 3 until the end of the turn.

@@ -1,0 +1,1 @@
+﻿Dispels all the negative effects imposed on the creature (only those that can be dispelled basically).

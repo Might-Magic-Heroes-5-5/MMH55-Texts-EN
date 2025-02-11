@@ -1,0 +1,2 @@
+﻿Select screen resolution supported by your video card and monitor (the higher this value, the higher image quality you get, but at the cost of performance).
+This option is not used when game is played in window mode. If the dropdown has empty values, go back to main menu (where you can select "Options") and come here again.

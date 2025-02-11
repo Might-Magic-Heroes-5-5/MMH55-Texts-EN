@@ -1,0 +1,1 @@
+﻿Play the game in full screen mode. If disabled window mode will be used. In window mode the game window can be resized by using the mouse to drag the screen borders.

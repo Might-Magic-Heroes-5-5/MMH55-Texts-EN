@@ -1,4 +1,4 @@
-$directory = "$PSScriptRoot\mod\"
+$directory = "$PSScriptRoot\MMH55-Texts-EN\"
 Write-Output "Processing directory..."
 
 # - UTF-8 is used by this repository so github can show diff during PRs
@@ -13,9 +13,3 @@ Get-ChildItem -Path $directory -Filter "*.txt" -Recurse | ForEach-Object {
 	[System.IO.File]::WriteAllText($inputFile, $content, $encoding)
 }
 Write-Output "Conversion complete!"
- 
-
-## Function to zip all files in the directory and rename to .pak
-$zipFile = "$directory\archive.pak"
-Compress-Archive -Path "$directory\*" -DestinationPath "$directory\archive.zip" -Force
-Rename-Item -Path "$directory\archive.zip" -NewName "archive.pak" -Force

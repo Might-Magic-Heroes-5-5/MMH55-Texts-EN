@@ -1,0 +1,1 @@
+﻿All enemies positioned on adjacent tiles to this creature get their morale reduced by 2 (doesn't affect creatures whose morale is always neutral).
