@@ -1,1 +1,1 @@
-﻿This is a MMH5.5 random map based on template <value=template> created by the Advanced RMG v2.78 with options: <value=mapsize> size, <value=underground>, <value=water>, with <value=monsterstrenght> monsters. The map is for <value=playerscount> players, start seed is <value=startseed>
+﻿This is a MMH5.5 random map based on template <value=template> created by the Advanced RMG v2.79 with options: <value=mapsize> size, <value=underground>, <value=water>, with <value=monsterstrenght> monsters. The map is for <value=playerscount> players, start seed is <value=startseed>

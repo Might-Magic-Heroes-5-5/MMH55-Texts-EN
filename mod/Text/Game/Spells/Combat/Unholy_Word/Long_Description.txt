@@ -1,1 +1,1 @@
-﻿Deals unholy damage to all living creatures on a battlefield except undead, elemental, orcs and infernal creatures. (Dark Elves are not immune)
+﻿Deals unholy damage to all living and elemental creatures on the battlefield except undead, orcs and infernal creatures. (Dark Elves are not immune)

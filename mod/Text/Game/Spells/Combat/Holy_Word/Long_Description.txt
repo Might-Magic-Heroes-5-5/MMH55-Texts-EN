@@ -1,1 +1,1 @@
-﻿Deals holy damage to all undead and infernal creatures on a battlefield. Orcs are also affected due to their demonic blood.
+﻿Deals holy damage to all undead and infernal creatures on the battlefield. Orcs are also affected due to their demonic blood.

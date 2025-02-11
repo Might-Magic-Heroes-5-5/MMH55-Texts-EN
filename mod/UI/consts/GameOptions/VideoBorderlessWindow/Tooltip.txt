@@ -1,1 +1,2 @@
-﻿Removes border from game window in window mode.
+﻿in Window mode: Removes the border but makes resizing unavailable.
+in Fullscreen mode: Will force window mode with the current resolution value of the main monitor.
