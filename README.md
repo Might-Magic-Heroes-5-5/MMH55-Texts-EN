@@ -3,7 +3,7 @@ Official texts repository for MMH55 and the external manual.
 
 To see changes for each release look at the [closed pull requests](https://github.com/Might-Magic-Heroes-5-5/MMH55-Texts-EN/pulls?q=is%3Apr+is%3Aclosed).
 - Mod folder has the texts for the mod.
-- Skillwheel folder has the texts for the manual - english + all others submitted by the mod community.
+- Skillwheel folder has the texts for the manual
 
 # Guides and Links
 - [How to create translation](https://www.moddb.com/mods/might-magic-heroes-55/tutorials/mod-translation-guide).

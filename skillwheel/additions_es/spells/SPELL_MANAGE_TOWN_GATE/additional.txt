@@ -1,1 +1,0 @@
-Remueve cualquier Héroe o unidades de la Guarnición interior o el Héroe Teletransportandose los remplazara.

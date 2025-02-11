@@ -1,2 +1,0 @@
-Daño minimo de Criatura = daño min + (daño max - daño min)*<value=damage>.
-Duración: <value=duration> turnos.

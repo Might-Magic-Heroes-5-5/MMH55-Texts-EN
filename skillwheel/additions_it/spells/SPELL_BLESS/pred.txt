@@ -1,2 +1,0 @@
-Danno minimo dell'unità = danno minimo + (danno massimo - danno minimo)*<value=damage>.
-Durata: <value=duration> turni.

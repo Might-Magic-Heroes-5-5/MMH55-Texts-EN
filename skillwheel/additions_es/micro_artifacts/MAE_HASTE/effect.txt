@@ -1,1 +1,0 @@
-Aumenta Iniciativa de la Criatura en <value>%.

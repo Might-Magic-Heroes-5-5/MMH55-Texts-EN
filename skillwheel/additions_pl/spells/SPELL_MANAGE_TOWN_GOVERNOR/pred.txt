@@ -1,1 +1,0 @@
-Zdobyte doświadczenie gubernatora = (poziom_miasta*10) + (1 + poziom_bohatera/10)*poziom_bohatera^2

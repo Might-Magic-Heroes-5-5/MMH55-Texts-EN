@@ -1,1 +1,0 @@
-Maksymalny poziom tieru: <value=damage>

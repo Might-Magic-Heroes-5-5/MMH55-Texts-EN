@@ -1,3 +1,0 @@
-Salva
-Inserisci il nome di salvataggio
-Nome duplicato. Vuoi sovrascrivere?

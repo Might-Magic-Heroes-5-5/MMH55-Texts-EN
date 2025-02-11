@@ -1,1 +1,0 @@
-Aumenta Moral de la Criatura en <value>.
