@@ -1,1 +1,0 @@
-Livello massimo: <value=damage>

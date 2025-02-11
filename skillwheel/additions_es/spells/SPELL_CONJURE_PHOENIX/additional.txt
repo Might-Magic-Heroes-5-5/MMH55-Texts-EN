@@ -1,1 +1,0 @@
-Vida = 200 + 30*SP + 10*HERO_LVL + 0*KN; Daño Min = 0 + 15*SP + 0*HERO_LVL; Daño Max = 0 + 22*SP + 0*HERO_LVL; Ataque = 10 + 1*SP + 0*HERO_LVL; Defensa = 10 + 1*SP + 0*HERO_LVL; Iniciativa = 14 + 0.05*SP + 0*HERO_LVL; Velocidad = 6 + 0.075*SP + 0*HERO_LVL

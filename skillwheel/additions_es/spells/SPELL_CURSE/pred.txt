@@ -1,2 +1,0 @@
-Daño Maximumo Criatura = daño min + (daño max - daño min)*<value=damage>.
-Duración: <value=duration> turnos.

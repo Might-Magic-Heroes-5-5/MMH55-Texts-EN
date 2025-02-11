@@ -1,6 +1,0 @@
-Formula de Invocación
-Clic Izquierdo/Derecho para aumentar en 1/10. Clic central para reiniciar.
-Clic Izquierdo/Derecho para aumentar en 1. Clic central para reiniciar.
-Nivel de Héroe, Clic Izquierdo/Derecho para aumentar en 1/10. Clic central para reiniciar.
-Cantidad de Cristales Sangre de Dragon
-Nivel Cofradia de Magos

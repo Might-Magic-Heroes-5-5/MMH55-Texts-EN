@@ -1,2 +1,0 @@
-Daño es modificado por <value=enchant>.
-Duración Hechizo: <value=duration> action.

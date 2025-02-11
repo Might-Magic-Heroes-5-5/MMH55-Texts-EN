@@ -1,3 +1,0 @@
-Grupa <value2> stworzeń zostanie przywołana.
-
-Formuła = Pierwiastek(<value3>*<value4>)*(3 + <value5>)/<value6>

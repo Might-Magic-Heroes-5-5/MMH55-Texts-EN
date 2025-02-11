@@ -1,2 +1,0 @@
-La Formula es <koef>*F*(Poder Magico+<flat>)
-F es igual a la Raiz del # Criaturas eliminadas multiplicadas por Nivel. Ejemplo: Paladin es 6 muertes, Angel 7 muertes, Gremlin 1, etc.

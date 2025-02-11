@@ -1,3 +1,0 @@
-Coste Por Ciudad: (Nivel de Ciudad +1)*(3000 Oro + 3 Madera + 3 Mineral + 1 Mercurio + 1 Cristal + 1 Azufre + 1 Gema)
-
-Coste Por Cuartel: (Oro,Madera,Mineral): T1 - 2000, 5, 5; T2 - 4000, 5, 5; T3 - 6000, 5, 5; T4-7 - 8000, 10, 10

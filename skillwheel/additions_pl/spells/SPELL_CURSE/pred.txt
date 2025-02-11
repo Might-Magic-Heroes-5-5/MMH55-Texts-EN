@@ -1,2 +1,0 @@
-Maksymalne obrażenia stworzenia = minimalne obrażenia + (maksymalne obrażenia - minimalne obrażenia)*<value=damage>.
-Czas trwania: <value=duration> tur.

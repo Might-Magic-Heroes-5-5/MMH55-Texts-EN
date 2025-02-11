@@ -1,2 +1,0 @@
-Aumenta la Ira de la Unidad objetivo en 10 por nivel del Héroe.
-Aumenta la Ira de todo el ejercito en 20.

@@ -1,1 +1,0 @@
-Aumenta Ataque de la Criatura en <value>.

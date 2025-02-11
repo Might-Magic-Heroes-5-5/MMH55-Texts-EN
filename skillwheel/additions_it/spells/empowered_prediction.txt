@@ -1,2 +1,0 @@
-,
-Danno potenziato: <value=damage2>
