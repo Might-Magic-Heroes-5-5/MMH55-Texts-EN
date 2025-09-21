@@ -1,0 +1,1 @@
+﻿All friendly creatures located on neighbouring tiles receive less damage from non-magical shooting attacks. The damage reduction is equal to 2% for each unit in the stack but no more than 50%.
