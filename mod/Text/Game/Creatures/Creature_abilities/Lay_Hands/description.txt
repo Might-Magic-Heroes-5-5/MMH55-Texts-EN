@@ -1,0 +1,1 @@
+﻿The creature can completely heal one unit from the target friendly stack and dispel negative effects but not spells.
