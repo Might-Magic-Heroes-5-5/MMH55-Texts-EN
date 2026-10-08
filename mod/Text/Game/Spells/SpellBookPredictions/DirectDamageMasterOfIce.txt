@@ -1,0 +1,1 @@
+﻿Spell Damage: <value=damage>, freezes enemy.
