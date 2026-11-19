@@ -16,6 +16,10 @@
 <credits_body>
 <credits_body>theGryphon
 <credits_body>
+<credits_h2>Campaign rebalance
+<credits_body>
+<credits_body>Sinitar
+<credits_body>
 <credits_h2>Additional Reverse Engineering
 <credits_body>
 <credits_body>Marko aka 'The way back..'

@@ -1,0 +1,1 @@
+﻿You have disconnected from the H5 Lobby server. If you were playing on the Rating Channel, the result statistics of this game will not be sent to the server. After the end of this game you will have to restore your connection to the H5 Lobby server.

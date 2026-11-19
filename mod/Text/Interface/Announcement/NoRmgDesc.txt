@@ -1,0 +1,2 @@
+﻿MMH55_64.exe is not suited for map generation.
+Use MMH55_Utility_64.exe or MMH55_Editor_64.exe to generate a map.

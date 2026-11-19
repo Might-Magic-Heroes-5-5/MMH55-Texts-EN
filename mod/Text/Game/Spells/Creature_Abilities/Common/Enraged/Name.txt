@@ -1,1 +1,0 @@
-﻿Enraged<br><color_default>+1 Attack per allied stack<br>lost in combat

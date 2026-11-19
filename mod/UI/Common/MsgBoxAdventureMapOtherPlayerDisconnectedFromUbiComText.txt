@@ -1,0 +1,1 @@
+﻿<push><value=PlayerName><pop> has disconnected from H5 Lobby. If you were playing on the Rating Channel, the result statistics of this game will not be sent to the server.

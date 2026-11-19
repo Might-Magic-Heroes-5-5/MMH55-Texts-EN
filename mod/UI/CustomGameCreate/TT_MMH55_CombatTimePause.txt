@@ -1,0 +1,1 @@
+﻿<body>Pause the player turn timer while he is in combat.
