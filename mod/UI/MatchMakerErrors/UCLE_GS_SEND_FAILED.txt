@@ -1,0 +1,1 @@
+﻿Operation failed. H5 Lobby service <value=ServiceName> could not be contacted. Check your internet connection. Error code <value=ErrorCode>

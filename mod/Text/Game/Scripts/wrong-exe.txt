@@ -1,0 +1,14 @@
+﻿Hello there!
+
+It looks the game has been launched using the wrong exe file.
+This will cause trouble during play so the game will now quit.
+Please use the exes provided by the mod:
+- MMH55_64.exe - for single player and multiplayer game
+- MMH55_Utility_64.exe - for multiplayer LAN games with AI players
+
+If you want to log Gog/Steam hours, check the installation guide:
+www.moddb.com/mods/might-magic-heroes-55/
+tutorials/mmh55-installation-upgrade
+
+Yours trully,
+The MMH55 team

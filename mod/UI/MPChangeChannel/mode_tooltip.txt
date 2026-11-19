@@ -1,0 +1,1 @@
+﻿Specify a mode for games on H5 Lobby or Local Network
