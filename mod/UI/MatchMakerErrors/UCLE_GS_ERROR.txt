@@ -1,0 +1,2 @@
+﻿Operation failed
+H5 Lobby service <value=ServiceName> returned error <value=ErrorCode>

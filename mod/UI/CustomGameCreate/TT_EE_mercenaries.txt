@@ -1,9 +1,9 @@
-﻿Allows you to adjust how often neutral heroes support neutral stacks. Neutral Heroes will be the same level as the hero. Not recommended for MMH5.5 maps, since neutral resistance is already scaled up.
-
-Normal: Off
-
-Hard: ~25% of stacks
-
-Heroic: ~50% of stacks
-
-Impossible: ~90% of stacks
+﻿Neutral heroes support neutral creature stacks in combat by casting various buff/debuff spells.
+<br><left>
+<color=white>Normal<color_default>: Disabled
+<color=white>Hard<color_default>: 33% chance per battle
+<color=white>Heroic<color_default>: 50% chance per battle
+<color=white>Impossible<color_default>: Every battle
+<br><center>
+Hero match the attacking hero’s level and learn 5 random spells.
+Barbarians instead learn warcries Battle Cry, Call of Blood, and Onslaught.

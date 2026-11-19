@@ -1,0 +1,1 @@
+﻿<body>Unable to connect to H5 Lobby. Error code <value=ErrorCode>

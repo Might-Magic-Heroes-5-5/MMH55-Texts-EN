@@ -1,0 +1,1 @@
+﻿Discard previously imbued spell from hero attack.
